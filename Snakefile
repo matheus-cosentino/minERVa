@@ -7,7 +7,7 @@ configfile: "config.yaml"
 GENOMES = []
 if os.path.exists(config["genomes_list"]):
     with open(config["genomes_list"]) as f:
-        GENOMES = [line.strip() for line in f if line.strip()]
+        GENOMES = [line.strip() for line in f if line.strip() and (line.startswith("GCF_") or line.startswith("GCA_"))]
 
 GBK_DIR = config["gbk_dir"]
 GBKS = [Path(f).stem for f in glob.glob(os.path.join(GBK_DIR, "*.gbk"))]
