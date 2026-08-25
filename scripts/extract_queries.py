@@ -6,6 +6,7 @@ from Bio.SeqRecord import SeqRecord
 def extract_from_gbk(gbk_path, target, out_path):
     records = list(SeqIO.parse(gbk_path, "genbank"))
     out_records = []
+    seen_seqs = set()
     
     for idx, record in enumerate(records):
         if target.lower() == "complete":
@@ -34,9 +35,14 @@ def extract_from_gbk(gbk_path, target, out_path):
                             
             if match:
                 seq = feature.extract(record.seq)
-                new_id = f"{record.id}_{target}_{i}"
-                desc = f"Extracted {target} from {record.id}"
-                out_records.append(SeqRecord(seq, id=new_id, description=desc))
+                seq_str = str(seq)
+                if seq_str not in seen_seqs:
+                    seen_seqs.add(seq_str)
+                    new_id = f"{record.id}_{target}_{i}"
+                    desc = f"Extracted {target} from {record.id}"
+                    out_records.append(SeqRecord(seq, id=new_id, description=desc))
+                else:
+                    print(f"Skipping duplicate sequence for {target} in {record.id}")
                 
     if not out_records:
         # Create an empty file to avoid snakemake complaining if no target found

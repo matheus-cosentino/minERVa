@@ -2,9 +2,22 @@
 .snakemake/
 
 # Outputs do Pipeline
-results/
-#resources/
+results/*
+!results/figures/
+!results/summary_hits.tsv
+!results/summary_hits_21082026.tsv
+
+# Logs e Benchmarks
 logs/
+benchmarks/
+gbk_files/
+resources/
+
+# R / RMarkdown
+analysis/*.html
+analysis/.Rhistory
+analysis/*_cache/
+analysis/*_files/
 
 # Python
 __pycache__/

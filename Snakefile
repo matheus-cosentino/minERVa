@@ -16,10 +16,13 @@ TARGETS = config["targets"]
 rule all:
     input:
         "results/summary_hits.tsv"
+        #expand("results/phylogeny/{genome}_{gbk}_{target}.treefile", genome=GENOMES, gbk=GBKS, target=TARGETS)
 
 rule download_genome:
     output:
         fasta = temp("resources/genomes/{genome}.fna")
+    benchmark:
+        "benchmarks/download_genome/{genome}.txt"
     log:
         "logs/download_genome/{genome}.log"
     conda:
@@ -36,7 +39,9 @@ rule makeblastdb:
     input:
         fasta = "resources/genomes/{genome}.fna"
     output:
-        db_dir = temp(directory("resources/blast_dbs/{genome}"))
+        db_dir = directory("resources/blast_dbs/{genome}")
+    benchmark:
+        "benchmarks/makeblastdb/{genome}.txt"
     log:
         "logs/makeblastdb/{genome}.log"
     conda:
@@ -44,7 +49,7 @@ rule makeblastdb:
     shell:
         """
         mkdir -p {output.db_dir}
-        makeblastdb -in {input.fasta} -dbtype nucl -out {output.db_dir}/{wildcards.genome} -title {wildcards.genome} > {log} 2>&1
+        makeblastdb -in {input.fasta} -dbtype nucl -parse_seqids -out {output.db_dir}/{wildcards.genome} -title {wildcards.genome} > {log} 2>&1
         """
 
 rule extract_queries:
@@ -52,6 +57,8 @@ rule extract_queries:
         gbk = os.path.join(GBK_DIR, "{gbk}.gbk")
     output:
         fasta = "results/queries/{gbk}_{target}.fasta"
+    benchmark:
+        "benchmarks/extract_queries/{gbk}_{target}.txt"
     log:
         "logs/extract_queries/{gbk}_{target}.log"
     conda:
@@ -65,6 +72,8 @@ rule local_blastn:
         db_dir = "resources/blast_dbs/{genome}"
     output:
         tsv = "results/blast/{genome}_{gbk}_{target}.tsv"
+    benchmark:
+        "benchmarks/local_blastn/{genome}_{gbk}_{target}.txt"
     log:
         "logs/blast/{genome}_{gbk}_{target}.log"
     conda:
@@ -96,6 +105,8 @@ rule summarize_hits:
         blasts = expand("results/blast/{genome}_{gbk}_{target}.tsv", genome=GENOMES, gbk=GBKS, target=TARGETS)
     output:
         summary = "results/summary_hits.tsv"
+    benchmark:
+        "benchmarks/summarize_hits.txt"
     log:
         "logs/summarize_hits.log"
     conda:
@@ -104,3 +115,141 @@ rule summarize_hits:
         ltr_range = config["blast_params"]["LTR_range"]
     shell:
         "python scripts/parse_blast.py --blast_files {input.blasts} --out {output.summary} --ltr_range {params.ltr_range} > {log} 2>&1"
+
+rule group_hits:
+    input:
+        blast = "results/blast/{genome}_{gbk}_{target}.tsv"
+    output:
+        loc_ltr = "results/coordinates/{genome}_{gbk}_{target}_loc_LTR.txt",
+        loc_genic = "results/coordinates/{genome}_{gbk}_{target}_loc_genic.txt"
+    benchmark:
+        "benchmarks/group_hits/{genome}_{gbk}_{target}.txt"
+    log:
+        "logs/group_hits/{genome}_{gbk}_{target}.log"
+    conda:
+        "envs/python.yaml"
+    params:
+        context_range = config["blast_params"]["context_range"],
+        ltr_range = config["blast_params"]["LTR_range"]
+    shell:
+        """
+        python scripts/group_hits.py --blast {input.blast} --out_ltr {output.loc_ltr} --out_genic {output.loc_genic} --context_range {params.context_range} --ltr_range {params.ltr_range} > {log} 2>&1
+        """
+
+rule extract_fastas:
+    input:
+        loc_ltr = "results/coordinates/{genome}_{gbk}_{target}_loc_LTR.txt",
+        loc_genic = "results/coordinates/{genome}_{gbk}_{target}_loc_genic.txt",
+        db_dir = "resources/blast_dbs/{genome}"
+    output:
+        fasta_ltr = "results/fasta/{genome}_{gbk}_{target}_regions_LTR.fasta",
+        fasta_genic = "results/fasta/{genome}_{gbk}_{target}_regions_genic.fasta"
+    benchmark:
+        "benchmarks/extract_fastas/{genome}_{gbk}_{target}.txt"
+    log:
+        "logs/extract_fastas/{genome}_{gbk}_{target}.log"
+    conda:
+        "envs/blast.yaml"
+    params:
+        db = "resources/blast_dbs/{genome}/{genome}"
+    shell:
+        """
+        if [ -s {input.loc_ltr} ]; then
+            blastdbcmd -db {params.db} -entry_batch {input.loc_ltr} -out {output.fasta_ltr} -line_length 99999 > {log} 2>&1
+        else
+            touch {output.fasta_ltr}
+        fi
+        
+        if [ -s {input.loc_genic} ]; then
+            blastdbcmd -db {params.db} -entry_batch {input.loc_genic} -out {output.fasta_genic} -line_length 99999 >> {log} 2>&1
+        else
+            touch {output.fasta_genic}
+        fi
+        """
+
+rule delimit_sequences:
+    input:
+        fasta_genic = "results/fasta/{genome}_{gbk}_{target}_regions_genic.fasta"
+    output:
+        fasta_sig_genic = "results/fasta/{genome}_{gbk}_{target}_signature_genic.fasta"
+    benchmark:
+        "benchmarks/delimit_sequences/{genome}_{gbk}_{target}.txt"
+    log:
+        "logs/delimit_sequences/{genome}_{gbk}_{target}.log"
+    conda:
+        "envs/python.yaml"
+    params:
+        ltr_range = config["blast_params"]["LTR_range"]
+    shell:
+        """
+        if [ -s {input.fasta_genic} ]; then
+            python scripts/delimit_sequences.py --input {input.fasta_genic} --output {output.fasta_sig_genic} --ltr_range {params.ltr_range} > {log} 2>&1
+        else
+            touch {output.fasta_sig_genic}
+        fi
+        """
+
+rule align_mafft:
+    input:
+        fasta = "results/fasta/{genome}_{gbk}_{target}_signature_genic.fasta"
+    output:
+        aligned = temp("results/alignments/{genome}_{gbk}_{target}_aln.fasta")
+    benchmark:
+        "benchmarks/align_mafft/{genome}_{gbk}_{target}.txt"
+    log:
+        "logs/align_mafft/{genome}_{gbk}_{target}.log"
+    conda:
+        "envs/phylogeny.yaml"
+    shell:
+        """
+        if [ -s {input.fasta} ] && [ $(grep -c "^>" {input.fasta}) -ge 1 ]; then
+            mafft --auto --thread -1 {input.fasta} > {output.aligned} 2> {log}
+        else
+            touch {output.aligned}
+        fi
+        """
+
+rule add_refs_mafft:
+    input:
+        aligned = "results/alignments/{genome}_{gbk}_{target}_aln.fasta",
+        references = "resources/aln_retroviridae_references.fasta"
+    output:
+        final_aligned = "results/alignments/{genome}_{gbk}_{target}_final_aln.fasta"
+    benchmark:
+        "benchmarks/add_refs_mafft/{genome}_{gbk}_{target}.txt"
+    log:
+        "logs/add_refs_mafft/{genome}_{gbk}_{target}.log"
+    conda:
+        "envs/phylogeny.yaml"
+    shell:
+        """
+        if [ -s {input.aligned} ]; then
+            mafft --thread -1 --add {input.aligned} --keeplength {input.references} > {output.final_aligned} 2> {log}
+        else
+            touch {output.final_aligned}
+        fi
+        """
+
+rule infer_phylogeny:
+    input:
+        alignment = "results/alignments/{genome}_{gbk}_{target}_final_aln.fasta"
+    output:
+        tree = "results/phylogeny/{genome}_{gbk}_{target}.treefile"
+    benchmark:
+        "benchmarks/infer_phylogeny/{genome}_{gbk}_{target}.txt"
+    log:
+        "logs/infer_phylogeny/{genome}_{gbk}_{target}.log"
+    conda:
+        "envs/phylogeny.yaml"
+    params:
+        prefix = "results/phylogeny/{genome}_{gbk}_{target}"
+    shell:
+        """
+        if [ -s {input.alignment} ] && [ $(grep -c "^>" {input.alignment}) -ge 3 ]; then
+            iqtree -s {input.alignment} -m MFP -bb 10000 -alrt 1000 -T AUTO --undo --prefix {params.prefix} > {log} 2>&1
+            # iqtree generates multiple files, snakemake will check for the .treefile
+        else
+            echo "Not enough sequences to build a tree." > {log}
+            touch {output.tree}
+        fi
+        """

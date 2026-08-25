@@ -1,0 +1,151 @@
+mRhiFer1_v1.p	GCA_004115265.3	GCF_004115265.2	Rhinolophus ferrumequinum					MPI-CBG mRhiFer1	female		Chromosome	2019-05-17	RXPC01	134
+mRhiFer1_v1.p	GCF_004115265.2	GCA_004115265.3	Rhinolophus ferrumequinum					MPI-CBG mRhiFer1	male	GCF_004115265.2-RS_2023_02	Chromosome	2019-05-16	RXPC01	134
+mRouAeg1.pri	GCA_014176215.2		Rousettus aegyptiacus					mRouAeg1	male		Chromosome	2025-12-17	JACASE02	27
+HLdesRot8A.1	GCA_022682495.2	GCF_022682495.2	Desmodus rotundus					HL8	male		Chromosome	2022-03-24	JAKFFZ01	573
+HLdesRot8A.1	GCF_022682495.2	GCA_022682495.2	Desmodus rotundus					HL8	male	GCF_022682495.2-RS_2025_02	Chromosome	2022-03-24	JAKFFZ01	573
+ASM4372806v1	GCA_043728065.1		Rhinolophus affinis				China	20211001_DDa	male	GCA_043728065.1-GB_2025_10_23	Chromosome	2024-10-24	JARCLV01	2193
+mMinSch1.hap1.2	GCA_964146895.2	GCF_964146895.1	Miniopterus schreibersii								Chromosome	2025-04-05	CAXLBM02	185
+mMinSch1.hap1.2	GCF_964146895.1	GCA_964146895.2	Miniopterus schreibersii							GCF_964146895.1-RS_2025_12	Chromosome	2025-04-05	CAXLBM02	185
+mMyoMyo1.pri	GCA_014108235.2		Myotis myotis					mMyoMyo1	female		Chromosome	2026-01-22	JABWUV02	50
+DD_mTadBra1_pri	GCA_030848825.1		Tadarida brasiliensis					mTadBra1	male	GCA_030848825.1-GB_2025_08_12	Chromosome	2023-08-22	JAUMIU01	147
+DD_ASM_mEF_20220401	GCA_027574615.1	GCF_027574615.1	Eptesicus fuscus					TK198812	male		Chromosome	2023-01-09	JANZWY01	48
+DD_ASM_mEF_20220401	GCF_027574615.1	GCA_027574615.1	Eptesicus fuscus					TK198812	male	GCF_027574615.1-RS_2023_03	Chromosome	2023-01-09	JANZWY01	48
+ASM3656204v1	GCA_036562045.1	GCF_036562045.2	Rhinolophus sinicus					RSC01	male		Chromosome	2024-06-26	JAYKMD01	454
+ASM3656204v1	GCF_036562045.2	GCA_036562045.1	Rhinolophus sinicus					RSC01	male	GCF_036562045.2-RS_2025_06	Chromosome	2024-06-26	JAYKMD01	454
+mIaxIox2.hap1	GCA_054824925.1		Ia io					mIaxIox2	male		Chromosome	2026-01-29	JBTBFB01	377
+mPipPip2.hap1.2	GCA_965203405.2		Pipistrellus pipistrellus								Chromosome	2025-04-09	CBDBGN02	241
+DD_ASM_mAP_20210503	GCA_027563665.2		Antrozous pallidus					TK200870	male	GCA_027563665-GB_2025_12_03	Chromosome	2026-05-11	JAOAOB02	88
+mPhyDis1.pri.v3	GCA_004126475.3	GCF_004126475.2	Phyllostomus discolor					MPI-MPIP mPhyDis1	male		Chromosome	2020-05-12	RXPA02	77
+mPhyDis1.pri.v3	GCF_004126475.2	GCA_004126475.3	Phyllostomus discolor					MPI-MPIP mPhyDis1	male	NCBI Phyllostomus discolor Annotation Release 101	Chromosome	2020-05-12	RXPA02	77
+ASM5353835v2	GCA_053538355.2		Rousettus leschenaultii					GML-RouLes	male		Chromosome	2026-03-20	JBRKBD02	74
+ASM3001541v1	GCA_030015415.1		Cynopterus sphinx					CYSPWHU	female		Chromosome	2023-05-16	JAKZJJ01	181
+ASM4372783v1	GCA_043727835.1		Aselliscus stoliczkanus				China	2021113_DDA	male	GCA_043727835.1-GB_2025_08_08	Chromosome	2024-10-24	JARPMH01	74
+mMopCon1.pri	GCA_043748645.2		Mops condylurus				Cote d'Ivoire	20210831_DDa	male		Chromosome	2026-05-15	JARPMO02	34
+WHU_Tmel_v1	GCA_044509165.1		Taphozous melanopogon					203096	male		Chromosome	2024-11-06	JBBMOG01	26
+mHipLar1.pri	GCA_031876335.1		Hipposideros larvatus					mHipLar1	female	GCA_031876335.1-GB_2025_10_17	Chromosome	2023-09-25	JAVKSA01	69
+mMyoDau2.hap1.2	GCA_963259705.2		Myotis daubentonii								Chromosome	2025-04-09	CAUJLG02	175
+mMolMol1.pri	GCA_014108415.2		Molossus molossus					mMolMol1	male		Chromosome	2026-01-22	JACASF02	45
+mCorTow1.1.hap2	GCA_026230045.2		Corynorhinus townsendii					COTO_CA2020_CCGP	male		Chromosome	2025-12-17	JAPDVU02	165
+mPipKuh1.pri	GCA_014108245.2		Pipistrellus kuhlii					mPipKuh1	male		Chromosome	2025-12-17	JACAGB02	81
+mMyoDau2.1	GCA_963259705.1	GCF_963259705.1	Myotis daubentonii								Chromosome	2023-08-20	CAUJLG01	121
+mMyoDau2.1	GCF_963259705.1	GCA_963259705.1	Myotis daubentonii							GCF_963259705.1-RS_2023_09	Chromosome	2023-08-20	CAUJLG01	121
+mRhyNas2.hap2	GCA_037038555.1		Rhynchonycteris naso					mRhyNas2	male		Chromosome	2024-03-06	JBAKBJ01	38
+mMyoVel1.0	GCA_056320415.1		Myotis velifer					LE001	male		Chromosome	2026-03-25	JBPVWJ01	156
+mRouMad1.hap2	GCA_059802175.1		Rousettus madagascariensis					mRouMad1	male		Chromosome	2026-08-04	JCASON01	65
+ASM4182541v1	GCA_041825415.1		Rhinolophus rex					M181101	male		Chromosome	2024-09-09	JBGVUD01	149
+mMolNig1.hap1	GCA_039880945.1		Molossus nigricans					mMolNig1	male	GCA_039880945.1-GB_2025_09_03	Chromosome	2024-05-29	JBDPII01	365
+mMolAlv2.hap2	GCA_037176705.1		Molossus alvarezi					mMolAlv2	female		Chromosome	2024-03-15	JBAWUJ01	287
+NENU_Navi_2.0	GCA_036971965.2		Nyctalus aviator					NycAvi_Female_1.0	female		Chromosome	2024-05-31	JAPZQD02	195
+mArtLit1.hap2	GCA_038363175.3		Artibeus lituratus					mArtLit1	male		Chromosome	2025-04-29	JBAWUR03	312
+mLasEga1.hap2	GCA_058972195.1		Lasiurus ega					mLasEga1	male		Chromosome	2026-07-06	JBZXKO01	591
+ASM4488510v2	GCA_044885105.2		Pipistrellus abramus					XJ-2024a	male		Chromosome	2026-01-29	JBINKG02	48
+mPipPyg2.hap1.2	GCA_949987585.2		Pipistrellus pygmaeus								Chromosome	2025-04-09	CATLKC02	327
+mTadTen1.hap1.1	GCA_976988885.1		Tadarida teniotis								Chromosome	2025-11-08	CDRKIM01	640
+mVesMur1.hap1.2	GCA_963924515.2		Vespertilio murinus								Chromosome	2025-04-09	CAWUQJ02	267
+mCenSen1.hap1	GCA_058972505.1		Centurio senex					mCenSen1	female		Chromosome	2026-07-06	JBZXKZ01	811
+mMyoNat1.hap1.2	GCA_964212035.2	GCF_964212035.1	Myotis nattereri								Chromosome	2025-03-28	CAXOTG02	211
+mMyoNat1.hap1.2	GCF_964212035.1	GCA_964212035.2	Myotis nattereri							GCF_964212035.1-RS_2025_08	Chromosome	2025-03-28	CAXOTG02	211
+ASM5586095v1	GCA_055860955.1		Tylonycteris robustula					YYR-2026a			Chromosome	2026-03-13	JBVVKR01	64
+ASM4388054v1	GCA_043880545.1		Rhinopoma microphyllum					20210906_DDa	male	GCA_043880545.1-GB_2025_10_13	Chromosome	2024-10-28	JARUKN01	106
+mMyoMys1.hap1.2	GCA_964094495.3		Myotis mystacinus								Chromosome	2025-10-26	CAXKYI03	240
+ASM4388042v1	GCA_043880425.1		Rhinolophus yonghoiseni				Malaysia	20210929_DDd	female	GCA_043880425.1-GB_2025_11_02	Chromosome	2024-10-28	JARCGW01	1485
+ASM4388059v1	GCA_043880595.1		Megaderma spasma				Vietnam	20211001_DDb	male	GCA_043880595.1-GB_2025_12_03	Chromosome	2024-10-28	JAREJN01	418
+mSacBil1_pri_phased_curated	GCA_036850765.1	GCF_036850765.1	Saccopteryx bilineata					mSacBil1	male		Chromosome	2024-02-26	JAWMAK01	256
+mSacBil1_pri_phased_curated	GCF_036850765.1	GCA_036850765.1	Saccopteryx bilineata					mSacBil1	male	GCF_036850765.1-RS_2024_07	Chromosome	2024-02-26	JAWMAK01	256
+mSacLep1_pri_phased_curated	GCA_036850995.1	GCF_036850995.1	Saccopteryx leptura					mSacLep1	male		Chromosome	2024-02-26	JAVMPD01	167
+mSacLep1_pri_phased_curated	GCF_036850995.1	GCA_036850995.1	Saccopteryx leptura					mSacLep1	male	GCF_036850995.1-RS_2024_07	Chromosome	2024-02-26	JAVMPD01	167
+mPipNat.pri	GCA_963693515.1		Pipistrellus nathusii							Annotation submitted by Leibniz Institute for Zoo and Wildlife Research	Chromosome	2024-02-07	CAVNZX01	153
+ASM4388028v1	GCA_043880285.1		Doryrhina cyclops				Cote d'Ivoire	20210929_DDa	female	GCA_043880285.1-GB_2025_12_03	Chromosome	2024-10-28	JARCLX01	65
+ASM4372814v1	GCA_043728145.1		Rhinolophus trifoliatus				Malaysia		male	GCA_043728145.1-GB_2025_10_26	Chromosome	2024-10-24	JARDWN01	125
+mPleAur1.1	GCA_963455305.1	GCF_963455305.1	Plecotus auritus								Chromosome	2023-09-20	CAUOHF01	64
+mPleAur1.1	GCF_963455305.1	GCA_963455305.1	Plecotus auritus							GCF_963455305.1-RS_2025_08	Chromosome	2023-09-14	CAUOHF01	64
+mRhiHip2.hap1.1	GCA_964194185.1	GCF_964194185.1	Rhinolophus hipposideros								Chromosome	2024-06-28	CAXMLL01	722
+mRhiHip2.hap1.1	GCF_964194185.1	GCA_964194185.1	Rhinolophus hipposideros							GCF_964194185.1-RS_2025_08	Chromosome	2024-06-28	CAXMLL01	722
+ASM4374857v1	GCA_043748575.1		Rhinolophus perniger lanosus					20210929_DDc	male	GCA_043748575.1-GB_2025_11_02	Chromosome	2024-10-24	JARWAW01	65
+mEptNil1.1	GCA_951640355.1	GCF_951640355.1	Cnephaeus nilssonii								Chromosome	2023-05-18	CATOCV01	206
+mEptNil1.1	GCF_951640355.1	GCA_951640355.1	Cnephaeus nilssonii							GCF_951640355.1-RS_2025_09	Chromosome	2023-05-18	CATOCV01	206
+mDerPha1.hap2	GCA_051107595.1		Dermanura phaeotis					mDerPha1	male		Chromosome	2025-06-26	JBPCCN01	102
+mMyoEvo1.0	GCA_056320405.1		Myotis evotis					MEvo1			Chromosome	2026-03-25	JBPVWL01	117
+mMyoVol1.0	GCA_056320705.1		Myotis volans					B2S1-22	male		Chromosome	2026-03-25	JBPVWN01	78
+mMyoCai1.0	GCA_056320955.1		Myotis californicus					W8-MyCa	female		Chromosome	2026-03-25	JBPVWP01	84
+mMyoThy1.0	GCA_056320715.1		Myotis thysanodes					MThy1	male		Chromosome	2026-03-25	JBPVWK01	75
+mMyoOcc1.0	GCA_056320795.1		Myotis occultus					B2S1-25	male		Chromosome	2026-03-25	JBPVWM01	69
+mGarKee1.hap2	GCA_050655445.1		Gardnerycteris keenani					mGarKee1	male		Chromosome	2025-06-02	JBOKGI01	83
+mMyoAui1.0	GCA_056320785.1		Myotis auriculus					B2S1-17	male		Chromosome	2026-03-25	JBPVWO01	136
+mGloMut1.hap1	GCA_039655065.1		Glossophaga mutica					mGloMut1	female	GCA_039655065.1-GB_2025_08_29	Chromosome	2024-05-17	JBCAQL01	81
+mEidDup1.hap2	GCA_059749105.1		Eidolon dupreanum					mEidDup1	female		Chromosome	2026-08-03	JCBABP01	54
+mArtInt1.hap2	GCA_038363225.1		Artibeus intermedius					mArtInt1	male		Chromosome	2024-04-22	JBAWUT01	187
+mRhiCli1.hap1	GCA_054645015.1		Rhinolophus clivosus					mRhiCli1	male		Chromosome	2026-01-22	JBTNEC01	270
+mEumNan1.hap1	GCA_058972175.1		Eumops nanus					mEumNan1	female		Chromosome	2026-07-06	JBZXKL01	158
+mCarSow1.hap1	GCA_051307085.1		Carollia sowelli					mCarSow1	female		Chromosome	2025-07-14	JBOBQR01	508
+mEptFur1.hap2	GCA_054644445.1		Neoeptesicus furinalis					mEptFur1	female		Chromosome	2026-01-22	JBRANB01	86
+mMyoTri1.hap1	GCA_054824995.1		Myotis tricolor					mMyoTri1	male		Chromosome	2026-01-29	JBTBEZ01	188
+mMyoPil1.hap1	GCA_057888715.1		Myotis pilosatibialis					mMyoPil1	female		Chromosome	2026-06-03	JBVAYK01	115
+mMicMic1.hap2	GCA_051107335.1		Micronycteris microtis					mMicMic1	male		Chromosome	2025-06-26	JBPFCS01	158
+mRhiDar1.hap1	GCA_057427945.1		Rhinolophus darlingi					mRhiDar1	male		Chromosome	2026-05-11	JBXXPU01	222
+mMyoNes1.hap2	GCA_054855975.1		Myotis nesopolus					mMyoNes1	male		Chromosome	2026-01-30	JBTVNJ01	150
+mMyoSod1.hap1	GCA_057945255.1		Myotis sodalis					mMyoSod1	male		Chromosome	2026-06-04	JBXADV01	43
+mLopEvo1.hap1	GCA_051307075.1		Lophostoma evote					mLopEvo1	male		Chromosome	2025-07-14	JBOBQC01	311
+mStuPar1.hap2	GCA_054855695.1		Sturnira parvidens					mStuPar1	male		Chromosome	2026-01-30	JBRFIH01	703
+mPlaHel1.hap1	GCA_051107505.1		Platyrrhinus helleri					mPlaHel1	male		Chromosome	2025-06-26	JBPCCK01	364
+mPipHan1.5	GCA_964339955.5	GCF_964339955.1	Pipistrellus hanaki								Chromosome	2025-07-07	CAYEYA05	140
+mPipHan1.5	GCF_964339955.1	GCA_964339955.5	Pipistrellus hanaki							GCF_964339955.1-RS_2025_08	Chromosome	2025-07-07	CAYEYA05	140
+mMyoEma1.hap1.2	GCA_965115925.2		Myotis emarginatus								Chromosome	2025-04-14	CBCPEJ02	305
+mPteRuf1.hap2	GCA_056363655.1		Pteropus rufus					mPteRuf1	female		Chromosome	2026-03-27	JBWDIR01	91
+mEptChi1.hap1	GCA_054100705.1		Neoeptesicus chiriquinus					mEptChi1	male		Chromosome	2025-12-18	JBSIDG01	132
+mRhiBla1.hap2	GCA_057428315.1		Rhinolophus blasii					mRhiBla1	male		Chromosome	2026-05-11	JBXXPX01	150
+mRhiCys1.hap1	GCA_055761895.1		Rhinopoma cystops					mRhiCys1	male		Chromosome	2026-03-10	JBVQSX01	479
+mNycLei1.hap1.2	GCA_964264875.2		Nyctalus leisleri								Chromosome	2025-04-03	CAXWAE02	584
+WHU_Pdav_v1	GCA_058219175.1		Pteronotus davyi					M-278415	female		Chromosome	2026-06-16	JBBMOH01	209
+mMyoLuc1.0	GCA_048340685.1		Myotis lucifugus carissima					MYLU1	female		Chromosome	2025-03-05	JAVIYB01	258
+HLdesRot8B.1	GCA_022682395.2		Desmodus rotundus					HL8	male		Chromosome	2022-03-24	JAKFGA01	429
+ASM4005753v1	GCA_040057535.1		Rhinolophus affinis								Chromosome	2024-06-04	JAUKPG01	60
+RSI-T2T	GCA_057876585.1		Rhinolophus sinicus					RSI-liver-muscle	female		Chromosome	2026-06-03	JBYRDP01	22
+mPteMes1.pri	GCA_056363955.1		Pteronotus mesoamericanus					mPteMes1	male		Chromosome	2026-03-27	JBWEFK01	27
+mIaxIox2.hap2	GCA_054824975.1		Ia io					mIaxIox2	male		Chromosome	2026-01-29	JBTBFC01	196
+mPipPip1.1	GCA_903992545.1		Pipistrellus pipistrellus								Chromosome	2020-08-06	CAJEUD01	322
+ASM3396157v1	GCA_033961575.1		Aselliscus stoliczkanus					M181119	male		Chromosome	2023-11-28	JAWWOG01	191
+mMyoDau2.hap2.2	GCA_963242275.2		Myotis daubentonii								Chromosome	2025-04-09	CAUJLF02	208
+mMinNat1.hap2	GCA_054644305.1		Miniopterus natalensis					mMinNat1	female		Chromosome	2026-01-22	JBSYVD01	99
+mMinNat1.hap1	GCA_054644295.1		Miniopterus natalensis					mMinNat1	female		Chromosome	2026-01-22	JBSYVC01	135
+mCorTow1.1.hap1	GCA_026230055.2		Corynorhinus townsendii					COTO_CA2020_CCGP	male	GCA_026230055.2-GB_2026_01_12	Chromosome	2025-12-17	JAPDVT02	380
+ASM4372795v1	GCA_043727955.1		Hipposideros larvatus				China	20210929_DDb	male		Chromosome	2024-10-24	JARCLT01	249
+mRouMad1.hap1	GCA_059802055.1		Rousettus madagascariensis					mRouMad1	male		Chromosome	2026-08-04	JCASOM01	77
+mRhyNas2.hap1	GCA_037038545.1		Rhynchonycteris naso					mRhyNas2	male	GCA_037038545.1-GB_2025_12_01	Chromosome	2024-03-06	JBAKBI01	40
+mMolNig1.hap2	GCA_039880925.1		Molossus nigricans					mMolNig1	male		Chromosome	2024-05-29	JBDPIJ01	282
+mArtLit1.hap1	GCA_038363095.4		Artibeus lituratus					mArtLit1	male	GCA_038363095.4-GB_2026_04_09	Chromosome	2025-05-01	JBAWUQ03	486
+mMolAlv2.hap1	GCA_037157525.1		Molossus alvarezi					mMolAlv2	female	GCA_037157525.1-GB_2025_08_26	Chromosome	2024-03-15	JBAWUI01	325
+mTadTen1.hap2.1	GCA_976988855.1		Tadarida teniotis								Chromosome	2025-10-10	CDRKIN01	370
+mLasEga1.hap1	GCA_058971415.1		Lasiurus ega					mLasEga1	male		Chromosome	2026-07-06	JBZXKN01	834
+mRhiHip2.hap2.2	GCA_964194215.2		Rhinolophus hipposideros								Chromosome	2025-04-12	CAXMLM02	980
+mCenSen1.hap2	GCA_058972435.1		Centurio senex					mCenSen1	female		Chromosome	2026-07-06	JBZXLA01	654
+mPipNat1.hap1.2	GCA_964656225.2		Pipistrellus nathusii								Chromosome	2025-05-07	CAZZRB02	396
+mPipNat.alt	GCA_963693525.1		Pipistrellus nathusii								Chromosome	2024-02-07	CAVNZY01	155
+mMyoMys1.hap2.1	GCA_964195625.1		Myotis mystacinus								Chromosome	2024-06-30	CAXMUD01	327
+Rousettus_madagascariensis_HiC	GCA_028533395.1		Rousettus madagascariensis					Sample2083			Chromosome	2023-02-09	JAPYYH01	1467186
+Trachops_cirrhosus_HiC	GCA_028533065.1		Trachops cirrhosus					AMNH-AMCC-225240	male		Chromosome	2023-02-09	JAPYXV01	396519
+mCarSow1.hap2	GCA_051307135.1		Carollia sowelli					mCarSow1	female		Chromosome	2025-07-14	JBOBQS01	272
+mGloMut1.hap2	GCA_039656995.1		Glossophaga mutica					mGloMut1	male		Chromosome	2024-05-17	JBCAQM01	71
+mRhiDar1.hap2	GCA_057428265.1		Rhinolophus darlingi					mRhiDar1	male		Chromosome	2026-05-11	JBXXPV01	822
+mRhiCli1.hap2	GCA_054645025.1		Rhinolophus clivosus					mRhiCli1	male		Chromosome	2026-01-22	JBTNED01	219
+mMyoSod1.hap2	GCA_057945245.1		Myotis sodalis					mMyoSod1	male		Chromosome	2026-06-04	JBXADW01	43
+mEumNan1.hap2	GCA_058971805.1		Eumops nanus					mEumNan1	female		Chromosome	2026-07-06	JBZXKM01	114
+mLopEvo1.hap2	GCA_051307065.1		Lophostoma evote					mLopEvo1	male		Chromosome	2025-07-14	JBOBQD01	148
+mArtInt1.hap1	GCA_038363145.1		Artibeus intermedius					mArtInt1	male	GCA_038363145.1-GB_2025_08_26	Chromosome	2024-04-22	JBAWUS01	419
+mMicMic1.hap1	GCA_051107205.1		Micronycteris microtis					mMicMic1	male		Chromosome	2025-06-26	JBPFCR01	189
+mGarKee1.hap1	GCA_050655435.1		Gardnerycteris keenani					mGarKee1	male		Chromosome	2025-06-02	JBOKGH01	187
+mDerPha1.hap1	GCA_051107565.1		Dermanura phaeotis					mDerPha1	male		Chromosome	2025-06-26	JBPCCM01	105
+mEptFur1.hap1	GCA_054644455.1		Neoeptesicus furinalis					mEptFur1	female		Chromosome	2026-01-22	JBRANA01	127
+mMyoTri1.hap2	GCA_054825045.1		Myotis tricolor					mMyoTri1	male		Chromosome	2026-01-29	JBTBFA01	118
+mMyoPil1.hap2	GCA_057888765.1		Myotis pilosatibialis					mMyoPil1	female		Chromosome	2026-06-03	JBVAYL01	94
+mEidDup1.hap1	GCA_059749095.1		Eidolon dupreanum					mEidDup1	female		Chromosome	2026-08-03	JCBABO01	80
+mEptChi1.hap2	GCA_054099605.1		Neoeptesicus chiriquinus					mEptChi1	male		Chromosome	2025-12-18	JBSIDH01	112
+mPteRuf1.hap1	GCA_056363885.1		Pteropus rufus					mPteRuf1	female		Chromosome	2026-03-27	JBWDIQ01	148
+mMyoNes1.hap1	GCA_054855985.1		Myotis nesopolus					mMyoNes1	male		Chromosome	2026-01-30	JBTVNI01	192
+mStuPar1.hap1	GCA_054855685.1		Sturnira parvidens					mStuPar1	male		Chromosome	2026-01-30	JBRFIG01	947
+mPlaHel1.hap2	GCA_051107545.1		Platyrrhinus helleri					mPlaHel1	male		Chromosome	2025-06-26	JBPCCL01	265
+mRhiBla1.hap1	GCA_057428245.1		Rhinolophus blasii					mRhiBla1	male		Chromosome	2026-05-11	JBXXPW01	196
+mMyoEma1.hap2.2	GCA_965115945.2		Myotis emarginatus								Chromosome	2025-04-14	CBCPEK02	418
+mRhiCys1.hap2	GCA_055761905.1		Rhinopoma cystops					mRhiCys1	male		Chromosome	2026-03-10	JBVQSY01	424
+Pteropus_rufus_HiC	GCA_028533765.1		Pteropus rufus					Sample2081			Chromosome	2023-02-10	JAPYYI01	469091
+Eidolon_dupreanum_HiC	GCA_028627145.1		Eidolon dupreanum					Sample2082			Chromosome	2023-02-16	JAQQSQ01	1191098

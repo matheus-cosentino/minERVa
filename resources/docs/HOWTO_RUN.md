@@ -21,18 +21,13 @@ Antes de rodar, verifique e atualize os parâmetros no arquivo `config.yaml`.
 Na configuração atual, o minERVa otimiza recursos e evita sobrecargas:
 - **Download Local:** O pipeline baixa automaticamente cada genoma usando a ferramenta oficial `ncbi-datasets-cli`.
 - **Tolerância a Falhas:** Caso a conexão com a API do NCBI sofra quedas intermitentes, o sistema realiza até 3 tentativas automáticas de download (`retries: 3`).
-- **Economia de Disco:** Os arquivos FASTA dos genomas e os diretórios do banco BLAST são gerados apenas pelo tempo necessário (`temp()`). Eles são automaticamente apagados assim que todas as buscas contra o genoma correspondente finalizam.
+- **Economia de Disco:** Os arquivos FASTA dos genomas são gerados apenas pelo tempo necessário (`temp()`). Eles são automaticamente apagados assim que todas as buscas contra o genoma correspondente finalizam.
 
 ## Rodando no SLURM
 Para submeter o fluxo completo em um cluster SLURM de maneira automatizada, onde o Snakemake irá gerenciar as dependências e despachar as regras (`download_genome`, `makeblastdb`, `local_blastn`, etc) como *jobs* individuais:
 
 ```bash
 snakemake --use-conda --executor slurm --jobs 50
-```
-
-Se o seu servidor exigir parâmetros específicos como conta ou partição:
-```bash
-snakemake --use-conda --executor slurm --default-resources slurm_account=SUA_CONTA slurm_partition=SUA_PARTICAO --jobs 50
 ```
 
 > **Dica:** O uso da flag `--rerun-incomplete` é sempre recomendado para descartar execuções anteriores que possam ter sido interrompidas de forma abrupta:

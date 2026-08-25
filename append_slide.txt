@@ -1,0 +1,33 @@
+
+## Variação de Inserções: DrERV vs SMRV {.smaller}
+
+```{r scatter_variacao, echo=FALSE, fig.width=9, fig.height=5.5, out.width="95%", message=FALSE, warning=FALSE}
+library(tibble)
+
+# Juntar a matriz de hits com os metadados
+dados_variacao <- matriz_hits %>%
+  rownames_to_column("especie") %>%
+  left_join(metadados %>% rownames_to_column("especie"), by="especie")
+
+# Garantir que as colunas existam
+if(!"DrERV" %in% colnames(dados_variacao)) dados_variacao$DrERV <- 0
+if(!"SMRV" %in% colnames(dados_variacao)) dados_variacao$SMRV <- 0
+
+# Gráfico de Dispersão (Scatterplot)
+p_var <- ggplot(dados_variacao, aes(x = DrERV, y = SMRV, color = genero)) +
+  geom_point(size = 4, alpha = 0.8) +
+  geom_text(aes(label = stringr::word(especie, 2)), vjust = 1.8, size = 3.5, show.legend = FALSE) +
+  theme_minimal() +
+  labs(
+    title = "Dispersão do Perfil Retroviral por Espécie",
+    subtitle = "Variação Multivariada (Visualização do PERMANOVA)",
+    x = "Quantidade de Inserções (DrERV)",
+    y = "Quantidade de Inserções (SMRV)",
+    color = "Gênero"
+  )
+
+# Salvar como PNG no diretório atual
+ggsave("scatter_variacao.png", plot = p_var, width = 9, height = 5.5, dpi = 300)
+
+print(p_var)
+```

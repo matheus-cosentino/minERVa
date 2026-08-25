@@ -2,7 +2,7 @@ name: datasets
 channels:
   - conda-forge
   - bioconda
-  - defaults
+  - nodefaults
 dependencies:
   - ncbi-datasets-cli
   - unzip

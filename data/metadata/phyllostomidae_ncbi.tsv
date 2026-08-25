@@ -1,0 +1,51 @@
+Assembly Name	Assembly Accession	Assembly Paired Assembly Accession	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Ecotype	Organism Infraspecific Names Isolate	Organism Infraspecific Names Sex	Annotation Name	Assembly Level	Assembly Release Date	WGS project accession	Assembly Stats Number of Scaffolds
+HLdesRot8A.1	GCA_022682495.2	GCF_022682495.2	Desmodus rotundus					HL8	male		Chromosome	2022-03-24	JAKFFZ01	573
+HLdesRot8A.1	GCF_022682495.2	GCA_022682495.2	Desmodus rotundus					HL8	male	GCF_022682495.2-RS_2025_02	Chromosome	2022-03-24	JAKFFZ01	573
+mPhyDis1.pri.v3	GCA_004126475.3	GCF_004126475.2	Phyllostomus discolor					MPI-MPIP mPhyDis1	male		Chromosome	2020-05-12	RXPA02	77
+mPhyDis1.pri.v3	GCF_004126475.2	GCA_004126475.3	Phyllostomus discolor					MPI-MPIP mPhyDis1	male	NCBI Phyllostomus discolor Annotation Release 101	Chromosome	2020-05-12	RXPA02	77
+mArtLit1.hap2	GCA_038363175.3		Artibeus lituratus					mArtLit1	male		Chromosome	2025-04-29	JBAWUR03	312
+mCenSen1.hap1	GCA_058972505.1		Centurio senex					mCenSen1	female		Chromosome	2026-07-06	JBZXKZ01	811
+mDerPha1.hap2	GCA_051107595.1		Dermanura phaeotis					mDerPha1	male		Chromosome	2025-06-26	JBPCCN01	102
+mGarKee1.hap2	GCA_050655445.1		Gardnerycteris keenani					mGarKee1	male		Chromosome	2025-06-02	JBOKGI01	83
+mGloMut1.hap1	GCA_039655065.1		Glossophaga mutica					mGloMut1	female	GCA_039655065.1-GB_2025_08_29	Chromosome	2024-05-17	JBCAQL01	81
+mArtInt1.hap2	GCA_038363225.1		Artibeus intermedius					mArtInt1	male		Chromosome	2024-04-22	JBAWUT01	187
+mCarSow1.hap1	GCA_051307085.1		Carollia sowelli					mCarSow1	female		Chromosome	2025-07-14	JBOBQR01	508
+mMicMic1.hap2	GCA_051107335.1		Micronycteris microtis					mMicMic1	male		Chromosome	2025-06-26	JBPFCS01	158
+mLopEvo1.hap1	GCA_051307075.1		Lophostoma evote					mLopEvo1	male		Chromosome	2025-07-14	JBOBQC01	311
+mStuPar1.hap2	GCA_054855695.1		Sturnira parvidens					mStuPar1	male		Chromosome	2026-01-30	JBRFIH01	703
+mPlaHel1.hap1	GCA_051107505.1		Platyrrhinus helleri					mPlaHel1	male		Chromosome	2025-06-26	JBPCCK01	364
+CSHL_Jam_final	GCA_021234435.1	GCF_021234435.1	Artibeus jamaicensis	Jamaican fruit bat				MK-2021	male		Scaffold	2021-12-20	JAIVGF01	867
+CSHL_Jam_final	GCF_021234435.1	GCA_021234435.1	Artibeus jamaicensis	Jamaican fruit bat				MK-2021	male	GCF_021234435.1-RS_2023_03	Scaffold	2021-12-20	JAIVGF01	867
+TTU_PhHast_1.1	GCA_019186645.2	GCF_019186645.2	Phyllostomus hastatus					PE091	male		Scaffold	2021-07-09	JAHKBD01	534
+TTU_PhHast_1.1	GCF_019186645.2	GCA_019186645.2	Phyllostomus hastatus					PE091	male	NCBI Phyllostomus hastatus Annotation Release 100	Scaffold	2021-07-09	JAHKBD01	534
+mCarPer1.2	GCA_056371365.1		Carollia perspicillata				Costa Rica	EVL-2025			Scaffold	2026-03-27	JBOCUP01	28
+MacCal_v1_BIUU	GCA_007922815.1		Macrotus californicus					US035			Scaffold	2019-08-08	VMDR01	1125430
+ASM1482457v3	GCA_014824575.3	GCF_014824575.4	Sturnira hondurensis				Veracruz	20B			Scaffold	2022-12-28	VSFL02	25881
+ASM1482457v3	GCF_014824575.4	GCA_014824575.3	Sturnira hondurensis				Veracruz	20B		GCF_014824575.4-RS_2026_04	Scaffold	2022-12-28	VSFL02	25881
+WHU_Tcir_v1	GCA_051314375.1		Trachops cirrhosus					M-277702	female		Scaffold	2025-07-14	JBCDWB01	9373
+WHU_Vspe_v1	GCA_051314355.1		Vampyrum spectrum					M-267446	female		Scaffold	2025-07-14	JBCDWC01	21127
+AnoCau_v1_BIUU	GCA_004027475.1		Anoura caudifer					US021			Scaffold	2019-01-16	PVKU01	337255
+MicHir_v1_BIUU	GCA_004026765.1		Micronycteris hirsuta					US037			Scaffold	2019-01-16	PVJI01	550090
+TonSau_v1_BIUU	GCA_004024845.1		Tonatia bakeri					US038			Scaffold	2019-01-15	PVIA01	249810
+HLdesRot8B.1	GCA_022682395.2		Desmodus rotundus					HL8	male		Chromosome	2022-03-24	JAKFGA01	429
+mArtLit1.hap1	GCA_038363095.4		Artibeus lituratus					mArtLit1	male	GCA_038363095.4-GB_2026_04_09	Chromosome	2025-05-01	JBAWUQ03	486
+mCenSen1.hap2	GCA_058972435.1		Centurio senex					mCenSen1	female		Chromosome	2026-07-06	JBZXLA01	654
+Trachops_cirrhosus_HiC	GCA_028533065.1		Trachops cirrhosus					AMNH-AMCC-225240	male		Chromosome	2023-02-09	JAPYXV01	396519
+mCarSow1.hap2	GCA_051307135.1		Carollia sowelli					mCarSow1	female		Chromosome	2025-07-14	JBOBQS01	272
+mGloMut1.hap2	GCA_039656995.1		Glossophaga mutica					mGloMut1	male		Chromosome	2024-05-17	JBCAQM01	71
+mLopEvo1.hap2	GCA_051307065.1		Lophostoma evote					mLopEvo1	male		Chromosome	2025-07-14	JBOBQD01	148
+mArtInt1.hap1	GCA_038363145.1		Artibeus intermedius					mArtInt1	male	GCA_038363145.1-GB_2025_08_26	Chromosome	2024-04-22	JBAWUS01	419
+mMicMic1.hap1	GCA_051107205.1		Micronycteris microtis					mMicMic1	male		Chromosome	2025-06-26	JBPFCR01	189
+mGarKee1.hap1	GCA_050655435.1		Gardnerycteris keenani					mGarKee1	male		Chromosome	2025-06-02	JBOKGH01	187
+mDerPha1.hap1	GCA_051107565.1		Dermanura phaeotis					mDerPha1	male		Chromosome	2025-06-26	JBPCCM01	105
+mStuPar1.hap1	GCA_054855685.1		Sturnira parvidens					mStuPar1	male		Chromosome	2026-01-30	JBRFIG01	947
+mPlaHel1.hap2	GCA_051107545.1		Platyrrhinus helleri					mPlaHel1	male		Chromosome	2025-06-26	JBPCCL01	265
+ASM5793000v1	GCA_057930005.1		Artibeus jamaicensis					AJK6	male		Contig	2026-06-04	JBTHUK01	201
+ArtJam_v1_BIUU	GCA_004027435.1		Artibeus jamaicensis					US092			Scaffold	2019-01-16	PVKR01	794376
+MPI-CBG_DAmar_mPhyDis1.p_v1.0	GCA_014049915.1		Phyllostomus discolor					Bat1K_MPI-CBG_1	male	Annotation submitted by Bat1K	Scaffold	2021-03-31	JABVXQ01	41
+mPhyDis1.alti.v3	GCA_004115245.2		Phyllostomus discolor					MPI-MPIP mPhyDis1	male		Scaffold	2020-05-11	RXPB02	10857
+CarPer_v1_BIUU	GCA_004027735.1		Carollia perspicillata					US073			Scaffold	2019-01-16	PVKM01	1925339
+WHU_Ajam_v2	GCA_014825515.1	GCF_014825515.1	Artibeus jamaicensis					1a	female		Scaffold	2020-09-30	VSFN01	56739
+WHU_Ajam_v2	GCF_014825515.1	GCA_014825515.1	Artibeus jamaicensis					1a	female	NCBI Artibeus jamaicensis Annotation Release 100	Scaffold	2020-09-30	VSFN01	56739
+ASM294091v3	GCA_002940915.3	GCF_002940915.2	Desmodus rotundus					DRU21DN04	male		Scaffold	2018-02-23	PEHR01	29117
+ASM294091v3	GCF_002940915.2	GCA_002940915.3	Desmodus rotundus					DRU21DN04	male	NCBI Desmodus rotundus Annotation Release 101	Scaffold	2018-02-23	PEHR01	29117
