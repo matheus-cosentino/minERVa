@@ -28,6 +28,7 @@ rule download_genome:
     conda:
         "envs/datasets.yaml"
     retries: 3
+    threads: 1
     shell:
         """
         datasets download genome accession {wildcards.genome} --include genome --filename resources/genomes/{wildcards.genome}.zip > {log} 2>&1
@@ -46,6 +47,7 @@ rule makeblastdb:
         "execution_reports/logs/makeblastdb/{genome}.log"
     conda:
         "envs/blast.yaml"
+    threads: 1
     shell:
         """
         mkdir -p {output.db_dir}
@@ -63,6 +65,7 @@ rule extract_queries:
         "execution_reports/logs/extract_queries/{gbk}_{target}.log"
     conda:
         "envs/python.yaml"
+    threads: 1
     shell:
         "python workflow/scripts/extract_queries.py --gbk {input.gbk} --target {wildcards.target} --out {output.fasta} > {log} 2>&1"
 
@@ -78,6 +81,7 @@ rule local_blastn:
         "execution_reports/logs/blast/{genome}_{gbk}_{target}.log"
     conda:
         "envs/blast.yaml"
+    threads: 4
     params:
         db = "resources/blast_dbs/{genome}/{genome}",
         hspcov = config["blast_params"]["hspcoverage"],
@@ -96,6 +100,7 @@ rule local_blastn:
                    -out {output.tsv} \\
                    -outfmt "6 qseqid sseqid sstart send sstrand pident qcovs" \\
                    -qcov_hsp_perc {params.hspcov} \\
+                   -num_threads {threads} \\
                    -evalue {params.evalue} >> {log} 2>&1 || touch {output.tsv}
         fi
         """
@@ -111,6 +116,7 @@ rule summarize_hits:
         "execution_reports/logs/summarize_hits.log"
     conda:
         "envs/python.yaml"
+    threads: 1
     params:
         ltr_range = config["blast_params"]["LTR_range"]
     shell:
@@ -128,6 +134,7 @@ rule group_hits:
         "execution_reports/logs/group_hits/{genome}_{gbk}_{target}.log"
     conda:
         "envs/python.yaml"
+    threads: 1
     params:
         context_range = config["blast_params"]["context_range"],
         ltr_range = config["blast_params"]["LTR_range"]
@@ -150,6 +157,7 @@ rule extract_fastas:
         "execution_reports/logs/extract_fastas/{genome}_{gbk}_{target}.log"
     conda:
         "envs/blast.yaml"
+    threads: 1
     params:
         db = "resources/blast_dbs/{genome}/{genome}"
     shell:
@@ -178,6 +186,7 @@ rule delimit_sequences:
         "execution_reports/logs/delimit_sequences/{genome}_{gbk}_{target}.log"
     conda:
         "envs/python.yaml"
+    threads: 1
     params:
         ltr_range = config["blast_params"]["LTR_range"]
     shell:
@@ -200,10 +209,11 @@ rule align_mafft:
         "execution_reports/logs/align_mafft/{genome}_{gbk}_{target}.log"
     conda:
         "envs/phylogeny.yaml"
+    threads: 4
     shell:
         """
         if [ -s {input.fasta} ] && [ $(grep -c "^>" {input.fasta}) -ge 1 ]; then
-            mafft --auto --thread -1 {input.fasta} > {output.aligned} 2> {log}
+            mafft --auto --thread {threads} {input.fasta} > {output.aligned} 2> {log}
         else
             touch {output.aligned}
         fi
@@ -221,10 +231,11 @@ rule add_refs_mafft:
         "execution_reports/logs/add_refs_mafft/{genome}_{gbk}_{target}.log"
     conda:
         "envs/phylogeny.yaml"
+    threads: 4
     shell:
         """
         if [ -s {input.aligned} ]; then
-            mafft --thread -1 --add {input.aligned} --keeplength {input.references} > {output.final_aligned} 2> {log}
+            mafft --thread {threads} --add {input.aligned} --keeplength {input.references} > {output.final_aligned} 2> {log}
         else
             touch {output.final_aligned}
         fi
@@ -241,12 +252,13 @@ rule infer_phylogeny:
         "execution_reports/logs/infer_phylogeny/{genome}_{gbk}_{target}.log"
     conda:
         "envs/phylogeny.yaml"
+    threads: 4
     params:
         prefix = "results/phylogeny/{genome}_{gbk}_{target}"
     shell:
         """
         if [ -s {input.alignment} ] && [ $(grep -c "^>" {input.alignment}) -ge 3 ]; then
-            iqtree -s {input.alignment} -m MFP -bb 10000 -alrt 1000 -T GTR+F+G4 --undo --prefix {params.prefix} > {log} 2>&1
+            iqtree -s {input.alignment} -m MFP -bb 10000 -alrt 1000 -T {threads} --undo --prefix {params.prefix} > {log} 2>&1
             # iqtree generates multiple files, snakemake will check for the .treefile
         else
             echo "Not enough sequences to build a tree." > {log}
