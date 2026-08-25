@@ -2,7 +2,7 @@ import os
 import glob
 from pathlib import Path
 
-configfile: "config.yaml"
+configfile: "config/config.yaml"
 
 GENOMES = []
 if os.path.exists(config["genomes_list"]):
@@ -22,9 +22,9 @@ rule download_genome:
     output:
         fasta = temp("resources/genomes/{genome}.fna")
     benchmark:
-        "benchmarks/download_genome/{genome}.txt"
+        "execution_reports/benchmarks/download_genome/{genome}.txt"
     log:
-        "logs/download_genome/{genome}.log"
+        "execution_reports/logs/download_genome/{genome}.log"
     conda:
         "envs/datasets.yaml"
     retries: 3
@@ -41,9 +41,9 @@ rule makeblastdb:
     output:
         db_dir = directory("resources/blast_dbs/{genome}")
     benchmark:
-        "benchmarks/makeblastdb/{genome}.txt"
+        "execution_reports/benchmarks/makeblastdb/{genome}.txt"
     log:
-        "logs/makeblastdb/{genome}.log"
+        "execution_reports/logs/makeblastdb/{genome}.log"
     conda:
         "envs/blast.yaml"
     shell:
@@ -58,13 +58,13 @@ rule extract_queries:
     output:
         fasta = "results/queries/{gbk}_{target}.fasta"
     benchmark:
-        "benchmarks/extract_queries/{gbk}_{target}.txt"
+        "execution_reports/benchmarks/extract_queries/{gbk}_{target}.txt"
     log:
-        "logs/extract_queries/{gbk}_{target}.log"
+        "execution_reports/logs/extract_queries/{gbk}_{target}.log"
     conda:
         "envs/python.yaml"
     shell:
-        "python scripts/extract_queries.py --gbk {input.gbk} --target {wildcards.target} --out {output.fasta} > {log} 2>&1"
+        "python workflow/scripts/extract_queries.py --gbk {input.gbk} --target {wildcards.target} --out {output.fasta} > {log} 2>&1"
 
 rule local_blastn:
     input:
@@ -73,9 +73,9 @@ rule local_blastn:
     output:
         tsv = "results/blast/{genome}_{gbk}_{target}.tsv"
     benchmark:
-        "benchmarks/local_blastn/{genome}_{gbk}_{target}.txt"
+        "execution_reports/benchmarks/local_blastn/{genome}_{gbk}_{target}.txt"
     log:
-        "logs/blast/{genome}_{gbk}_{target}.log"
+        "execution_reports/logs/blast/{genome}_{gbk}_{target}.log"
     conda:
         "envs/blast.yaml"
     params:
@@ -106,15 +106,15 @@ rule summarize_hits:
     output:
         summary = "results/summary_hits.tsv"
     benchmark:
-        "benchmarks/summarize_hits.txt"
+        "execution_reports/benchmarks/summarize_hits.txt"
     log:
-        "logs/summarize_hits.log"
+        "execution_reports/logs/summarize_hits.log"
     conda:
         "envs/python.yaml"
     params:
         ltr_range = config["blast_params"]["LTR_range"]
     shell:
-        "python scripts/parse_blast.py --blast_files {input.blasts} --out {output.summary} --ltr_range {params.ltr_range} > {log} 2>&1"
+        "python workflow/scripts/parse_blast.py --blast_files {input.blasts} --out {output.summary} --ltr_range {params.ltr_range} > {log} 2>&1"
 
 rule group_hits:
     input:
@@ -123,9 +123,9 @@ rule group_hits:
         loc_ltr = "results/coordinates/{genome}_{gbk}_{target}_loc_LTR.txt",
         loc_genic = "results/coordinates/{genome}_{gbk}_{target}_loc_genic.txt"
     benchmark:
-        "benchmarks/group_hits/{genome}_{gbk}_{target}.txt"
+        "execution_reports/benchmarks/group_hits/{genome}_{gbk}_{target}.txt"
     log:
-        "logs/group_hits/{genome}_{gbk}_{target}.log"
+        "execution_reports/logs/group_hits/{genome}_{gbk}_{target}.log"
     conda:
         "envs/python.yaml"
     params:
@@ -133,7 +133,7 @@ rule group_hits:
         ltr_range = config["blast_params"]["LTR_range"]
     shell:
         """
-        python scripts/group_hits.py --blast {input.blast} --out_ltr {output.loc_ltr} --out_genic {output.loc_genic} --context_range {params.context_range} --ltr_range {params.ltr_range} > {log} 2>&1
+        python workflow/scripts/group_hits.py --blast {input.blast} --out_ltr {output.loc_ltr} --out_genic {output.loc_genic} --context_range {params.context_range} --ltr_range {params.ltr_range} > {log} 2>&1
         """
 
 rule extract_fastas:
@@ -145,9 +145,9 @@ rule extract_fastas:
         fasta_ltr = "results/fasta/{genome}_{gbk}_{target}_regions_LTR.fasta",
         fasta_genic = "results/fasta/{genome}_{gbk}_{target}_regions_genic.fasta"
     benchmark:
-        "benchmarks/extract_fastas/{genome}_{gbk}_{target}.txt"
+        "execution_reports/benchmarks/extract_fastas/{genome}_{gbk}_{target}.txt"
     log:
-        "logs/extract_fastas/{genome}_{gbk}_{target}.log"
+        "execution_reports/logs/extract_fastas/{genome}_{gbk}_{target}.log"
     conda:
         "envs/blast.yaml"
     params:
@@ -173,9 +173,9 @@ rule delimit_sequences:
     output:
         fasta_sig_genic = "results/fasta/{genome}_{gbk}_{target}_signature_genic.fasta"
     benchmark:
-        "benchmarks/delimit_sequences/{genome}_{gbk}_{target}.txt"
+        "execution_reports/benchmarks/delimit_sequences/{genome}_{gbk}_{target}.txt"
     log:
-        "logs/delimit_sequences/{genome}_{gbk}_{target}.log"
+        "execution_reports/logs/delimit_sequences/{genome}_{gbk}_{target}.log"
     conda:
         "envs/python.yaml"
     params:
@@ -183,7 +183,7 @@ rule delimit_sequences:
     shell:
         """
         if [ -s {input.fasta_genic} ]; then
-            python scripts/delimit_sequences.py --input {input.fasta_genic} --output {output.fasta_sig_genic} --ltr_range {params.ltr_range} > {log} 2>&1
+            python workflow/scripts/delimit_sequences.py --input {input.fasta_genic} --output {output.fasta_sig_genic} --ltr_range {params.ltr_range} > {log} 2>&1
         else
             touch {output.fasta_sig_genic}
         fi
@@ -195,9 +195,9 @@ rule align_mafft:
     output:
         aligned = temp("results/alignments/{genome}_{gbk}_{target}_aln.fasta")
     benchmark:
-        "benchmarks/align_mafft/{genome}_{gbk}_{target}.txt"
+        "execution_reports/benchmarks/align_mafft/{genome}_{gbk}_{target}.txt"
     log:
-        "logs/align_mafft/{genome}_{gbk}_{target}.log"
+        "execution_reports/logs/align_mafft/{genome}_{gbk}_{target}.log"
     conda:
         "envs/phylogeny.yaml"
     shell:
@@ -216,9 +216,9 @@ rule add_refs_mafft:
     output:
         final_aligned = "results/alignments/{genome}_{gbk}_{target}_final_aln.fasta"
     benchmark:
-        "benchmarks/add_refs_mafft/{genome}_{gbk}_{target}.txt"
+        "execution_reports/benchmarks/add_refs_mafft/{genome}_{gbk}_{target}.txt"
     log:
-        "logs/add_refs_mafft/{genome}_{gbk}_{target}.log"
+        "execution_reports/logs/add_refs_mafft/{genome}_{gbk}_{target}.log"
     conda:
         "envs/phylogeny.yaml"
     shell:
@@ -236,9 +236,9 @@ rule infer_phylogeny:
     output:
         tree = "results/phylogeny/{genome}_{gbk}_{target}.treefile"
     benchmark:
-        "benchmarks/infer_phylogeny/{genome}_{gbk}_{target}.txt"
+        "execution_reports/benchmarks/infer_phylogeny/{genome}_{gbk}_{target}.txt"
     log:
-        "logs/infer_phylogeny/{genome}_{gbk}_{target}.log"
+        "execution_reports/logs/infer_phylogeny/{genome}_{gbk}_{target}.log"
     conda:
         "envs/phylogeny.yaml"
     params:
@@ -246,7 +246,7 @@ rule infer_phylogeny:
     shell:
         """
         if [ -s {input.alignment} ] && [ $(grep -c "^>" {input.alignment}) -ge 3 ]; then
-            iqtree -s {input.alignment} -m MFP -bb 10000 -alrt 1000 -T AUTO --undo --prefix {params.prefix} > {log} 2>&1
+            iqtree -s {input.alignment} -m MFP -bb 10000 -alrt 1000 -T GTR+F+G4 --undo --prefix {params.prefix} > {log} 2>&1
             # iqtree generates multiple files, snakemake will check for the .treefile
         else
             echo "Not enough sequences to build a tree." > {log}

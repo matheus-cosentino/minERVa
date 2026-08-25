@@ -9,7 +9,7 @@ gbk_dir: "gbk_files"
 # Alvos (targets) a serem extraídos dos arquivos GBK e usados como query no BLAST
 # Valores possíveis incluem: "LTR", "gag", "pol", "env", "complete"
 targets:
-  - "LTR"
+  - "ltr"
   - "gag"
   - "pol"
   - "env"

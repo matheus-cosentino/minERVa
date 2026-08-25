@@ -6,3 +6,4 @@ channels:
 dependencies:
   - snakemake>=8.0.0
   - snakemake-executor-plugin-slurm
+  - conda=26.7.1

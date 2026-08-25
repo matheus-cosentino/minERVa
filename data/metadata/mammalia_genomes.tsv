@@ -1,0 +1,1250 @@
+calJac240_pri	GCA_049354715.1	GCF_049354715.1	Callithrix jacchus					240	male		Chromosome	2025-04-08	JBLWJF01	24
+calJac240_pri	GCF_049354715.1	GCA_049354715.1	Callithrix jacchus					240	male	GCF_049354715.1-RS_2025_12	Chromosome	2025-04-08	JBLWJF01	24
+NDDB_SH_1	GCA_019923935.1	GCF_019923935.1	Bubalus bubalis	Murrah				160015118507	female		Chromosome	2021-09-10	VDCB01	25
+NDDB_SH_1	GCF_019923935.1	GCA_019923935.1	Bubalus bubalis	Murrah				160015118507	female	NCBI Bubalus bubalis Annotation Release 103	Chromosome	2021-09-10	VDCB01	25
+Bosgru_T2T1.0	GCA_055505025.1	GCF_055505025.1	Bos grunniens			Pamir		PY7600			Chromosome	2026-02-24	JBTWXA01	30
+Bosgru_T2T1.0	GCF_055505025.1	GCA_055505025.1	Bos grunniens			Pamir		PY7600		GCF_055505025.1-RS_2026_07	Chromosome	2026-02-25	JBTWXA01	30
+NHGRI_mPanTro3-v2.1_pri	GCA_028858775.3	GCF_028858775.2	Pan troglodytes					AG18354	male		Chromosome	2024-12-09	JAQQLN02	25
+NHGRI_mPanTro3-v2.1_pri	GCF_028858775.2	GCA_028858775.3	Pan troglodytes					AG18354	male	GCF_028858775.2-RS_2026_05	Chromosome	2024-01-08	JAQQLN02	25
+HU_Pman_BW_mat_3.1	GCA_049852395.1	GCF_049852395.1	Peromyscus maniculatus bairdii					BWxNUB_F1_BW_parent	female		Chromosome	2025-04-22	JBMNXS01	24
+HU_Pman_BW_mat_3.1	GCF_049852395.1	GCA_049852395.1	Peromyscus maniculatus bairdii					BWxNUB_F1_BW_parent	female	GCF_049852395.1-RS_2025_08	Chromosome	2025-04-22	JBMNXS01	24
+ASM5500010v1	GCA_055000105.1	GCF_055000105.1	Myodes glareolus					2345	female		Chromosome	2026-02-04		28
+ASM5500010v1	GCF_055000105.1	GCA_055000105.1	Myodes glareolus					2345	female	GCF_055000105.1-RS_2026_07	Chromosome	2026-02-04		28
+NHGRI_mGorGor1-v2.1_pri	GCA_029281585.3	GCF_029281585.2	Gorilla gorilla gorilla					KB3781	male		Chromosome	2024-08-01	JARGGP02	25
+NHGRI_mGorGor1-v2.1_pri	GCF_029281585.2	GCA_029281585.3	Gorilla gorilla gorilla					KB3781	male	GCF_029281585.2-RS_2025_04	Chromosome	2024-01-08	JARGGP02	25
+NHGRI_mPonPyg2-v2.1_pri	GCA_028885625.3	GCF_028885625.2	Pongo pygmaeus					AG05252	male		Chromosome	2024-01-08	JAQQLS02	25
+NHGRI_mPonPyg2-v2.1_pri	GCF_028885625.2	GCA_028885625.3	Pongo pygmaeus					AG05252	male	GCF_028885625.2-RS_2026_05	Chromosome	2024-01-08	JAQQLS02	25
+ASM4859323v1	GCA_048593235.1	GCF_048593235.1	Sminthopsis crassicaudata					SCR6	female		Chromosome	2025-03-17	JBMDME01	7
+ASM4859323v1	GCF_048593235.1	GCA_048593235.1	Sminthopsis crassicaudata					SCR6	female	GCF_048593235.1-RS_2025_05	Chromosome	2025-03-17	JBMDME01	7
+UCONN_HLeu1	GCA_047372625.1		Hoolock leuconedys					Betty	female		Chromosome	2025-02-03	JBHMFN01	19
+ASM4749690v1	GCA_047496905.1		Tamias sibiricus					Ts-1	male		Chromosome	2025-02-07	JBKZWZ01	19
+NHGRI_mSymSyn1-v2.1_pri	GCA_028878055.3	GCF_028878055.3	Symphalangus syndactylus					Jambi	male		Chromosome	2024-06-20	JAQQLG02	26
+NHGRI_mSymSyn1-v2.1_pri	GCF_028878055.3	GCA_028878055.3	Symphalangus syndactylus					Jambi	male	GCF_028878055.3-RS_2026_05	Chromosome	2024-01-05	JAQQLG02	26
+ASM5194280v1	GCA_051942805.1		Lepus tolai	LTO_1					male		Chromosome	2025-08-12	JBPRAB01	25
+ASM5946939v1	GCA_059469395.1		Acomys dimidiatus				Jordan	SL-2024	female		Chromosome	2026-07-16	JBNCOH01	19
+ASM4859324v1	GCA_048593245.1		Dasyurus maculatus					Chaos	male		Chromosome	2025-03-17	JBMDMB01	6
+ASM2622585v1	GCA_026225855.1		Neophocaena sunameri					NAS202207	male		Chromosome	2022-11-18	JANJGR01	23
+mAcoKem2_REL_1905	GCA_907164505.1		Acomys kempi								Chromosome	2021-07-06		19
+GRCm39	GCA_000001635.9	GCF_000001635.27	Mus musculus		C57BL/6J						Chromosome	2020-06-24		101
+GRCm39	GCF_000001635.27	GCA_000001635.9	Mus musculus		C57BL/6J					GCF_000001635.27-RS_2024_02	Chromosome	2020-06-24		101
+GRCr8	GCA_036323735.1	GCF_036323735.1	Rattus norvegicus		BN/NHsdMcwi				male		Chromosome	2024-01-31	JAXUCZ01	76
+GRCr8	GCF_036323735.1	GCA_036323735.1	Rattus norvegicus		BN/NHsdMcwi				male	GCF_036323735.1-RS_2024_02	Chromosome	2024-01-31	JAXUCZ01	76
+Sscrofa_HxYL_maternal_Yorkshire_Landrace_v2.0	GCA_054392235.2	GCF_054392235.1	Sus scrofa					SSC_HxYL_T2T_F1_AM1	male		Chromosome	2026-01-28	JBREVY02	37
+Sscrofa_HxYL_maternal_Yorkshire_Landrace_v2.0	GCF_054392235.1	GCA_054392235.2	Sus scrofa					SSC_HxYL_T2T_F1_AM1	male	GCF_054392235.1-RS_2026_06	Chromosome	2026-01-28	JBREVY02	37
+ARS-UCD2.0	GCA_002263795.4	GCF_002263795.3	Bos taurus	Hereford				L1 Dominette 01449 registration number 42190680	female		Chromosome	2023-07-01	NKLS02	1957
+ARS-UCD2.0	GCF_002263795.3	GCA_002263795.4	Bos taurus	Hereford				L1 Dominette 01449 registration number 42190680	female	GCF_002263795.3-RS_2024_12	Chromosome	2023-07-01	NKLS02	1957
+UU_Cfam_GSD_1.0	GCA_011100685.1	GCF_011100685.1	Canis lupus familiaris	German Shepherd				Mischka	female		Chromosome	2020-03-10	JAAHUQ01	2197
+UU_Cfam_GSD_1.0	GCF_011100685.1	GCA_011100685.1	Canis lupus familiaris	German Shepherd				Mischka	female	NCBI Canis lupus familiaris Annotation Release 106	Chromosome	2020-03-10	JAAHUQ01	2197
+mCanLup2.hap1	GCA_048164855.1	GCF_048164855.1	Canis lupus baileyi					mCanLup2	male		Chromosome	2025-02-27	JBLSAG01	249
+mCanLup2.hap1	GCF_048164855.1	GCA_048164855.1	Canis lupus baileyi							GCF_048164855.1-RS_2025_03	Chromosome	2025-02-27	JBLSAG01	249
+ARS-UI_Ramb_v3.0	GCA_016772045.2	GCF_016772045.2	Ovis aries	Rambouillet	OAR_USU_Benz2616				female		Chromosome	2023-07-20	JAEVFA01	142
+ARS-UI_Ramb_v3.0	GCF_016772045.2	GCA_016772045.2	Ovis aries	Rambouillet	OAR_USU_Benz2616				female	GCF_016772045.2-RS_2023_10	Chromosome	2023-07-20	JAEVFA01	142
+ARS1.2	GCA_001704415.2	GCF_001704415.2	Capra hircus	San Clemente					male		Chromosome	2016-08-24	LWLT01	29885
+ARS1.2	GCF_001704415.2	GCA_001704415.2	Capra hircus	San Clemente					male	NCBI Capra hircus Annotation Release 102	Chromosome	2016-08-24	LWLT01	29885
+mOryCun1.1	GCA_964237555.1	GCF_964237555.1	Oryctolagus cuniculus								Chromosome	2024-08-31	CAXSJQ01	221
+mOryCun1.1	GCF_964237555.1	GCA_964237555.1	Oryctolagus cuniculus							GCF_964237555.1-RS_2024_11	Chromosome	2024-08-31	CAXSJQ01	221
+TB-T2T	GCA_041296265.1	GCF_041296265.1	Equus caballus	thoroughbred				H_3958	female		Chromosome	2024-08-16	JBFNWK01	624
+TB-T2T	GCF_041296265.1	GCA_041296265.1	Equus caballus	thoroughbred				H_3958	female	GCF_041296265.1-RS_2024_12	Chromosome	2024-08-16	JBFNWK01	624
+F.catus_Fca126_mat1.0	GCA_018350175.1	GCF_018350175.1	Felis catus					Fca126	female		Chromosome	2021-05-13	JAFEKA01	70
+F.catus_Fca126_mat1.0	GCF_018350175.1	GCA_018350175.1	Felis catus					Fca126	female	NCBI Felis catus Annotation Release 105	Chromosome	2021-05-13	JAFEKA01	70
+CriGri-PICRH-1.0	GCA_003668045.2	GCF_003668045.3	Cricetulus griseus		17A/GY				female		Chromosome	2020-06-11	RAZU02	647
+CriGri-PICRH-1.0	GCF_003668045.3	GCA_003668045.2	Cricetulus griseus		17A/GY				female	NCBI Cricetulus griseus Annotation Release 104	Chromosome	2020-06-11	RAZU02	647
+mChlSab1.0.hap1	GCA_047675955.1	GCF_047675955.1	Chlorocebus sabaeus					Y175	female		Chromosome	2025-02-12	JBLKOC01	1654
+mChlSab1.0.hap1	GCF_047675955.1	GCA_047675955.1	Chlorocebus sabaeus					Y175	female	GCF_047675955.1-RS_2025_04	Chromosome	2025-02-12	JBLKOC01	1654
+NIAB-ARS_B.indTharparkar_mat_pri_1.0	GCA_029378745.1	GCF_029378745.1	Bos indicus	Sahiwal x Tharparkar				NIAB-ARS_2022	female		Chromosome	2023-03-24	JAPFIJ01	67
+NIAB-ARS_B.indTharparkar_mat_pri_1.0	GCF_029378745.1	GCA_029378745.1	Bos indicus	Sahiwal x Tharparkar				NIAB-ARS_2022	female	GCF_029378745.1-RS_2024_12	Chromosome	2023-03-24	JAPFIJ01	67
+Rrattus_CSIRO_v1	GCA_011064425.1	GCF_011064425.1	Rattus rattus					New Zealand	male		Chromosome	2020-03-04	JAAIVD01	2172
+Rrattus_CSIRO_v1	GCF_011064425.1	GCA_011064425.1	Rattus rattus					New Zealand	male	NCBI Rattus rattus Annotation Release 100	Chromosome	2020-03-04	JAAIVD01	2172
+mMonDom1.pri	GCA_027887165.2	GCF_027887165.2	Monodelphis domestica					mMonDom1	male		Chromosome	2026-02-24	JAQIHD02	13
+mMonDom1.pri	GCF_027887165.2	GCA_027887165.2	Monodelphis domestica					mMonDom1	male	GCF_027887165.2-RS_2026_06	Chromosome	2026-02-25	JAQIHD02	13
+Panubis1.1	GCA_008728515.2		Papio anubis					15944	male		Chromosome	2022-04-27	VSMJ02	11149
+Panubis1.0	GCA_008728515.1	GCF_008728515.1	Papio anubis					15944	male		Chromosome	2019-10-02	VSMJ01	11144
+Panubis1.0	GCF_008728515.1	GCA_008728515.1	Papio anubis					15944	male	NCBI Papio anubis Annotation Release 104	Chromosome	2019-10-02	VSMJ01	11144
+mMacNem.hap1	GCA_043159975.1	GCF_043159975.1	Macaca nemestrina					mMacNem1	male		Chromosome	2024-10-15	JBHNYF01	361
+mMacNem.hap1	GCF_043159975.1	GCA_043159975.1	Macaca nemestrina					mMacNem1	male	GCF_043159975.1-RS_2026_07	Chromosome	2024-10-15	JBHNYF01	361
+mIctTri1.hap1	GCA_052094955.1	GCF_052094955.1	Ictidomys tridecemlineatus					mIctTri1	male		Chromosome	2025-08-18	JBPVTT01	5279
+mIctTri1.hap1	GCF_052094955.1	GCA_052094955.1	Ictidomys tridecemlineatus					mIctTri1	male	GCF_052094955.1-RS_2025_11	Chromosome	2025-08-18	JBPVTT01	5279
+EquAss-T2T_v2	GCA_041296235.2	GCF_041296235.1	Equus asinus	Donkey				D_3611	male		Chromosome	2024-12-12	JBFNWJ02	848
+EquAss-T2T_v2	GCF_041296235.1	GCA_041296235.2	Equus asinus	Donkey				D_3611	male	GCF_041296235.1-RS_2024_12	Chromosome	2024-12-12	JBFNWJ02	848
+ASM200744v3	GCA_002007445.3	GCF_002007445.2	Ailuropoda melanoleuca					Jingjing	female		Chromosome	2020-04-20	LNAT02	73513
+ASM200744v3	GCF_002007445.2	GCA_002007445.3	Ailuropoda melanoleuca					Jingjing	female	GCF_002007445.2-RS_2026_05	Chromosome	2020-04-20	LNAT02	73513
+ASM4877302v1	GCA_048773025.1	GCF_048773025.1	Camelus bactrianus	Bactrian camel				YW-2024	female		Chromosome	2025-03-21	JBLYYY01	157
+ASM4877302v1	GCF_048773025.1	GCA_048773025.1	Camelus bactrianus	Bactrian camel				YW-2024	female	GCF_048773025.1-RS_2025_06	Chromosome	2025-03-21	JBLYYY01	157
+mTurTru1.mat.Y	GCA_011762595.2	GCF_011762595.2	Tursiops truncatus					mTurTru1	male		Chromosome	2024-12-12	JAAOMD01	361
+mTurTru1.mat.Y	GCF_011762595.2	GCA_011762595.2	Tursiops truncatus					mTurTru1	male	GCF_011762595.2-RS_2025_04	Chromosome	2024-12-12	JAAOMD01	361
+mRhiFer1_v1.p	GCA_004115265.3	GCF_004115265.2	Rhinolophus ferrumequinum					MPI-CBG mRhiFer1	female		Chromosome	2019-05-17	RXPC01	134
+mRhiFer1_v1.p	GCF_004115265.2	GCA_004115265.3	Rhinolophus ferrumequinum					MPI-CBG mRhiFer1	male	GCF_004115265.2-RS_2023_02	Chromosome	2019-05-16	RXPC01	134
+mEleMax1 primary haplotype	GCA_024166365.1	GCF_024166365.1	Elephas maximus indicus					mEleMax1	male		Chromosome	2022-07-06	JAMZQU01	64
+mEleMax1 primary haplotype	GCF_024166365.1	GCA_024166365.1	Elephas maximus indicus					mEleMax1	male	GCF_024166365.1-RS_2023_02	Chromosome	2022-07-06	JAMZQU01	64
+mCamDro1.pat	GCA_036321535.1	GCF_036321535.1	Camelus dromedarius					mCamDro1	male		Chromosome	2024-01-31	JAZARU01	171
+mCamDro1.pat	GCF_036321535.1	GCA_036321535.1	Camelus dromedarius					mCamDro1	male	GCF_036321535.1-RS_2024_04	Chromosome	2024-01-31	JAZARU01	171
+mMacEug1.pri_v2	GCA_028372415.2	GCF_028372415.1	Notamacropus eugenii					mMacEug1	male		Chromosome	2023-02-06	JAQOLO01	272
+mMacEug1.pri_v2	GCF_028372415.1	GCA_028372415.2	Notamacropus eugenii					mMacEug1	male	GCF_028372415.1-RS_2025_03	Chromosome	2023-02-06	JAQOLO01	272
+MicOch1.0	GCA_000317375.1	GCF_000317375.1	Microtus ochrogaster					Prairie Vole_2	female		Chromosome	2012-12-07	AHZW01	6450
+MicOch1.0	GCF_000317375.1	GCA_000317375.1	Microtus ochrogaster					Prairie Vole_2	female	NCBI Microtus ochrogaster Annotation Release 102	Chromosome	2012-12-07	AHZW01	6450
+VicPac4	GCA_048564905.1	GCF_048564905.1	Vicugna pacos	huacaya				Carlotta	female		Chromosome	2025-03-12	JBLVOU01	519
+VicPac4	GCF_048564905.1	GCA_048564905.1	Vicugna pacos							GCF_048564905.1-RS_2025_04	Chromosome	2025-03-12	JBLVOU01	519
+ASM4008512v1	GCA_040085125.1		Cervus nippon					HPL2020	male		Chromosome	2024-06-07	JAYKZF01	51
+P.tigris_Pti1_mat1.1	GCA_018350195.2	GCF_018350195.1	Panthera tigris					Pti1	female		Chromosome	2021-05-13	JAEQMW01	74
+P.tigris_Pti1_mat1.1	GCF_018350195.1	GCA_018350195.2	Panthera tigris					Pti1	female	NCBI Panthera tigris Annotation Release 102	Chromosome	2021-05-13	JAEQMW01	74
+UOA_Angus_1	GCA_003369685.2		Bos indicus x Bos taurus	Angus x Brahman F1 hybrid					male		Chromosome	2018-11-30	PUFT02	1435
+mPhaCin1.pri	GCA_003287225.3		Phascolarctos cinereus					Bilbo 61053	female		Chromosome	2025-12-17	POVN03	1235
+ASM_NN_V1	GCA_020171115.1	GCF_020171115.1	Neogale vison					M4711	female		Chromosome	2021-09-29	JAIAWX01	182
+ASM_NN_V1	GCF_020171115.1	GCA_020171115.1	Neogale vison					M4711	female	NCBI Neovison vison Annotation Release 100	Chromosome	2021-09-29	JAIAWX01	182
+mSarHar1.11	GCA_902635505.1	GCF_902635505.1	Sarcophilus harrisii								Chromosome	2019-11-07	CACPPN01	105
+mSarHar1.11	GCF_902635505.1	GCA_902635505.1	Sarcophilus harrisii							NCBI Sarcophilus harrisii Annotation Release 103	Chromosome	2019-11-07	CACPPN01	105
+Bangor_MerUng_6.1	GCA_030254825.1	GCF_030254825.1	Meriones unguiculatus		TT.TT164.6M				male		Chromosome	2023-06-12	JAODIK01	193
+Bangor_MerUng_6.1	GCF_030254825.1	GCA_030254825.1	Meriones unguiculatus		TT.TT164.6M				male	GCF_030254825.1-RS_2023_10	Chromosome	2023-06-12	JAODIK01	193
+VulVul3	GCA_048418805.1	GCF_048418805.1	Vulpes vulpes					BD-2025	female		Chromosome	2025-03-05	JBKIPQ01	289
+VulVul3	GCF_048418805.1	GCA_048418805.1	Vulpes vulpes					BD-2025	female	GCF_048418805.1-RS_2025_03	Chromosome	2025-03-05	JBKIPQ01	289
+mLoxAfr1.hap2	GCA_030014295.1	GCF_030014295.1	Loxodonta africana					mLoxAfr1	male		Chromosome	2023-05-16	JASCQR01	879
+mLoxAfr1.hap2	GCF_030014295.1	GCA_030014295.1	Loxodonta africana					mLoxAfr1	male	GCF_030014295.1-RS_2024_04	Chromosome	2023-05-16	JASCQR01	879
+MJ_LKY	GCA_040802235.1	GCF_040802235.1	Manis javanica					MJ-LG	male		Chromosome	2024-07-22	JBFMMM01	62
+MJ_LKY	GCF_040802235.1	GCA_040802235.1	Manis javanica					MJ-LG	male	GCF_040802235.1-RS_2025_04	Chromosome	2024-07-22	JBFMMM01	62
+UrsArc2.0	GCA_023065955.2	GCF_023065955.2	Ursus arctos				North America	Adak	male		Chromosome	2023-05-22	JALAAU02	361
+UrsArc2.0	GCF_023065955.2	GCA_023065955.2	Ursus arctos				North America	Adak	male	GCF_023065955.2-RS_2023_06	Chromosome	2023-05-22	JALAAU02	361
+mRanTar1.h1.1	GCA_949782905.1		Rangifer tarandus platyrhynchus							Annotation submitted by EBP Norway	Chromosome	2023-04-20	CATKSN02	1395
+YUN_Gayal_1	GCA_043643345.1		Bos frontalis	Chinese Gayal					male		Chromosome	2024-10-24	JBIDEE01	1068
+mDasNov1.1.hap2	GCA_030445035.2	GCF_030445035.2	Dasypus novemcinctus					mDasNov1	male		Chromosome	2023-07-13	JAUJUA01	545
+mDasNov1.1.hap2	GCF_030445035.2	GCA_030445035.2	Dasypus novemcinctus					mDasNov1	male	GCF_030445035.2-RS_2025_01	Chromosome	2023-07-13	JAUJUA01	545
+UCI_PerLeu_2.1	GCA_004664715.2	GCF_004664715.2	Peromyscus leucopus	LL Stock					female		Chromosome	2020-10-02	NMRJ02	1856
+UCI_PerLeu_2.1	GCF_004664715.2	GCA_004664715.2	Peromyscus leucopus	LL Stock					female	NCBI Peromyscus leucopus Annotation Release 101	Chromosome	2020-10-02	NMRJ02	1856
+mOrnAna1.pri.v4	GCA_004115215.4	GCF_004115215.2	Ornithorhynchus anatinus					Pmale09	male		Chromosome	2020-11-06	RZJT02	321
+mOrnAna1.pri.v4	GCF_004115215.2	GCA_004115215.4	Ornithorhynchus anatinus					Pmale09	male	NCBI Ornithorhynchus anatinus Annotation Release 105	Chromosome	2020-11-06	RZJT02	321
+ASM756505v1	GCA_007565055.1	GCF_007565055.1	Rhinopithecus roxellana					Shanxi Qingling	male		Chromosome	2019-07-29	VMRL01	3256
+ASM756505v1	GCF_007565055.1	GCA_007565055.1	Rhinopithecus roxellana					Shanxi Qingling	male	NCBI Rhinopithecus roxellana Annotation Release 101	Chromosome	2019-07-29	VMRL01	3256
+NHGRI_mPonAbe1-v2.1_pri	GCA_028885655.3	GCF_028885655.2	Pongo abelii					AG06213	male		Chromosome	2024-01-05	JAQQLQ02	29
+NHGRI_mPonAbe1-v2.1_pri	GCF_028885655.2	GCA_028885655.3	Pongo abelii					AG06213	male	GCF_028885655.2-RS_2026_05	Chromosome	2024-01-05	JAQQLQ02	29
+ASM2989020v1	GCA_029890205.1		Acomys cahirinus					Evolution Canyon			Chromosome	2023-05-01	JAJTCZ01	34
+NWIPB_WYAK_1.1	GCA_027580195.2	GCF_027580195.1	Bos mutus					GX-2022	male		Chromosome	2023-01-09	JANCMR01	2039
+NWIPB_WYAK_1.1	GCF_027580195.1	GCA_027580195.2	Bos mutus					GX-2022	male	GCF_027580195.1-RS_2024_12	Chromosome	2023-01-09	JANCMR01	2039
+mRouAeg1.pri	GCA_014176215.2		Rousettus aegyptiacus					mRouAeg1	male		Chromosome	2025-12-17	JACASE02	27
+M.murinus_Inina_mat1.0	GCA_040939455.2	GCF_040939455.1	Microcebus murinus					Inina	female		Chromosome	2025-06-05	JBBJCL02	124
+M.murinus_Inina_mat1.0	GCF_040939455.1	GCA_040939455.2	Microcebus murinus					Inina	female	GCF_040939455.1-RS_2025_12	Chromosome	2025-06-05	JBBJCL02	124
+VMU_Ajub_asm_v1.0	GCA_027475565.2	GCF_027475565.1	Acinonyx jubatus					Ajub_Pintada_27869175	female		Chromosome	2022-12-28	JANJSO01	195
+VMU_Ajub_asm_v1.0	GCF_027475565.1	GCA_027475565.2	Acinonyx jubatus					Ajub_Pintada_27869175	female	GCF_027475565.1-RS_2023_04	Chromosome	2022-12-28	JANJSO01	195
+ASM1834538v1	GCA_018345385.1	GCF_018345385.1	Vulpes lagopus		Blue_001				female		Chromosome	2021-05-12	JADWOQ01	928
+ASM1834538v1	GCF_018345385.1	GCA_018345385.1	Vulpes lagopus		Blue_001				female	NCBI Vulpes lagopus Annotation Release 100	Chromosome	2021-05-12	JADWOQ01	928
+mManPen7.hap1	GCA_030020395.1	GCF_030020395.1	Manis pentadactyla					mManPen7	male		Chromosome	2023-05-23	JASFZP01	661
+mManPen7.hap1	GCF_030020395.1	GCA_030020395.1	Manis pentadactyla					mManPen7	male	GCF_030020395.1-RS_2023_06	Chromosome	2023-05-23	JASFZP01	661
+mMunRee1.2	GCA_963930625.2		Muntiacus reevesi								Chromosome	2026-02-01	CAWVNM02	241
+mCerEla1.1	GCA_910594005.1	GCF_910594005.1	Cervus elaphus								Chromosome	2021-07-07	CAJVBL01	144
+mCerEla1.1	GCF_910594005.1	GCA_910594005.1	Cervus elaphus							NCBI Cervus elaphus Annotation Release 100	Chromosome	2021-07-07	CAJVBL01	144
+mCerEla1.hap1.2	GCA_910594005.2		Cervus elaphus								Chromosome	2026-02-26	CAJVBL02	964
+mMunRee1.1	GCA_963930625.1	GCF_963930625.1	Muntiacus reevesi								Chromosome	2024-01-31	CAWVNM01	267
+mMunRee1.1	GCF_963930625.1	GCA_963930625.1	Muntiacus reevesi							GCF_963930625.1-RS_2024_06	Chromosome	2024-01-31	CAWVNM01	267
+CAU_O.ammon polii_1.0	GCA_028583565.1		Ovis ammon polii					CAU-MHL-2022a	male	Annotation submitted by China Agricultural University	Chromosome	2023-02-10	JAKZEL01	62
+P.leo_Ple1_pat1.1	GCA_018350215.1	GCF_018350215.1	Panthera leo					Ple1	male		Chromosome	2021-05-13	JAEQMX01	53
+P.leo_Ple1_pat1.1	GCF_018350215.1	GCA_018350215.1	Panthera leo					Ple1	male	NCBI Panthera leo Annotation Release 100	Chromosome	2021-05-13	JAEQMX01	53
+ASM4730177v1	GCA_047301775.1		Sigmodon hispidus					SQ-2024	female		Chromosome	2025-01-30	JBIUDE01	39
+mPumCon1.1.hap2	GCA_028749965.4	GCF_028749965.1	Puma concolor					L17-30	male		Chromosome	2023-08-04	JAQJWA02	207
+mPumCon1.1.hap2	GCF_028749965.1	GCA_028749965.4	Puma concolor							GCF_028749965.1-RS_2026_07	Chromosome	2023-08-04	JAQJWA02	207
+mUroPar1.hap1	GCA_045843805.1	GCF_045843805.1	Urocitellus parryii					mUroPar1	male	GCA_045843805.1-GB_2025_08_01	Chromosome	2024-12-13	JBISEK01	2529
+mUroPar1.hap1	GCF_045843805.1	GCA_045843805.1	Urocitellus parryii					mUroPar1	male	GCF_045843805.1-RS_2025_11	Chromosome	2024-12-13	JBISEK01	2529
+mTacAcu1.pri	GCA_015852505.1	GCF_015852505.1	Tachyglossus aculeatus					mTacAcu1	male		Chromosome	2020-12-09	JADRJE01	310
+mTacAcu1.pri	GCF_015852505.1	GCA_015852505.1	Tachyglossus aculeatus					mTacAcu1	male	NCBI Tachyglossus aculeatus Annotation Release 100	Chromosome	2020-12-09	JADRJE01	310
+HLdesRot8A.1	GCA_022682495.2	GCF_022682495.2	Desmodus rotundus					HL8	male		Chromosome	2022-03-24	JAKFFZ01	573
+HLdesRot8A.1	GCF_022682495.2	GCA_022682495.2	Desmodus rotundus					HL8	male	GCF_022682495.2-RS_2025_02	Chromosome	2022-03-24	JAKFFZ01	573
+ASM283717v5	GCA_002837175.5	GCF_002837175.3	Physeter macrocephalus					SW-GA	female		Chromosome	2023-02-28	PGGR02	12168
+ASM283717v5	GCF_002837175.3	GCA_002837175.5	Physeter macrocephalus					SW-GA	female	GCF_002837175.3-RS_2025_01	Chromosome	2023-02-28	PGGR02	12168
+Ovbor_1.2	GCA_023699985.4	GCF_023699985.2	Odocoileus virginianus				Illinois	20LAN1187	male		Chromosome	2024-10-17	JAJQKH02	480
+Ovbor_1.2	GCF_023699985.2	GCA_023699985.4	Odocoileus virginianus				Illinois	20LAN1187	male	GCF_023699985.2-RS_2024_12	Chromosome	2024-10-17	JAJQKH02	480
+Fcat_Pben_1.1_paternal_pri	GCA_016509475.2	GCF_016509475.1	Prionailurus bengalensis					Pbe53	male		Chromosome	2021-01-06	JADZGN01	83
+Fcat_Pben_1.1_paternal_pri	GCF_016509475.1	GCA_016509475.2	Prionailurus bengalensis					Pbe53	male	NCBI Prionailurus bengalensis Annotation Release 100	Chromosome	2021-01-06	JADZGN01	83
+ASM5775595v1	GCA_057755955.1		Ursus thibetanus					BB1			Chromosome	2026-05-26	JBYDFY01	234
+NHGRI_mPanPan1-v2.1_pri	GCA_029289425.3	GCF_029289425.2	Pan paniscus						male		Chromosome	2024-08-13	JARIFH02	30
+NHGRI_mPanPan1-v2.1_pri	GCF_029289425.2	GCA_029289425.3	Pan paniscus						male	GCF_029289425.2-RS_2026_05	Chromosome	2024-01-08	JARIFH02	30
+mEscRob2.pri	GCA_028021215.1	GCF_028021215.1	Eschrichtius robustus					mEscRob2	male		Chromosome	2023-01-31	JAQMHY01	703
+mEscRob2.pri	GCF_028021215.1	GCA_028021215.1	Eschrichtius robustus					mEscRob2	male	GCF_028021215.1-RS_2024_09	Chromosome	2023-01-31	JAQMHY01	703
+Asia_NLE_v1	GCA_006542625.1	GCF_006542625.1	Nomascus leucogenys					Asia	female		Chromosome	2019-07-02	VIFL01	2376
+Asia_NLE_v1	GCF_006542625.1	GCA_006542625.1	Nomascus leucogenys					Asia	female	NCBI Nomascus leucogenys Annotation Release 103	Chromosome	2019-07-02	VIFL01	2376
+ARS-UI_OviCan_v2	GCA_042477335.2	GCF_042477335.2	Ovis canadensis	Bighorn				MfBH-ARS-UI-01	male		Chromosome	2024-10-18	JBGCUV01	41
+ARS-UI_OviCan_v2	GCF_042477335.2	GCA_042477335.2	Ovis canadensis	Bighorn				MfBH-ARS-UI-01	male	GCF_042477335.2-RS_2024_12	Chromosome	2024-10-18	JBGCUV01	41
+BYU_Ohem_2021	GCA_020976825.1		Odocoileus hemionus					AT2021a	female		Chromosome	2021-11-30	JAJLRB01	5513
+ASM3577323v1	GCA_035773235.1		Eospalax fontanierii					ZH209-6			Chromosome	2024-01-24	JAJHUQ01	87
+Smur_1.0	GCA_055769025.1		Suncus murinus				China				Chromosome	2026-03-10	JBTWHV01	1236
+PCC_UOA_SB_1v2	GCA_029407905.2	GCF_029407905.1	Bubalus kerabau	swamp buffalo			Philippines	K-KA32	female		Chromosome	2023-03-31	JARFXY01	115
+PCC_UOA_SB_1v2	GCF_029407905.1	GCA_029407905.2	Bubalus kerabau	swamp buffalo			Philippines	K-KA32	female	GCF_029407905.1-RS_2024_02	Chromosome	2023-03-31	JARFXY01	115
+ASM4372806v1	GCA_043728065.1		Rhinolophus affinis				China	20211001_DDa	male	GCA_043728065.1-GB_2025_10_23	Chromosome	2024-10-24	JARCLV01	2193
+mCasCan1.hap1v2	GCA_047511655.2	GCF_047511655.1	Castor canadensis					mCasCan1	female		Chromosome	2025-02-10	JBLFKA01	181
+mCasCan1.hap1v2	GCF_047511655.1	GCA_047511655.2	Castor canadensis							GCF_047511655.1-RS_2025_05	Chromosome	2025-02-10	JBLFKA01	181
+mMarFla1.hap1	GCA_047511675.1	GCF_047511675.1	Marmota flaviventris					mMarFla1	male		Chromosome	2025-02-10	JBLFKC01	813
+mMarFla1.hap1	GCF_047511675.1	GCA_047511675.1	Marmota flaviventris					mMarFla1	male	GCF_047511675.1-RS_2025_02	Chromosome	2025-02-10	JBLFKC01	813
+mOrcOrc1.1	GCA_937001465.1	GCF_937001465.1	Orcinus orca								Chromosome	2022-05-03	CAKZJT01	447
+mOrcOrc1.1	GCF_937001465.1	GCA_937001465.1	Orcinus orca							GCF_937001465.1-RS_2023_02	Chromosome	2022-05-03	CAKZJT01	447
+mKogBre1 haplotype 1	GCA_026419965.1	GCF_026419965.1	Kogia breviceps					mKogBre1	female		Chromosome	2022-11-27	JAPMIF01	580
+mKogBre1 haplotype 1	GCF_026419965.1	GCA_026419965.1	Kogia breviceps					mKogBre1	female	GCF_026419965.1-RS_2024_07	Chromosome	2022-11-27	JAPMIF01	580
+Cla-1	GCA_034620425.1		Canis latrans					coyote_06102	female		Chromosome	2023-12-27	JARVCQ01	120
+LycPic1.final.hap2	GCA_040955705.1		Lycaon pictus					LycPic1	male	GCA_040955705.1-GB_2025_09_23	Chromosome	2024-08-01	JBCEDD01	76
+ASM4183430v1	GCA_041834305.1		Megaptera novaeangliae					KW2013002		GCA_041834305.1-GB_2025_09_25	Chromosome	2024-09-09	JBGMDX01	1355
+mMinSch1.hap1.2	GCA_964146895.2	GCF_964146895.1	Miniopterus schreibersii								Chromosome	2025-04-05	CAXLBM02	185
+mMinSch1.hap1.2	GCF_964146895.1	GCA_964146895.2	Miniopterus schreibersii							GCF_964146895.1-RS_2025_12	Chromosome	2025-04-05	CAXLBM02	185
+EquPr2	GCA_037783145.1	GCF_037783145.1	Equus przewalskii					Varuska	female		Chromosome	2024-04-01	JAZHEL01	2146
+EquPr2	GCF_037783145.1	GCA_037783145.1	Equus przewalskii					Varuska	female	GCF_037783145.1-RS_2024_12	Chromosome	2024-04-01	JAZHEL01	2146
+ARS_UOA_Gaur_1.1	GCA_014182915.2		Bos gaurus					Gaur_Henry_Doorly_Zoo_5443	female		Chromosome	2020-08-14	JACAOC01	634
+ASM3006807v1	GCA_030068075.1		Paguma larvata	domesticated				MPC1	female		Chromosome	2023-06-05	JAINVK01	1500
+mMyoMyo1.pri	GCA_014108235.2		Myotis myotis					mMyoMyo1	female		Chromosome	2026-01-22	JABWUV02	50
+mOchPri1.hap1	GCA_030435755.1	GCF_030435755.1	Ochotona princeps					mOchPri1	male		Chromosome	2023-07-13	JAUDYK01	5864
+mOchPri1.hap1	GCF_030435755.1	GCA_030435755.1	Ochotona princeps					mOchPri1	male	GCF_030435755.1-RS_2023_07	Chromosome	2023-07-13	JAUDYK01	5864
+mSorAra2.pri	GCA_027595985.1	GCF_027595985.1	Sorex araneus					mSorAra2	male		Chromosome	2023-01-09	JAQBIA01	65
+mSorAra2.pri	GCF_027595985.1	GCA_027595985.1	Sorex araneus					mSorAra2	male	GCF_027595985.1-RS_2023_04	Chromosome	2023-01-09	JAQBIA01	65
+CapAeg_1.0	GCA_000978405.1		Capra aegagrus					BamuBGIKM			Chromosome	2015-04-24	JXYW01	89498
+ASM2315922v1	GCA_023159225.1	GCF_023159225.1	Perognathus longimembris pacificus					PPM17	male		Chromosome	2022-04-27	JALGBO01	6180
+ASM2315922v1	GCF_023159225.1	GCA_023159225.1	Perognathus longimembris pacificus					PPM17	male	NCBI Perognathus longimembris pacificus Annotation Release 100	Chromosome	2022-04-27	JALGBO01	6180
+UCLA_HA_Equagga_1.0	GCA_021613505.1	GCF_021613505.1	Equus quagga					Etosha38			Chromosome	2022-01-31	JAKJSB01	12506
+UCLA_HA_Equagga_1.0	GCF_021613505.1	GCA_021613505.1	Equus quagga					Etosha38		GCF_021613505.1-RS_2023_03	Chromosome	2022-01-31	JAKJSB01	12506
+ASM5651232v1	GCA_056512325.1		Marmota himalayana					wild-10			Chromosome	2026-04-01	JBWIDY01	76
+DD_mTadBra1_pri	GCA_030848825.1		Tadarida brasiliensis					mTadBra1	male	GCA_030848825.1-GB_2025_08_12	Chromosome	2023-08-22	JAUMIU01	147
+mMelMel3.2 paternal haplotype	GCA_922984935.2	GCF_922984935.2	Meles meles								Chromosome	2022-03-23	CAKLPM02	537
+mMelMel3.2 paternal haplotype	GCF_922984935.2	GCA_922984935.2	Meles meles							GCF_922984935.2-RS_2026_03	Chromosome	2022-03-23	CAKLPM02	537
+ARS_UNL_BGru_maternal_1.0_p	GCA_009493645.1		Bos grunniens x Bos taurus					Esperanza	female		Chromosome	2019-11-04	VLPI01	484
+ASM5547110v1	GCA_055471105.1		Lepus americanus					Miyamoto	male		Chromosome	2026-02-24	JBUQDJ01	312
+DD_ASM_mEF_20220401	GCA_027574615.1	GCF_027574615.1	Eptesicus fuscus					TK198812	male		Chromosome	2023-01-09	JANZWY01	48
+DD_ASM_mEF_20220401	GCF_027574615.1	GCA_027574615.1	Eptesicus fuscus					TK198812	male	GCF_027574615.1-RS_2023_03	Chromosome	2023-01-09	JANZWY01	48
+mCasFib1.1	GCA_977036005.1		Castor fiber								Chromosome	2025-11-13	CDRQKO01	227
+ASM3656204v1	GCA_036562045.1	GCF_036562045.2	Rhinolophus sinicus					RSC01	male		Chromosome	2024-06-26	JAYKMD01	454
+ASM3656204v1	GCF_036562045.2	GCA_036562045.1	Rhinolophus sinicus					RSC01	male	GCF_036562045.2-RS_2025_06	Chromosome	2024-06-26	JAYKMD01	454
+mPanOnc1 haplotype 2	GCA_046562875.2	GCF_046562875.1	Panthera onca					mPanOnc1	male		Chromosome	2025-01-08	JBKGDX01	85
+mPanOnc1 haplotype 2	GCF_046562875.1	GCA_046562875.2	Panthera onca					mPanOnc1	male	GCF_046562875.1-RS_2026_03	Chromosome	2025-01-08	JBKGDX01	85
+mZalCal1.pri.v2	GCA_009762305.2	GCF_009762305.2	Zalophus californianus					mZalCal1	male		Chromosome	2020-07-14	WPOA02	46
+mZalCal1.pri.v2	GCF_009762305.2	GCA_009762305.2	Zalophus californianus					mZalCal1	male	NCBI Zalophus californianus Annotation Release 101	Chromosome	2020-07-14	WPOA02	46
+mLemCat1.pri	GCA_020740605.1	GCF_020740605.2	Lemur catta					mLemCat1	male		Chromosome	2021-11-04	JAJGPY01	184
+mLemCat1.pri	GCF_020740605.2	GCA_020740605.1	Lemur catta					mLemCat1	male	NCBI Lemur catta Annotation Release 100	Chromosome	2021-11-04	JAJGPY01	184
+mLutLut1.2	GCA_902655055.2	GCF_902655055.1	Lutra lutra								Chromosome	2020-07-31	CACRWI02	43
+mLutLut1.2	GCF_902655055.1	GCA_902655055.2	Lutra lutra							GCF_902655055.1-RS_2023_03	Chromosome	2020-07-31	CACRWI02	43
+mIaxIox2.hap1	GCA_054824925.1		Ia io					mIaxIox2	male		Chromosome	2026-01-29	JBTBFB01	377
+mMonMon2.pri	GCA_005190385.4		Monodon monoceros				Baffin Bay Population	NGI	male	GCA_005190385.4-GB_2026_03_30	Chromosome	2026-01-23	SIHG03	90
+mPipPip2.hap1.2	GCA_965203405.2		Pipistrellus pipistrellus								Chromosome	2025-04-09	CBDBGN02	241
+mSciCar1.2	GCA_902686445.2	GCF_902686445.1	Sciurus carolinensis								Chromosome	2020-07-31	CACRXI02	752
+mSciCar1.2	GCF_902686445.1	GCA_902686445.2	Sciurus carolinensis							GCF_902686445.1-RS_2023_03	Chromosome	2020-07-31	CACRXI02	752
+mArvNil1.pat.X	GCA_011762505.3	GCF_011762505.2	Arvicanthis niloticus					mArvNil1	male		Chromosome	2025-01-29	JAAOMG01	1595
+mArvNil1.pat.X	GCF_011762505.2	GCA_011762505.3	Arvicanthis niloticus					mArvNil1	male	GCF_011762505.2-RS_2025_09	Chromosome	2025-01-29	JAAOMG01	1595
+SPRET_EiJ_v3	GCA_921997135.2		Mus spretus								Chromosome	2022-06-30	CAKLHJ02	138
+mLepTim1.1_pri	GCA_040893245.2		Lepus timidus								Chromosome	2024-07-26	JBEDNT01	84
+mTriVul1.pri	GCA_011100635.1	GCF_011100635.1	Trichosurus vulpecula					mTriVul1	male		Chromosome	2020-03-10	JAANDE01	211
+mTriVul1.pri	GCF_011100635.1	GCA_011100635.1	Trichosurus vulpecula					mTriVul1	male	NCBI Trichosurus vulpecula Annotation Release 100	Chromosome	2020-03-10	JAANDE01	211
+mPhoPho1.1	GCA_963924675.1	GCF_963924675.1	Phocoena phocoena								Chromosome	2024-01-29	CAWUQR01	439
+mPhoPho1.1	GCF_963924675.1	GCA_963924675.1	Phocoena phocoena							GCF_963924675.1-RS_2024_06	Chromosome	2024-01-29	CAWUQR01	439
+mBalPhy2.hap1.1	GCA_965194825.1	GCF_965194825.1	Balaenoptera physalus								Chromosome	2025-03-10	CBDAEZ01	2611
+mBalPhy2.hap1.1	GCF_965194825.1	GCA_965194825.1	Balaenoptera physalus							GCF_965194825.1-RS_2025_10	Chromosome	2025-03-10	CBDAEZ01	2611
+MUSNIG.SB6536	GCA_022355385.1	GCF_022355385.1	Mustela nigripes					SB6536	male		Chromosome	2022-02-24	JABTCS01	20574
+MUSNIG.SB6536	GCF_022355385.1	GCA_022355385.1	Mustela nigripes					SB6536	male	GCF_022355385.1-RS_2023_09	Chromosome	2022-02-24	JABTCS01	20574
+meerkat_22Aug2017_6uvM2_HiC	GCA_006229205.1	GCF_006229205.1	Suricata suricatta					VVHF042			Chromosome	2019-07-03	VCRZ01	63791
+meerkat_22Aug2017_6uvM2_HiC	GCF_006229205.1	GCA_006229205.1	Suricata suricatta					VVHF042		NCBI Suricata suricatta Annotation Release 100	Chromosome	2019-07-03	VCRZ01	63791
+mBalAcu1.1	GCA_949987535.1	GCF_949987535.1	Balaenoptera acutorostrata								Chromosome	2023-05-01	CATLKF01	1374
+mBalAcu1.1	GCF_949987535.1	GCA_949987535.1	Balaenoptera acutorostrata							GCF_949987535.1-RS_2023_06	Chromosome	2023-05-01	CATLKF01	1374
+mHipAmp2.hap2	GCA_030028045.1	GCF_030028045.1	Hippopotamus amphibius kiboko					mHipAmp2	female		Chromosome	2023-05-18	JASFZL01	356
+mHipAmp2.hap2	GCF_030028045.1	GCA_030028045.1	Hippopotamus amphibius kiboko					mHipAmp2	female	GCF_030028045.1-RS_2023_06	Chromosome	2023-05-18	JASFZL01	356
+ASM2454274v1	GCA_024542745.1	GCF_024542745.1	Macaca thibetana thibetana					TM-01	male		Chromosome	2022-08-09	JANHGW01	623
+ASM2454274v1	GCF_024542745.1	GCA_024542745.1	Macaca thibetana thibetana					TM-01	male	GCF_024542745.1-RS_2023_02	Chromosome	2022-08-09	JANHGW01	623
+mTamHud3.hap1	GCA_057657825.1		Tamiasciurus hudsonicus					mTamHud3	female		Chromosome	2026-05-15	JBXXPO01	140
+NWIPB_Pahodg_1.0	GCA_040182635.1		Pantholops hodgsonii					TAntelope-BX-2024	male		Chromosome	2024-06-17	JBBYXG01	540
+ASM5485964v1	GCA_054859645.1		Tapirus indicus					ZXF-2023			Chromosome	2026-01-30	JAWJZD01	114
+ASM4423182v1	GCA_044231825.1		Addax nasomaculatus					NWPU_XJL	female		Chromosome	2024-11-04	JAVHYU01	2643
+ASM3311817v2	GCA_033118175.2	GCF_033118175.1	Dama dama					Ldn47	male		Chromosome	2024-10-18	JASJUW01	284
+ASM3311817v2	GCF_033118175.1	GCA_033118175.2	Dama dama					Ldn47	male	GCF_033118175.1-RS_2023_11	Chromosome	2023-11-02	JASJUW01	284
+mMarVan1_p1.2	GCA_040207255.2		Marmota vancouverensis					VancouverIslandMarmot03	male		Chromosome	2026-05-15	JBDUGT02	164
+mDugDug1.hap1	GCA_030035585.1		Dugong dugon					mDugDug1	female	GCA_030035585.1-GB_2025_10_02	Chromosome	2023-05-18	JASCZL01	198
+mAxiPor1.hap1	GCA_054883215.1		Axis porcinus					mAxiPor1	male		Chromosome	2026-01-30	JBTXHO01	719
+mNeoNeb1.pri	GCA_028018385.1	GCF_028018385.1	Neofelis nebulosa					mNeoNeb1	male		Chromosome	2023-01-31	JAQMCS01	33
+mNeoNeb1.pri	GCF_028018385.1	GCA_028018385.1	Neofelis nebulosa					mNeoNeb1	male	GCF_028018385.1-RS_2023_07	Chromosome	2023-01-31	JAQMCS01	33
+ARS-OSU_banteng_1.0	GCA_032452875.1	GCF_032452875.1	Bos javanicus	banteng					male		Chromosome	2023-10-11	JAVLEU01	1517
+ARS-OSU_banteng_1.0	GCF_032452875.1	GCA_032452875.1	Bos javanicus	banteng					male	GCF_032452875.1-RS_2023_12	Chromosome	2023-10-11	JAVLEU01	1517
+mLepEur2.pri	GCA_033115175.1	GCF_033115175.1	Lepus europaeus					LE1	male		Chromosome	2023-10-31	JAVHNT01	650
+mLepTim1.pri	GCF_033115175.1	GCA_033115175.1	Lepus europaeus					LE1	male	GCF_033115175.1-RS_2024_01	Chromosome	2023-10-31	JAVHNT01	650
+CAU_Oori_1.0	GCA_014523465.1		Ovis orientalis		Amuf_v1				female		Chromosome	2020-09-11	JACSDQ01	128
+DD_ASM_mAP_20210503	GCA_027563665.2		Antrozous pallidus					TK200870	male	GCA_027563665-GB_2025_12_03	Chromosome	2026-05-11	JAOAOB02	88
+mNycCou1.pri	GCA_027406575.1	GCF_027406575.1	Nycticebus coucang					mNycCou1	male		Chromosome	2022-12-28	JAPZEE01	84
+mNycCou1.pri	GCF_027406575.1	GCA_027406575.1	Nycticebus coucang					mNycCou1	male	GCF_027406575.1-RS_2023_03	Chromosome	2022-12-28	JAPZEE01	84
+mDroGli1.pri	GCA_019393635.1	GCF_019393635.1	Dromiciops gliroides					mDroGli1	female		Chromosome	2021-08-03	JAHYBR01	17
+mDroGli1.pri	GCF_019393635.1	GCA_019393635.1	Dromiciops gliroides					mDroGli1	female	NCBI Dromiciops gliroides Annotation Release 100	Chromosome	2021-08-03	JAHYBR01	17
+P.lotor_Micro_v1.0	GCA_055474045.1		Procyon lotor					Micro	female		Chromosome	2026-02-24	JAKROE01	167
+IOZCAS_Dsag_1.1	GCA_036346955.1		Dipus sagitta				halli	NM19106	female		Chromosome	2024-02-05	JAEEGE01	487
+mJacJac1.mat.Y.cur	GCA_020740685.1	GCF_020740685.1	Jaculus jaculus					mJacJac1	male		Chromosome	2021-11-04	JAJGSA01	159
+mJacJac1.mat.Y.cur	GCF_020740685.1	GCA_020740685.1	Jaculus jaculus					mJacJac1	male	NCBI Jaculus jaculus Annotation Release 102	Chromosome	2021-11-04	JAJGSA01	159
+mChoDid1.pri	GCA_015220235.1	GCF_015220235.1	Choloepus didactylus					mChoDid1	male		Chromosome	2020-11-03	JADCNF01	145
+mChoDid1.pri	GCF_015220235.1	GCA_015220235.1	Choloepus didactylus					mChoDid1	male	NCBI Choloepus didactylus Annotation Release 100	Chromosome	2020-11-03	JADCNF01	145
+mSciVul1.2	GCA_902686455.2	GCF_902686455.1	Sciurus vulgaris								Chromosome	2020-07-31	CACRXJ02	638
+mSciVul1.2	GCF_902686455.1	GCA_902686455.2	Sciurus vulgaris							GCF_902686455.1-RS_2025_09	Chromosome	2019-11-20	CACRXJ02	638
+mPhyDis1.pri.v3	GCA_004126475.3	GCF_004126475.2	Phyllostomus discolor					MPI-MPIP mPhyDis1	male		Chromosome	2020-05-12	RXPA02	77
+mPhyDis1.pri.v3	GCF_004126475.2	GCA_004126475.3	Phyllostomus discolor					MPI-MPIP mPhyDis1	male	NCBI Phyllostomus discolor Annotation Release 101	Chromosome	2020-05-12	RXPA02	77
+mBalMus1.pri.v3	GCA_009873245.3	GCF_009873245.2	Balaenoptera musculus					JJ_BM4_2016_0621	male		Chromosome	2020-10-02	VNFC03	105
+mBalMus1.pri.v3	GCF_009873245.2	GCA_009873245.3	Balaenoptera musculus					JJ_BM4_2016_0621	male	NCBI Balaenoptera musculus Annotation Release 100	Chromosome	2020-10-02	VNFC03	105
+ASM4783464v1	GCA_047834645.1		Nasalis larvatus					XQ-2022a	male	Annotation submitted by Northwest University	Chromosome	2025-02-18	JBLOOW01	933
+mDelDel1.2	GCA_949987515.2	GCF_949987515.2	Delphinus delphis								Chromosome	2024-09-07	CATLKE02	630
+mDelDel1.2	GCF_949987515.2	GCA_949987515.2	Delphinus delphis							GCF_949987515.2-RS_2024_10	Chromosome	2024-09-07	CATLKE02	630
+mGraGri1.hap1.1	GCA_964374135.1	GCF_964374135.1	Grampus griseus								Chromosome	2024-11-29	CAYJXX01	1145
+mGraGri1.hap1.1	GCF_964374135.1	GCA_964374135.1	Grampus griseus							GCF_964374135.1-RS_2025_09	Chromosome	2024-11-29	CAYJXX01	1145
+mEriEur2.1	GCA_950295315.1	GCF_950295315.1	Erinaceus europaeus								Chromosome	2023-05-01	CATNUA01	1174
+mEriEur2.1	GCF_950295315.1	GCA_950295315.1	Erinaceus europaeus							GCF_950295315.1-RS_2023_10	Chromosome	2023-05-01	CATNUA01	1174
+ASM1932006v1	GCA_019320065.1	GCF_019320065.1	Cervus canadensis					Bull #8, Minnesota	male		Chromosome	2021-07-26	JACTMD01	185
+ASM1932006v1	GCF_019320065.1	GCA_019320065.1	Cervus canadensis					Bull #8, Minnesota	male	NCBI Cervus canadensis Annotation Release 100	Chromosome	2021-07-26	JACTMD01	185
+Puncia_PCG_1.0	GCA_023721935.1	GCF_023721935.1	Panthera uncia					11264	female		Chromosome	2022-06-16	JAJAOB01	2635
+Puncia_PCG_1.0	GCF_023721935.1	GCA_023721935.1	Panthera uncia					11264	female	GCF_023721935.1-RS_2023_02	Chromosome	2022-06-16	JAJAOB01	2635
+mMusNiv2.hap1.1	GCA_964662115.1	GCF_964662115.1	Mustela nivalis								Chromosome	2025-01-03	CBAAEQ01	3179
+mMusNiv2.hap1.1	GCF_964662115.1	GCA_964662115.1	Mustela nivalis							GCF_964662115.1-RS_2025_10	Chromosome	2024-12-23	CBAAEQ01	3179
+mSaiBol1.pri	GCA_048565385.1	GCF_048565385.1	Saimiri boliviensis					mSaiBol1	male		Chromosome	2025-03-12	JBLWOU01	62
+mSaiBol1.pri	GCF_048565385.1	GCA_048565385.1	Saimiri boliviensis					mSaiBol1	male	GCF_048565385.1-RS_2025_06	Chromosome	2025-03-12	JBLWOU01	62
+mDicBic1.mat.cur	GCA_020826845.1	GCF_020826845.1	Diceros bicornis minor					mBicDic1	female		Chromosome	2021-11-10	JAJIAY01	1075
+mDicBic1.mat.cur	GCF_020826845.1	GCA_020826845.1	Diceros bicornis minor					mBicDic1	female	GCF_020826845.1-RS_2023_07	Chromosome	2021-11-10	JAJIAY01	1075
+mDicSum1.hap1	GCA_060039915.1		Dicerorhinus sumatrensis sumatrensis					mDicSum1	male		Chromosome	2026-08-12	JCAJRG01	403
+OtoMan_p1.0	GCA_028564725.2		Otocolobus manul					Tater	male		Chromosome	2023-11-27	JAQHUJ01	23
+ASM3183507v1	GCA_031835075.1		Saguinus oedipus					B95-8	male	Annotation submitted by The Ohio State University	Chromosome	2023-09-25	JASSZA01	439
+ASM5353835v2	GCA_053538355.2		Rousettus leschenaultii					GML-RouLes	male		Chromosome	2026-03-20	JBRKBD02	74
+ASM3001541v1	GCA_030015415.1		Cynopterus sphinx					CYSPWHU	female		Chromosome	2023-05-16	JAKZJJ01	181
+mMusLut2.pri	GCA_030435805.1	GCF_030435805.1	Mustela lutreola					mMusLut2	male		Chromosome	2023-07-13	JAUCGO01	25
+mMusLut2.pri	GCF_030435805.1	GCA_030435805.1	Mustela lutreola					mMusLut2	male	GCF_030435805.1-RS_2023_08	Chromosome	2023-07-13	JAUCGO01	25
+mHetBru1.pri	GCA_028571685.1		Heterohyrax brucei					mHetBru1	male	GCA_028571685.1-GB_2026_01_08	Chromosome	2023-02-10	JAQRHT01	62
+CAU_F1_maternal_1.0	GCA_023701675.1		Ovis ammon polii x Ovis aries					F1 hybrid	male	Annotation submitted by China Agricultural University	Chromosome	2022-06-10	JALAIW01	337
+mRupRup1.1	GCA_963981305.1		Rupicapra rupicapra								Chromosome	2024-03-10	CAXCFB01	75
+ASM5485949v1	GCA_054859495.1		Tapirus terrestris					DDM	male		Chromosome	2026-01-30	JBNVTR01	50
+UM_Priviv_1.0	GCA_022837055.1	GCF_022837055.1	Prionailurus viverrinus					Anna	female		Chromosome	2022-04-08	JALEAK01	191
+UM_Priviv_1.0	GCF_022837055.1	GCA_022837055.1	Prionailurus viverrinus					Anna	female	GCF_022837055.1-RS_2023_03	Chromosome	2022-04-08	JALEAK01	191
+ASM2941059v1	GCA_029410595.1		Martes flavigula					Sichuan	male		Chromosome	2023-03-27	JAODOS01	128
+Takin1.1	GCA_023091745.2	GCF_023091745.1	Budorcas taxicolor					Tak-1	male		Chromosome	2022-04-22	JAKGDW01	1362
+Takin1.1	GCF_023091745.1	GCA_023091745.2	Budorcas taxicolor					Tak-1	male	GCF_023091745.1-RS_2023_02	Chromosome	2022-04-22	JAKGDW01	1362
+ASM4291946v1	GCA_042919465.1		Scaptochirus moschatus					CL_2024	male		Chromosome	2024-10-15	JBFCTN01	255
+ASM4372783v1	GCA_043727835.1		Aselliscus stoliczkanus				China	2021113_DDA	male	GCA_043727835.1-GB_2025_08_08	Chromosome	2024-10-24	JARPMH01	74
+Uoulu_pteVol_1.0	GCA_051107445.1		Pteromys volans					PV54	male		Chromosome	2025-06-26	JBFSHP01	637
+UCinereo1.0	GCA_032313775.1		Urocyon cinereoargenteus				Vermont	ataVT051	male		Chromosome	2023-10-04	JAVLSZ01	898
+mEquGre1.hap2	GCA_057877195.1		Equus grevyi					mEquGre1	female		Chromosome	2026-06-03	JBXADC01	274
+mMopCon1.pri	GCA_043748645.2		Mops condylurus				Cote d'Ivoire	20210831_DDa	male		Chromosome	2026-05-15	JARPMO02	34
+HLeliQue1A	GCA_051143605.1		Eliomys quercinus				Western European	TS-2025a			Chromosome	2025-06-30	JBOITW01	180
+mCriCri2.1	GCA_964304595.1		Cricetus cricetus								Chromosome	2024-11-06	CAYAQO01	48
+mMicPen1.hap1	GCA_037038515.1	GCF_037038515.1	Microtus pennsylvanicus					mMicPen1	male		Chromosome	2024-03-06	JBANDQ01	180
+mMicPen1.hap1	GCF_037038515.1	GCA_037038515.1	Microtus pennsylvanicus					mMicPen1	male	GCF_037038515.1-RS_2025_08	Chromosome	2024-03-06	JBANDQ01	180
+WHU_Tmel_v1	GCA_044509165.1		Taphozous melanopogon					203096	male		Chromosome	2024-11-06	JBBMOG01	26
+NWIPB_Pralbi_1.0	GCA_046563475.2		Cervus albirostris					WLD_BCL_ZDX	male		Chromosome	2025-01-08	JBEFZJ01	1972
+mIniGeo1.hap1	GCA_036417435.1		Inia geoffrensis					mIniGeo1	male	GCA_036417435.1-GB_2026_01_11	Chromosome	2024-02-06	JAZAQT01	902
+mEubGla1.1.hap2.+ XY	GCA_028564815.2	GCF_028564815.1	Eubalaena glacialis					mEubGla1	male		Chromosome	2023-02-09	JAQRBK01	788
+mEubGla1.1.hap2.+ XY	GCF_028564815.1	GCA_028564815.2	Eubalaena glacialis					mEubGla1	male	GCF_028564815.1-RS_2023_12	Chromosome	2023-02-09	JAQRBK01	788
+mMusErm1.Pri	GCA_009829155.1	GCF_009829155.1	Mustela erminea					mMusErm1	male		Chromosome	2020-01-03	WNLY01	93
+mMusErm1.Pri	GCF_009829155.1	GCA_009829155.1	Mustela erminea					mMusErm1	male	NCBI Mustela erminea Annotation Release 100	Chromosome	2020-01-03	WNLY01	93
+mHipLar1.pri	GCA_031876335.1		Hipposideros larvatus					mHipLar1	female	GCA_031876335.1-GB_2025_10_17	Chromosome	2023-09-25	JAVKSA01	69
+ASM3987782v1	GCA_039877825.1		Muntiacus vaginalis					HNJ_1	female		Chromosome	2024-05-29	JBDIXW01	329
+mMyoDau2.hap1.2	GCA_963259705.2		Myotis daubentonii								Chromosome	2025-04-09	CAUJLG02	175
+SNNU_Nfu_v1	GCA_047571435.1		Neodon fuscus					SNNU	male		Chromosome	2025-02-10	JBIEOQ01	338
+mMolMol1.pri	GCA_014108415.2		Molossus molossus					mMolMol1	male		Chromosome	2026-01-22	JACASF02	45
+mCorTow1.1.hap2	GCA_026230045.2		Corynorhinus townsendii					COTO_CA2020_CCGP	male		Chromosome	2025-12-17	JAPDVU02	165
+mPhoSin1.pri	GCA_008692025.1	GCF_008692025.1	Phocoena sinus					mPhoSin1	female		Chromosome	2019-09-26	VOSU01	64
+mPhoSin1.pri	GCF_008692025.1	GCA_008692025.1	Phocoena sinus					mPhoSin1	female	NCBI Phocoena sinus Annotation Release 100	Chromosome	2019-09-26	VOSU01	64
+mEreDor1.pri	GCA_028451465.1		Erethizon dorsatum					mEreDor1	male	GCA_028451465.1-GB_2025_12_01	Chromosome	2023-02-06	JAQMCO01	115
+ASM2149846v1	GCA_021498465.1		Hylobates pileatus					KIZ-2021_10	male		Chromosome	2022-01-19	JAKFGR01	743
+mPipKuh1.pri	GCA_014108245.2		Pipistrellus kuhlii					mPipKuh1	male		Chromosome	2025-12-17	JACAGB02	81
+mTamTet1.pri	GCA_023851605.1	GCF_023851605.1	Tamandua tetradactyla					mTamTet1	male		Chromosome	2022-06-22	JAMSGI01	200
+mTamTet1.pri	GCF_023851605.1	GCA_023851605.1	Tamandua tetradactyla					mTamTet1	male	GCF_023851605.1-RS_2025_09	Chromosome	2022-06-22	JAMSGI01	200
+mLynCan4.pri.v2	GCA_007474595.2	GCF_007474595.2	Lynx canadensis					LIC74	male		Chromosome	2020-07-14	VHLE02	54
+mLynCan4.pri.v2	GCF_007474595.2	GCA_007474595.2	Lynx canadensis					LIC74	male	NCBI Lynx canadensis Annotation Release 102	Chromosome	2020-07-14	VHLE02	54
+MCyc01	GCA_026956025.1		Macaca cyclopis					10D7	female		Chromosome	2022-12-19	JAHZQV01	119
+mCalLat2.hap1	GCA_048772815.1	GCF_048772815.1	Callospermophilus lateralis					mCalLat2	male	GCA_048772815.1-GB_2025_10_14	Chromosome	2025-03-21	JBMETG01	8087
+mCalLat2.hap1	GCF_048772815.1	GCA_048772815.1	Callospermophilus lateralis					mCalLat2	male	GCF_048772815.1-RS_2025_09	Chromosome	2025-03-21	JBMETG01	8087
+BCGSAC_Cfer_1.0	GCA_009834535.1	GCF_009834535.1	Camelus ferus					YT-003-E	male		Chromosome	2020-01-08	VSZR01	2042
+BCGSAC_Cfer_1.0	GCF_009834535.1	GCA_009834535.1	Camelus ferus					YT-003-E	male	NCBI Camelus ferus Annotation Release 102	Chromosome	2020-01-08	VSZR01	2042
+mApoSyl1.1	GCA_947179515.1	GCF_947179515.1	Apodemus sylvaticus								Chromosome	2022-10-28	CAMXCG01	497
+mApoSyl1.1	GCF_947179515.1	GCA_947179515.1	Apodemus sylvaticus							GCF_947179515.1-RS_2023_02	Chromosome	2022-10-28	CAMXCG01	497
+mHalGry1.hap1.1	GCA_964656455.1	GCF_964656455.1	Halichoerus grypus								Chromosome	2025-01-02	CAZZRU01	170
+mHalGry1.hap1.1	GCF_964656455.1	GCA_964656455.1	Halichoerus grypus							GCF_964656455.1-RS_2025_12	Chromosome	2025-01-02	CAZZRU01	170
+mGloMel1.2	GCA_963455315.2	GCF_963455315.2	Globicephala melas								Chromosome	2024-09-07	CAUOHG02	992
+mGloMel1.2	GCF_963455315.2	GCA_963455315.2	Globicephala melas							GCF_963455315.2-RS_2024_11	Chromosome	2024-09-07	CAUOHG02	992
+mMesBid2.hap1.1	GCA_964165515.1	GCF_964165515.1	Mesoplodon bidens								Chromosome	2024-06-06	CAXLBW01	1601
+mMesBid2.hap1.1	GCF_964165515.1	GCA_964165515.1	Mesoplodon bidens							GCF_964165515.1-RS_2025_09	Chromosome	2024-06-06	CAXLBW01	1601
+mMyoDau2.1	GCA_963259705.1	GCF_963259705.1	Myotis daubentonii								Chromosome	2023-08-20	CAUJLG01	121
+mMyoDau2.1	GCF_963259705.1	GCA_963259705.1	Myotis daubentonii							GCF_963259705.1-RS_2023_09	Chromosome	2023-08-20	CAUJLG01	121
+mPerGun1.2_20251003	GCA_056321495.1		Perameles gunnii					EBB01	female		Chromosome	2026-03-25	JBWDPJ01	1462
+mBalBor1.hap1.1	GCA_965194805.1	GCF_965194805.1	Balaenoptera borealis								Chromosome	2025-03-10	CBDAFA01	2571
+mBalBor1.hap1.1	GCF_965194805.1	GCA_965194805.1	Balaenoptera borealis							GCF_965194805.1-RS_2025_10	Chromosome	2025-03-10	CBDAFA01	2571
+mMusAve1.1	GCA_963383645.1	GCF_963383645.1	Muscardinus avellanarius								Chromosome	2023-08-26	CAUJNS01	212
+mMusAve1.1	GCF_963383645.1	GCA_963383645.1	Muscardinus avellanarius							GCF_963383645.1-RS_2025_09	Chromosome	2023-08-24	CAUJNS01	212
+mOncTor1.1	GCA_903995425.1	GCF_903995425.1	Onychomys torridus								Chromosome	2020-08-21	CAJFAA01	2949
+mOncTor1.1	GCF_903995425.1	GCA_903995425.1	Onychomys torridus							NCBI Onychomys torridus Annotation Release 100	Chromosome	2020-08-21	CAJFAA01	2949
+mMicMin1.1	GCA_963924665.1	GCF_963924665.1	Micromys minutus								Chromosome	2024-01-29	CAWUQU01	893
+mMicMin1.1	GCF_963924665.1	GCA_963924665.1	Micromys minutus							GCF_963924665.1-RS_2025_09	Chromosome	2024-01-28	CAWUQU01	893
+mMarMar1.1	GCA_963455335.1	GCF_963455335.1	Martes martes								Chromosome	2023-09-20	CAUOHJ01	476
+mMarMar1.1	GCF_963455335.1	GCA_963455335.1	Martes martes							GCF_963455335.1-RS_2025_08	Chromosome	2023-09-14	CAUOHJ01	476
+bilby.v1.9.chrom.fasta	GCA_037893015.1	GCF_037893015.1	Macrotis lagotis					mMagLag1	female		Chromosome	2024-04-04	JAZEUY01	608
+bilby.v1.9.chrom.fasta	GCF_037893015.1	GCA_037893015.1	Macrotis lagotis					mMagLag1	female	GCF_037893015.1-RS_2025_05	Chromosome	2024-04-04	JAZEUY01	608
+mzib.min_150.pseudohap2.1_HiC.purged	GCA_040938815.1		Martes zibellina		10xmzib				female		Chromosome	2024-07-30	JBEHDY01	18010
+UCB_Mmun_1.0	GCA_008782695.1		Muntiacus muntjak					UTSW_UCB_Mm	female	Annotation submitted by University of California, Berkeley	Chromosome	2019-10-07	VCEA01	25651
+PAHARI_EIJ_v1.1	GCA_900095145.2	GCF_900095145.1	Mus pahari						female		Chromosome	2017-04-28	FMBV02	2581
+PAHARI_EIJ_v1.1	GCF_900095145.1	GCA_900095145.2	Mus pahari						female	NCBI Mus pahari Annotation Release 101	Chromosome	2017-04-28	FMBV02	2581
+mRucEld1.hap2	GCA_054824845.1		Rucervus eldii thamin					mRucEld1	female		Chromosome	2026-01-29	JBTVSE01	902
+TAMU_Opar_alb_1.0	GCA_058742865.1		Leopardus pardalis albescens					LAO03M	male		Chromosome	2026-06-30	JBWGWQ01	108
+TAMU_L.serval_SxD256_v1.0.pat	GCA_056512435.1		Leptailurus serval					LseSxD256	female		Chromosome	2026-04-01	JBNJOB01	113
+mRhyNas2.hap2	GCA_037038555.1		Rhynchonycteris naso					mRhyNas2	male		Chromosome	2024-03-06	JBAKBJ01	38
+serow.2	GCA_032405125.2	GCF_032405125.1	Capricornis sumatraensis					serow.1	pooled male and female		Chromosome	2024-03-13	JAXIOT01	158
+serow.2	GCF_032405125.1	GCA_032405125.2	Capricornis sumatraensis					serow.1	pooled male and female	GCF_032405125.1-RS_2024_10	Chromosome	2024-03-13	JAXIOT01	158
+mAnoDer1.hap1	GCA_058744715.1		Anomalurus derbianus					mAnoDer1	female		Chromosome	2026-07-02	JBZXKD01	223
+mMyoVel1.0	GCA_056320415.1		Myotis velifer					LE001	male		Chromosome	2026-03-25	JBPVWJ01	156
+mCapNub1.hap1	GCA_054855995.1		Capra nubiana					mCapNub1	male		Chromosome	2026-01-30	JBTVNK01	226
+FelChav1.0	GCA_019924945.1		Felis chaus					Fch-1a	male		Chromosome	2021-09-14	JAGKTF01	52
+OSU_ERuf_1	GCA_041146395.1	GCF_041146395.1	Eulemur rufifrons					Redbay	female		Chromosome	2024-08-16	JBFNAD01	647
+OSU_ERuf_1	GCF_041146395.1	GCA_041146395.1	Eulemur rufifrons					Redbay	female	GCF_041146395.1-RS_2024_10	Chromosome	2024-08-16	JBFNAD01	647
+mNotTyp1.pri	GCA_048126345.2		Notoryctes typhlops				Waite Creek area	ABTC07570	female		Chromosome	2026-01-23	JBLRMK02	688
+mRouMad1.hap2	GCA_059802175.1		Rousettus madagascariensis					mRouMad1	male		Chromosome	2026-08-04	JCASON01	65
+ASM4182541v1	GCA_041825415.1		Rhinolophus rex					M181101	male		Chromosome	2024-09-09	JBGVUD01	149
+mMolNig1.hap1	GCA_039880945.1		Molossus nigricans					mMolNig1	male	GCA_039880945.1-GB_2025_09_03	Chromosome	2024-05-29	JBDPII01	365
+mMolAlv2.hap2	GCA_037176705.1		Molossus alvarezi					mMolAlv2	female		Chromosome	2024-03-15	JBAWUJ01	287
+mCynVol1.pri	GCA_027409185.1	GCF_027409185.1	Cynocephalus volans					mCynVol1	male		Chromosome	2022-12-28	JAPWCP01	130
+mCynVol1.pri	GCF_027409185.1	GCA_027409185.1	Cynocephalus volans					mCynVol1	male	GCF_027409185.1-RS_2024_02	Chromosome	2022-12-28	JAPWCP01	130
+mPepEle1.hap2	GCA_051427955.1		Peponocephala electra					mPepEle1	male		Chromosome	2025-07-21	JBPPFU01	167
+mMarFoi2.1	GCA_964304585.1		Martes foina								Chromosome	2024-11-06	CAYAQN01	22
+TBG_Okapi_asm_v1	GCA_024291935.2		Okapia johnstoni					TBG_1119_Moyo	male		Chromosome	2022-07-16	JAGTYA01	3653
+NENU_Navi_2.0	GCA_036971965.2		Nyctalus aviator					NycAvi_Female_1.0	female		Chromosome	2024-05-31	JAPZQD02	195
+mTreOrn2.0.pri	GCA_054642835.1		Tremarctos ornatus					KB8897	male		Chromosome	2026-01-21	JBTVSB01	257
+mArtLit1.hap2	GCA_038363175.3		Artibeus lituratus					mArtLit1	male		Chromosome	2025-04-29	JBAWUR03	312
+mPseCra1.hap1	GCA_039906515.1	GCF_039906515.1	Pseudorca crassidens					mPseCra1	male		Chromosome	2024-05-31	JBDMAU01	438
+mPseCra1.hap1	GCF_039906515.1	GCA_039906515.1	Pseudorca crassidens					mPseCra1	male	GCF_039906515.1-RS_2024_08	Chromosome	2024-05-31	JBDMAU01	438
+mLasEga1.hap2	GCA_058972195.1		Lasiurus ega					mLasEga1	male		Chromosome	2026-07-06	JBZXKO01	591
+CapIbe1.0	GCA_054642885.1		Capra ibex					Odissea	female	Annotation submitted by Istituto Italiano di Tecnologia	Chromosome	2026-01-07	JBIMMJ01	1037
+CXZ	GCA_036325905.1		Lepus oiostolus				The Qinghai-Tibet Plateau	SH-2023			Chromosome	2024-02-05	JAWMBE01	112
+ASM4488510v2	GCA_044885105.2		Pipistrellus abramus					XJ-2024a	male		Chromosome	2026-01-29	JBINKG02	48
+BalEdn.hic.v1	GCA_052818205.1		Balaenoptera edeni					HK-072023	male		Chromosome	2025-09-24	JBDJPH01	128
+VMU_Caureus_v.1.0	GCA_053574225.1	GCF_053574225.1	Canis aureus					CA01	male		Chromosome	2025-11-21	JBPVXR01	306
+VMU_Caureus_v.1.0	GCF_053574225.1	GCA_053574225.1	Canis aureus					CA01	male	GCF_053574225.1-RS_2025_12	Chromosome	2025-11-21	JBPVXR01	306
+mPipPyg2.hap1.2	GCA_949987585.2		Pipistrellus pygmaeus								Chromosome	2025-04-09	CATLKC02	327
+mLeoRos1.hap1	GCA_054824895.1		Leontopithecus rosalia					mLeoRos1	male		Chromosome	2026-01-29	JBTBFD01	429
+mTadTen1.hap1.1	GCA_976988885.1		Tadarida teniotis								Chromosome	2025-11-08	CDRKIM01	640
+ASM2450048v1	GCA_024500485.1		Vulpes ferrilata					lyu1992	male		Chromosome	2022-08-01	JAJBZS01	234
+AdamAnt_v2	GCA_016432865.2	GCF_016432865.1	Antechinus flavipes				Samford, QLD, Australia	AdamAnt	male		Chromosome	2021-01-06	JADWMD01	485
+AdamAnt_v2	GCF_016432865.1	GCA_016432865.2	Antechinus flavipes				Samford, QLD, Australia	AdamAnt	male	GCF_016432865.1-RS_2023_02	Chromosome	2021-01-06	JADWMD01	485
+mVesMur1.hap1.2	GCA_963924515.2		Vespertilio murinus								Chromosome	2025-04-09	CAWUQJ02	267
+mMesDen1 primary haplotype	GCA_025265405.1	GCF_025265405.1	Mesoplodon densirostris					mMesDen1	male		Chromosome	2022-09-19	JANXIL01	73
+mMesDen1 primary haplotype	GCF_025265405.1	GCA_025265405.1	Mesoplodon densirostris					mMesDen1	male	GCF_025265405.1-RS_2023_10	Chromosome	2022-09-19	JANXIL01	73
+mCenSen1.hap1	GCA_058972505.1		Centurio senex					mCenSen1	female		Chromosome	2026-07-06	JBZXKZ01	811
+mMyoNat1.hap1.2	GCA_964212035.2	GCF_964212035.1	Myotis nattereri								Chromosome	2025-03-28	CAXOTG02	211
+mMyoNat1.hap1.2	GCF_964212035.1	GCA_964212035.2	Myotis nattereri							GCF_964212035.1-RS_2025_08	Chromosome	2025-03-28	CAXOTG02	211
+ASM5586095v1	GCA_055860955.1		Tylonycteris robustula					YYR-2026a			Chromosome	2026-03-13	JBVVKR01	64
+zhanglab2022	GCA_030463245.1		Vulpes corsac					zsh2022	male		Chromosome	2023-07-18	JAOVTI01	202
+mTenEca1.hap1	GCA_050624435.1	GCF_050624435.1	Tenrec ecaudatus					mTenEca1	male		Chromosome	2025-05-30	JBNYUK01	2180
+mTenEca1.hap1	GCF_050624435.1	GCA_050624435.1	Tenrec ecaudatus					mTenEca1	male	GCF_050624435.1-RS_2025_07	Chromosome	2025-05-30	JBNYUK01	2180
+mCteGun2.hap1	GCA_048771875.1		Ctenodactylus gundi					mCteGun2	female	GCA_048771875.1-GB_2025_08_12	Chromosome	2025-03-21	JBMERT01	535
+mBalRic1.hap2	GCA_028023285.1	GCF_028023285.1	Balaenoptera ricei					mBalRic1	female		Chromosome	2023-01-30	JAQMGZ01	774
+mBalRic1.hap2	GCF_028023285.1	GCA_028023285.1	Balaenoptera ricei					mBalRic1	female	GCF_028023285.1-RS_2023_09	Chromosome	2023-01-30	JAQMGZ01	774
+mApoAgr2.1	GCA_964023405.1		Apodemus agrarius								Chromosome	2024-04-12	CAXIEO01	60
+mSylFlo1.10	GCA_949820135.1		Sylvilagus floridanus								Chromosome	2023-04-19	CATKVR01	99
+ASM4388054v1	GCA_043880545.1		Rhinopoma microphyllum					20210906_DDa	male	GCA_043880545.1-GB_2025_10_13	Chromosome	2024-10-28	JARUKN01	106
+SNNU_BFC_1	GCA_032458615.1		Felis nigripes					JY-2023a	female		Chromosome	2023-10-11	JAVSGG01	357
+mChiNiv1.1	GCA_950005125.1	GCF_950005125.1	Chionomys nivalis								Chromosome	2023-05-01	CATLKQ01	160
+mChiNiv1.1	GCF_950005125.1	GCA_950005125.1	Chionomys nivalis							GCF_950005125.1-RS_2023_06	Chromosome	2023-05-01	CATLKQ01	160
+NW_LepCap_1.0	GCA_042027585.1		Lepus capensis	Cape hare				XD-2024	male		Chromosome	2024-09-19	JBHEQN01	924
+mMyoMys1.hap1.2	GCA_964094495.3		Myotis mystacinus								Chromosome	2025-10-26	CAXKYI03	240
+ASM4388042v1	GCA_043880425.1		Rhinolophus yonghoiseni				Malaysia	20210929_DDd	female	GCA_043880425.1-GB_2025_11_02	Chromosome	2024-10-28	JARCGW01	1485
+mTriInu1 haplotype 2	GCA_046562895.1		Trichechus inunguis					mTriInu1	male	GCA_046562895.1-GB_2025_09_06	Chromosome	2025-01-08	JBKGUF01	401
+ASM4388059v1	GCA_043880595.1		Megaderma spasma				Vietnam	20211001_DDb	male	GCA_043880595.1-GB_2025_12_03	Chromosome	2024-10-28	JAREJN01	418
+mSacBil1_pri_phased_curated	GCA_036850765.1	GCF_036850765.1	Saccopteryx bilineata					mSacBil1	male		Chromosome	2024-02-26	JAWMAK01	256
+mSacBil1_pri_phased_curated	GCF_036850765.1	GCA_036850765.1	Saccopteryx bilineata					mSacBil1	male	GCF_036850765.1-RS_2024_07	Chromosome	2024-02-26	JAWMAK01	256
+ASM2389825v1	GCA_023898255.1		Nycticebus bengalensis					KIZ-2021_18			Chromosome	2022-06-27	JAKFHK01	3383
+mSacLep1_pri_phased_curated	GCA_036850995.1	GCF_036850995.1	Saccopteryx leptura					mSacLep1	male		Chromosome	2024-02-26	JAVMPD01	167
+mSacLep1_pri_phased_curated	GCF_036850995.1	GCA_036850995.1	Saccopteryx leptura					mSacLep1	male	GCF_036850995.1-RS_2024_07	Chromosome	2024-02-26	JAVMPD01	167
+mPipNat.pri	GCA_963693515.1		Pipistrellus nathusii							Annotation submitted by Leibniz Institute for Zoo and Wildlife Research	Chromosome	2024-02-07	CAVNZX01	153
+PleCup_hybrid	GCA_040437455.1		Plecturocebus cupreus					I1	male	Annotation submitted by Arizona State University	Chromosome	2024-07-02	JBDJOS01	1288
+ASM4388028v1	GCA_043880285.1		Doryrhina cyclops				Cote d'Ivoire	20210929_DDa	female	GCA_043880285.1-GB_2025_12_03	Chromosome	2024-10-28	JARCLX01	65
+UniMelb_DasViv_v1.0	GCA_020854095.1		Dasyurus viverrinus					TARZ-13805.1	female		Chromosome	2021-11-12	JAJAFV01	76
+ASM4372814v1	GCA_043728145.1		Rhinolophus trifoliatus				Malaysia		male	GCA_043728145.1-GB_2025_10_26	Chromosome	2024-10-24	JARDWN01	125
+ROS_Pafr_v1	GCA_016906955.1	GCF_016906955.1	Phacochoerus africanus					WHEZ1	female		Chromosome	2021-02-19	JACMRZ01	194
+ROS_Pafr_v1	GCF_016906955.1	GCA_016906955.1	Phacochoerus africanus					WHEZ1	female	GCF_016906955.1-RS_2023_03	Chromosome	2021-02-19	JACMRZ01	194
+mTupTan1.pri	GCA_026018925.2		Tupaia tana					BS70		GCA_026018925.2-GB_2026_01_09	Chromosome	2025-12-17	JAKSZU02	1209
+mArvAmp1.2	GCA_903992535.2	GCF_903992535.2	Arvicola amphibius								Chromosome	2021-05-15	CAJEUG02	215
+mArvAmp1.2	GCF_903992535.2	GCA_903992535.2	Arvicola amphibius							NCBI Arvicola amphibius Annotation Release 101	Chromosome	2021-05-15	CAJEUG02	215
+mSunEtr1.pri.cur	GCA_024139225.1	GCF_024139225.1	Suncus etruscus					mSunEtr1	male		Chromosome	2022-07-06	JAMYDX01	147
+mSunEtr1.pri.cur	GCF_024139225.1	GCA_024139225.1	Suncus etruscus					mSunEtr1	male	GCF_024139225.1-RS_2023_02	Chromosome	2022-07-06	JAMYDX01	147
+mAcoRus1.1	GCA_903995435.1	GCF_903995435.1	Acomys russatus								Chromosome	2020-08-21	CAJFAB01	623
+mAcoRus1.1	GCF_903995435.1	GCA_903995435.1	Acomys russatus							GCF_903995435.1-RS_2023_02	Chromosome	2020-08-21	CAJFAB01	623
+mSteCoe1.1	GCA_951394435.1	GCF_951394435.1	Stenella coeruleoalba								Chromosome	2023-06-16	CATOBZ01	637
+mSteCoe1.1	GCF_951394435.1	GCA_951394435.1	Stenella coeruleoalba							GCF_951394435.1-RS_2025_09	Chromosome	2023-06-16	CATOBZ01	637
+mSpeCit3.1	GCA_964194105.1	GCF_964194105.1	Spermophilus citellus								Chromosome	2024-06-28	CAXMLD01	497
+mSpeCit3.1	GCF_964194105.1	GCA_964194105.1	Spermophilus citellus							GCF_964194105.1-RS_2025_09	Chromosome	2024-06-28	CAXMLD01	497
+mTalEur1.hap1.1	GCA_964194135.1	GCF_964194135.1	Talpa europaea								Chromosome	2024-06-28	CAXMLJ01	463
+mTalEur1.hap1.1	GCF_964194135.1	GCA_964194135.1	Talpa europaea							GCF_964194135.1-RS_2025_10	Chromosome	2024-06-28	CAXMLJ01	463
+mLagAlb1.1	GCA_949774975.1	GCF_949774975.1	Lagenorhynchus albirostris								Chromosome	2023-04-08	CATKRZ01	409
+mLagAlb1.1	GCF_949774975.1	GCA_949774975.1	Lagenorhynchus albirostris							GCF_949774975.1-RS_2023_10	Chromosome	2023-04-08	CATKRZ01	409
+mMesMir1.hap1.2	GCA_964341445.2		Mesoplodon mirus								Chromosome	2026-07-06	CAYFDW02	2364
+mMesMir1.hap1.1	GCA_964341445.1	GCF_964341445.1	Mesoplodon mirus								Chromosome	2024-11-28	CAYFDW01	2756
+mMesMir1.hap1.1	GCF_964341445.1	GCA_964341445.1	Mesoplodon mirus							GCF_964341445.1-RS_2025_08	Chromosome	2024-11-28	CAYFDW01	2756
+mHypAmp2.1	GCA_949752795.1	GCF_949752795.1	Hyperoodon ampullatus								Chromosome	2023-04-08	CATKHW01	756
+mHypAmp2.1	GCF_949752795.1	GCA_949752795.1	Hyperoodon ampullatus							GCF_949752795.1-RS_2025_09	Chromosome	2023-03-31	CATKHW01	756
+mPleAur1.1	GCA_963455305.1	GCF_963455305.1	Plecotus auritus								Chromosome	2023-09-20	CAUOHF01	64
+mPleAur1.1	GCF_963455305.1	GCA_963455305.1	Plecotus auritus							GCF_963455305.1-RS_2025_08	Chromosome	2023-09-14	CAUOHF01	64
+mRhiHip2.hap1.1	GCA_964194185.1	GCF_964194185.1	Rhinolophus hipposideros								Chromosome	2024-06-28	CAXMLL01	722
+mRhiHip2.hap1.1	GCF_964194185.1	GCA_964194185.1	Rhinolophus hipposideros							GCF_964194185.1-RS_2025_08	Chromosome	2024-06-28	CAXMLL01	722
+PerEre_H2_v1	GCA_949786415.1	GCF_949786415.1	Peromyscus eremicus								Chromosome	2023-04-08	CATKUO01	4296
+PerEre_H2_v1	GCF_949786415.1	GCA_949786415.1	Peromyscus eremicus							GCF_949786415.1-RS_2023_08	Chromosome	2023-04-08	CATKUO01	4296
+Obeecheyi_v1	GCA_051821045.1		Otospermophilus beecheyi		wild		Berkeley		female		Chromosome	2025-08-05	JBLFFD01	1383
+CEY_v1	GCA_010411085.1		Cervus hanglu yarkandensis					CEY-2017	male	Annotation submitted by Institute of Special Wild Economic Animals and Plants, Chinese Academy of Agricultural Sciences	Chromosome	2020-02-12	WMHW01	17927
+ASM220157v2	GCA_002201575.2	GCF_002201575.2	Neomonachus schauinslandi						male		Chromosome	2021-10-20	NINY02	8094
+ASM220157v2	GCF_002201575.2	GCA_002201575.2	Neomonachus schauinslandi						male	NCBI Neomonachus schauinslandi Annotation Release 101	Chromosome	2021-10-20	NINY02	8094
+Cryptoprocta_ferox_HiC	GCA_028646485.1		Cryptoprocta ferox					Sample0336	male		Chromosome	2023-02-16	JAQQST01	185515
+Rhinoceros_unicornis_HiC	GCA_028646465.1		Rhinoceros unicornis					Sample0755	male		Chromosome	2023-02-16	JAQQSS01	273665
+ASM277652v5	GCA_002776525.5	GCF_002776525.5	Piliocolobus tephrosceles					RC106	male		Chromosome	2019-12-12	PDMG03	32287
+ASM277652v5	GCF_002776525.5	GCA_002776525.5	Piliocolobus tephrosceles					RC106	male	GCF_002776525.5-RS_2026_05	Chromosome	2019-12-12	PDMG03	32287
+Chrysocyon_brachyurus_HiC	GCA_028533335.1		Chrysocyon brachyurus					Sample0146	male		Chromosome	2023-02-09	JAQIGB01	120371
+Helarctos_malayanus_HiC	GCA_028533245.1		Helarctos malayanus					Sample0289	male		Chromosome	2023-02-09	JAPYYF01	726300
+Steno_bredanensis_HiC	GCA_028646385.1		Steno bredanensis					Sample2567	male		Chromosome	2023-02-16	JAQQSN01	221678
+ASM5417740v2	GCA_054177405.2	GCF_054177405.1	Leptonychotes weddellii								Chromosome	2025-12-24	JBLRMC01	396180
+ASM5417740v2	GCF_054177405.1	GCA_054177405.2	Leptonychotes weddellii					Sample4059	female	GCF_054177405.1-RS_2026_04	Chromosome	2025-12-24	JBLRMC01	396180
+Varecia_variegata_HiC	GCA_028533085.1		Varecia variegata					Sample0354	female		Chromosome	2023-02-10	JAQIFY01	984208
+Cpen_1.0	GCA_046862485.1		Callithrix penicillata					BDCRC01	female		Chromosome	2025-01-22	JBKIDM01	12090
+UCSF_Mcou_1	GCA_008632895.1	GCF_008632895.1	Mastomys coucha					ucsf_1	male		Chromosome	2019-09-24	VSBT01	27
+UCSF_Mcou_1	GCF_008632895.1	GCA_008632895.1	Mastomys coucha					ucsf_1	male	NCBI Mastomys coucha Annotation Release 100	Chromosome	2019-09-24	VSBT01	27
+PSIB_hic	GCA_028975605.1		Pusa sibirica		PUSI1m				male		Chromosome	2023-03-08	JAQFWT01	49645
+ASM4374857v1	GCA_043748575.1		Rhinolophus perniger lanosus					20210929_DDc	male	GCA_043748575.1-GB_2025_11_02	Chromosome	2024-10-24	JARWAW01	65
+mZapHud2.hap2	GCA_057945955.1		Zapus hudsonius luteus					mZapHud2	male		Chromosome	2026-06-04	JBYDFH01	262
+mLagAcu1.hap1.1	GCA_964270905.1	GCF_964270905.1	Leucopleurus acutus								Chromosome	2024-09-29	CAXWTB01	898
+mLagAcu1.hap1.1	GCF_964270905.1	GCA_964270905.1	Leucopleurus acutus							GCF_964270905.1-RS_2025_09	Chromosome	2024-09-29	CAXWTB01	898
+mEptNil1.1	GCA_951640355.1	GCF_951640355.1	Cnephaeus nilssonii								Chromosome	2023-05-18	CATOCV01	206
+mEptNil1.1	GCF_951640355.1	GCA_951640355.1	Cnephaeus nilssonii							GCF_951640355.1-RS_2025_09	Chromosome	2023-05-18	CATOCV01	206
+mDerPha1.hap2	GCA_051107595.1		Dermanura phaeotis					mDerPha1	male		Chromosome	2025-06-26	JBPCCN01	102
+mMyoEvo1.0	GCA_056320405.1		Myotis evotis					MEvo1			Chromosome	2026-03-25	JBPVWL01	117
+mMyoVol1.0	GCA_056320705.1		Myotis volans					B2S1-22	male		Chromosome	2026-03-25	JBPVWN01	78
+mMyoCai1.0	GCA_056320955.1		Myotis californicus					W8-MyCa	female		Chromosome	2026-03-25	JBPVWP01	84
+mMyoThy1.0	GCA_056320715.1		Myotis thysanodes					MThy1	male		Chromosome	2026-03-25	JBPVWK01	75
+mMonMoa1.1	GCA_976986665.1		Monachus monachus								Chromosome	2025-11-08	CDRKBZ01	275
+mMyoOcc1.0	GCA_056320795.1		Myotis occultus					B2S1-25	male		Chromosome	2026-03-25	JBPVWM01	69
+mGarKee1.hap2	GCA_050655445.1		Gardnerycteris keenani					mGarKee1	male		Chromosome	2025-06-02	JBOKGI01	83
+mMyoAui1.0	GCA_056320785.1		Myotis auriculus					B2S1-17	male		Chromosome	2026-03-25	JBPVWO01	136
+mGloMut1.hap1	GCA_039655065.1		Glossophaga mutica					mGloMut1	female	GCA_039655065.1-GB_2025_08_29	Chromosome	2024-05-17	JBCAQL01	81
+mEidDup1.hap2	GCA_059749105.1		Eidolon dupreanum					mEidDup1	female		Chromosome	2026-08-03	JCBABP01	54
+mArtInt1.hap2	GCA_038363225.1		Artibeus intermedius					mArtInt1	male		Chromosome	2024-04-22	JBAWUT01	187
+mRhiCli1.hap1	GCA_054645015.1		Rhinolophus clivosus					mRhiCli1	male		Chromosome	2026-01-22	JBTNEC01	270
+ARS_Pied_mat1.0	GCA_946052875.1		Bos gaurus x Bos taurus								Chromosome	2022-09-11	CAMGDQ01	996
+mEumNan1.hap1	GCA_058972175.1		Eumops nanus					mEumNan1	female		Chromosome	2026-07-06	JBZXKL01	158
+mCepZeb1.hap1	GCA_054099735.1		Cephalophula zebra					mCepZeb1	female		Chromosome	2025-12-18	JBSLPA01	598
+mCarSow1.hap1	GCA_051307085.1		Carollia sowelli					mCarSow1	female		Chromosome	2025-07-14	JBOBQR01	508
+mPerGos1.hap1	GCA_057877385.1		Peromyscus gossypinus allapaticola					mPerGos1	male		Chromosome	2026-06-03	JBXXQC01	463
+mEptFur1.hap2	GCA_054644445.1		Neoeptesicus furinalis					mEptFur1	female		Chromosome	2026-01-22	JBRANB01	86
+mMyoTri1.hap1	GCA_054824995.1		Myotis tricolor					mMyoTri1	male		Chromosome	2026-01-29	JBTBEZ01	188
+mMyoPil1.hap1	GCA_057888715.1		Myotis pilosatibialis					mMyoPil1	female		Chromosome	2026-06-03	JBVAYK01	115
+mMicMic1.hap2	GCA_051107335.1		Micronycteris microtis					mMicMic1	male		Chromosome	2025-06-26	JBPFCS01	158
+mRhiDar1.hap1	GCA_057427945.1		Rhinolophus darlingi					mRhiDar1	male		Chromosome	2026-05-11	JBXXPU01	222
+mLepCas1.Hap1.1	GCA_978442995.1		Lepus castroviejoi								Chromosome	2026-02-10	CDZNTQ01	212
+mMyoNes1.hap2	GCA_054855975.1		Myotis nesopolus					mMyoNes1	male		Chromosome	2026-01-30	JBTVNJ01	150
+mMyoSod1.hap1	GCA_057945255.1		Myotis sodalis					mMyoSod1	male		Chromosome	2026-06-04	JBXADV01	43
+mLopEvo1.hap1	GCA_051307075.1		Lophostoma evote					mLopEvo1	male		Chromosome	2025-07-14	JBOBQC01	311
+mPhs449_Pusa_saimensis_1	GCA_059488705.1		Pusa saimensis					Tuukka			Chromosome	2026-07-16	JBXAED01	251
+mStuPar1.hap2	GCA_054855695.1		Sturnira parvidens					mStuPar1	male		Chromosome	2026-01-30	JBRFIH01	703
+mPlaHel1.hap1	GCA_051107505.1		Platyrrhinus helleri					mPlaHel1	male		Chromosome	2025-06-26	JBPCCK01	364
+mPipHan1.5	GCA_964339955.5	GCF_964339955.1	Pipistrellus hanaki								Chromosome	2025-07-07	CAYEYA05	140
+mPipHan1.5	GCF_964339955.1	GCA_964339955.5	Pipistrellus hanaki							GCF_964339955.1-RS_2025_08	Chromosome	2025-07-07	CAYEYA05	140
+mMyoEma1.hap1.2	GCA_965115925.2		Myotis emarginatus								Chromosome	2025-04-14	CBCPEJ02	305
+mPteRuf1.hap2	GCA_056363655.1		Pteropus rufus					mPteRuf1	female		Chromosome	2026-03-27	JBWDIR01	91
+mEptChi1.hap1	GCA_054100705.1		Neoeptesicus chiriquinus					mEptChi1	male		Chromosome	2025-12-18	JBSIDG01	132
+mMyoRut1_p1.0	GCA_040207285.2		Clethrionomys rutilus					NRedBackedVole01	male		Chromosome	2025-02-12	JBCDMM02	83
+mRhiBla1.hap2	GCA_057428315.1		Rhinolophus blasii					mRhiBla1	male		Chromosome	2026-05-11	JBXXPX01	150
+Eruf_1.0	GCA_057930555.1		Eospalax rufescens					ML-2024b	male		Chromosome	2026-06-04	JBLNKN01	2974
+ASM4919083v1	GCA_049190835.1		Myospalax aspalax				China's Inner Mongolia autonomous region population	NW-2023a	male		Chromosome	2025-03-31	JAVSBZ01	547
+mRhiCys1.hap1	GCA_055761895.1		Rhinopoma cystops					mRhiCys1	male		Chromosome	2026-03-10	JBVQSX01	479
+mAcoMin1.4	GCA_964271855.5	GCF_964271855.1	Acomys minous								Chromosome	2025-07-07	CAXWVK05	111
+mAcoMin1.4	GCF_964271855.1	GCA_964271855.5	Acomys minous							GCF_964271855.1-RS_2025_09	Chromosome	2025-07-07	CAXWVK05	111
+mNeoFlo1.hap1	GCA_050000055.1		Neotoma floridana					mNeoFlo1	male		Chromosome	2025-04-29	JBNBAX01	1381
+OncAre_H1_v1	GCA_949786405.1		Onychomys arenicola								Chromosome	2023-04-08	CATKUM01	601
+mNycLei1.hap1.2	GCA_964264875.2		Nyctalus leisleri								Chromosome	2025-04-03	CAXWAE02	584
+mOliNig2.hap1	GCA_057876635.1		Oligoryzomys nigripes					mOliNig2	female		Chromosome	2026-06-03	JBYHCR01	130
+ASM2027666v1	GCA_020276665.1		Muntiacus crinifrons					NWPU-IOZ-01	female		Chromosome	2021-10-05	JAGTXS01	836
+DKFZ_Fans_1.0	GCA_053478225.1		Fukomys anselli					934000011235352li	male		Chromosome	2025-11-14	JBPETH01	412
+WHU_Pdav_v1	GCA_058219175.1		Pteronotus davyi					M-278415	female		Chromosome	2026-06-16	JBBMOH01	209
+ASM2306576v1	GCA_023065765.1		Hexaprotodon liberiensis					ZL_2021b	male		Chromosome	2022-04-22	JAKVTR01	99
+Mpsi_1.0	GCA_057930495.1		Myospalax psilurus					ML-2024d	male		Chromosome	2026-06-04	JBLNKL01	2557
+OncLeu_H2_v1	GCA_949786385.1		Onychomys leucogaster								Chromosome	2023-04-08	CATKUP01	1053
+ASM3024704v1	GCA_030247045.1		Colobus guereza					XZ-2021d	male		Chromosome	2023-06-12	DAKLCV01	2570
+mRhyPet1.hap2	GCA_043290065.1		Rhynchocyon petersi					mRhyPet1	male		Chromosome	2024-10-17	JBHNZO01	314
+mBabCel1.hap1	GCA_057927545.1		Babyrousa celebensis					mBabCel1	male		Chromosome	2026-06-03	JBXADS01	2201
+mLesInc1.hap1	GCA_054644205.1		Lestoros inca					mLesInc1	male		Chromosome	2026-01-22	JBTMPH01	187
+ASM1759144v1	GCA_017591445.1		Giraffa camelopardalis rothschildi						male		Chromosome	2021-03-30	JABCKX01	2096
+ASM2149847v1	GCA_021498475.1		Saguinus midas					KIZ-2021_24	male		Chromosome	2022-01-19	JAKFGQ01	1785
+mSicTri.1	GCA_982266845.1		Sicista trizona								Chromosome	2026-03-14	CEVFMK01	161
+Sgui2.0	GCA_060252115.1		Sotalia guianensis				Colombia	MN-2026a	male		Chromosome	2026-07-28	JBWYRC01	537
+mBraTor.pri	GCA_963992745.1		Bradypus torquatus								Chromosome	2024-12-06	CAXDVJ01	2915
+ASM4819727v1	GCA_048197275.1		Mustela strigidorsa		MSTR1m		Vietnam		male		Chromosome	2025-02-28	JBGGWQ01	263084
+Unicamp_Sflu_1.0	GCA_059578065.1		Sotalia fluviatilis				Amazon River basin	MN-2026a			Chromosome	2026-07-22	JBUAZG01	4347
+Miopithecus_talapoin_HiC	GCA_028551445.1		Miopithecus talapoin					Sample4097	male		Chromosome	2023-02-09	JAPYXX01	651021
+AgileGrace	GCA_016433145.1	GCF_016433145.1	Gracilinanus agilis					LMUSP501	male		Chromosome	2021-01-06	JADWME01	60713
+AgileGrace	GCF_016433145.1	GCA_016433145.1	Gracilinanus agilis					LMUSP501	male	NCBI Gracilinanus agilis Annotation Release 100	Chromosome	2021-01-06	JADWME01	60713
+Potos_flavus_HiC	GCA_028534135.1		Potos flavus					Darwin	male		Chromosome	2023-02-09	JAPYYM01	841001
+Nasua_narica_HiC	GCA_028533885.1		Nasua narica					Pearl	female		Chromosome	2023-02-09	JAPYYJ01	1091317
+Arctocephalus_townsendi_HiC	GCA_028646355.1		Arctocephalus townsendi					Sample3856	male		Chromosome	2023-02-16	JAQQSM01	238431
+Sylvilagus_bachmani_HiC	GCA_015711505.1		Sylvilagus bachmani					Sample2420	female		Chromosome	2020-12-04	JADBBT01	524010
+Xerus_rutilus_HiC	GCA_028644305.1		Xerus rutilus					Sample2593	male		Chromosome	2023-02-16	JAQQSJ01	1123228
+Lagorchestes_hirsutus_HiC	GCA_028533205.1		Lagorchestes hirsutus					LH01	male		Chromosome	2023-02-09	JAPYYB01	569642
+Uromys_caudimaculatus_HiC	GCA_028551405.1		Uromys caudimaculatus					Sample2588	female		Chromosome	2023-02-09	JAPYYD01	559416
+Pachyuromys_duprasi_HiC	GCA_028658305.1		Pachyuromys duprasi					Sample0678	female		Chromosome	2023-02-17	JAQQSO01	502065
+Potorous_gilbertii_HiC	GCA_028658325.1		Potorous gilbertii					Sample3880	male		Chromosome	2023-02-17	JAQQSK01	1148168
+mg-2k	GCA_028627215.1		Macropus giganteus					Sample1143	male		Chromosome	2023-02-16	JAQQTA01	1012328
+Eulemur_mongoz_HiC	GCA_028534055.1		Eulemur mongoz					Sample1262	male		Chromosome	2023-02-09	JAPYYL01	1055658
+Coendou_prehensilis_HiC	GCA_028534165.1		Coendou prehensilis					Bobby Sue	female		Chromosome	2023-02-09	JAPYYN01	1753065
+mf-2k	GCA_028583105.1		Macropus fuliginosus					Sample1290	female		Chromosome	2023-02-10	JAQMYV01	1417799
+Cercopithecus_mitis_HiC	GCA_028627265.1		Cercopithecus mitis					Sample3913	female		Chromosome	2023-02-16	JAQQSH01	1396160
+pg-2k	GCA_028646595.1		Phalanger gymnotis					Sample0438	male		Chromosome	2023-02-16	JAQQSZ01	1142900
+Pseudochirops_cupreus_HiC	GCA_028627135.1		Pseudochirops cupreus					Sample1791			Chromosome	2023-02-16	JAQQSU01	1056511
+Pseudochirops_corinnae_HiC	GCA_028646515.1		Pseudochirops corinnae					Sample1771			Chromosome	2023-02-16	JAQQSV01	551799
+mAcoPer2_REL_1905	GCA_907169655.1		Acomys percivali								Chromosome	2021-07-06	CAJRSG01	22442
+Pseudocheirus_occidentalis_HiC	GCA_028646575.1		Pseudocheirus occidentalis					Sample1780			Chromosome	2023-02-16	JAQQSW01	917762
+SAU_Npig_1.0	GCA_056361715.1		Sus scrofa	Neijiang pig					female		Chromosome	2026-03-25	JBTULV01	19
+NSME_pig_1.2	GCA_006511355.2		Sus scrofa scrofa	NS					male		Chromosome	2021-04-09		20
+Guyuan_Btau_1.0	GCA_051106085.1		Bos taurus	Guyuan cattle				GY063	male		Chromosome	2025-06-26	JBKSDG01	30
+ASM1204487v1	GCA_012044875.1		Canis lupus familiaris	Labrador retriever					male		Chromosome	2020-04-06		39
+ASM1204501v1	GCA_012045015.1		Canis lupus familiaris	Labrador retriever					male		Chromosome	2020-04-06		39
+T2T-sheep1.0M	GCA_041121725.1		Ovis aries	Hu sheep				HU3095-Mother	female	Annotation submitted by China Agricultural University	Chromosome	2024-07-24		27
+T2T-goat2.0M	GCA_040970035.1		Capra hircus	Inner Mongolia cashmere goat					male		Chromosome	2024-07-31		30
+T2T-goat1.0M	GCA_041736475.1		Capra hircus	Inner Mongolia cashmere goat					male	Annotation submitted by China Agricultural University	Chromosome	2024-09-04		30
+ASM4082201v1	GCA_040822015.1		Capra hircus	Inner Mongolia Cashmere goat				AEBS_806099	male		Chromosome	2024-07-23		31
+wOryCun.alg1	GCA_982769885.1		Oryctolagus cuniculus								Chromosome	2026-05-15		22
+calJac220_pri	GCA_049354665.1		Callithrix jacchus					220	female		Chromosome	2025-04-08	JBLWJD01	23
+calJac220_alt	GCA_049354675.1		Callithrix jacchus					220	female		Chromosome	2025-04-08	JBLWJC01	23
+ASM5663261v2	GCA_056632615.2		Equus asinus	taihang				SSD	male		Chromosome	2026-04-08	JBUQDP01	32
+HU_Pman_SW_mat_3.1	GCA_049852335.1		Peromyscus maniculatus rubidus					BKxSW_F1_SW_parent	female		Chromosome	2025-04-22	JBMNXQ01	24
+HU_Pman_BK_pat_3.1	GCA_049852355.1		Peromyscus maniculatus gambelii					BKxSW_F1_BK_parent	male		Chromosome	2025-04-22	JBMNXP01	24
+ASM4859333v1	GCA_048593335.1		Notamacropus eugenii					Barry	male		Chromosome	2025-03-17	JBMDLQ01	8
+ASM4859322v1	GCA_048593225.1		Sarcophilus harrisii					McLovin	male	GCA_048593225.1-GB_2025_09_01	Chromosome	2025-03-17	JBMDLT01	7
+ASM296843v1	GCA_002968435.1		Bos mutus					yakQH1	female		Chromosome	2018-03-05		30
+C.can genome v2.0	GCA_001984765.2		Castor canadensis					Ward	male		Chromosome	2026-01-29	MTKA02	21
+ASM4859329v1	GCA_048593295.1		Sminthopsis crassicaudata					SCR6	female		Chromosome	2025-03-17	JBMDMD01	7
+CAU_F1_paternal_1.0	GCA_023701655.1		Ovis ammon polii x Ovis aries					F1 hybrid	male	Annotation submitted by China Agricultural University	Chromosome	2022-06-10	JALAIX01	28
+T2T-mGirTip1v1.2.alt	GCA_054371575.1		Giraffa tippelskirchi					mGirTip1	male		Chromosome	2026-01-06	JBRKMD01	14
+T2T-mGirTip1v1.2.mat	GCA_054371825.1		Giraffa tippelskirchi					mGirTip1	male		Chromosome	2026-01-06	JBRKMA01	15
+LTU_DasViv_v2.0_hap2	GCA_051122245.1		Dasyurus viverrinus					TARZ-13805.1	female		Chromosome	2025-06-27	JBNQXN01	7
+LTU_DasViv_v2.0_hap1	GCA_051122235.1		Dasyurus viverrinus					TARZ-13805.1	female		Chromosome	2025-06-27	JBNQXM01	7
+ASM4859328v1	GCA_048593285.1		Dasyurus maculatus					Chaos	male	GCA_048593285.1-GB_2025_09_17	Chromosome	2025-03-17	JBMDMC01	6
+ASM5257556v1	GCA_052575565.1		Mus musculus		129S1/SvImJ				male		Chromosome	2025-09-12	JBPRBI01	37
+ASM5257553v1	GCA_052575535.1		Mus musculus		C57BL/6J				male		Chromosome	2025-09-12	JBPRBH01	38
+C57BL_6J_T2T_v1	GCA_964188535.1		Mus musculus		C57BL_6J						Chromosome	2024-06-23	CAXLPS01	237
+ASM4397272v1	GCA_043972725.1		Mus musculus		C3H/HeNRj				male and female		Chromosome	2024-10-28	JBINZP01	113
+FVB_NRj_v1	GCA_043792745.1		Mus musculus		FVB/NRj				male and female		Chromosome	2024-10-28	JBINZN01	781
+DBA_2J_v3	GCA_921998315.2		Mus musculus								Chromosome	2022-07-01	CAKLHQ02	351
+C57BL_6JRj_v1	GCA_043793115.1		Mus musculus		C57BL/6JRj				male and female		Chromosome	2024-10-28	JBINZO01	1150
+NEI_Mmus_1.0	GCA_030265425.1		Mus musculus		B10.RIII				female		Chromosome	2023-06-13	JASNTV01	41
+mMusMuc1.1	GCA_949316315.1		Mus musculus								Chromosome	2023-04-08	CASGGP01	178
+NOD_SCID	GCA_031763685.1		Mus musculus		NOD/SCID				female		Chromosome	2023-09-22	JARLJY01	281
+BALB_cJ_v3	GCA_921997145.2		Mus musculus								Chromosome	2022-07-01	CAKLHK02	209
+NZO_HlLtJ_v3	GCA_947593165.1		Mus musculus								Chromosome	2022-12-18	CANQFN01	382
+BALBC_Nude	GCA_031761455.1		Mus musculus		BALB/c Nude				female		Chromosome	2023-09-22	JARJHH01	1089
+LP_J_v3	GCA_947599735.1		Mus musculus								Chromosome	2022-12-18	CANQGI01	427
+A_J_v3	GCA_921998355.2		Mus musculus								Chromosome	2022-06-30	CAKLHP02	157
+CBA_J_v3	GCA_921998905.2		Mus musculus								Chromosome	2022-06-30	CAKLHN02	142
+C3H_HeJ_v3	GCA_921997125.2		Mus musculus								Chromosome	2022-07-01	CAKLHI02	170
+C57BL_6NJ_v3	GCA_921999865.2		Mus musculus								Chromosome	2022-07-01	CAKLHV02	207
+NOD_ShiLtJ_v3	GCA_921998325.2		Mus musculus								Chromosome	2022-07-01	CAKLHO02	167
+129S1_SvImJ_v3	GCA_921998555.2		Mus musculus								Chromosome	2022-07-01	CAKLHM02	179
+PWK_PhJ_v3	GCA_921998335.2		Mus musculus musculus								Chromosome	2022-07-01	CAKLHR02	207
+JF1_MsJ_v3	GCA_921999095.2		Mus musculus molossinus								Chromosome	2022-07-01	CAKLHU02	1397
+CAST_EiJ_T2T_v1	GCA_964188545.1		Mus musculus castaneus		CAST_EiJ						Chromosome	2024-06-23	CAXLPT01	338
+SHRSP_T2T	GCA_021556685.2		Rattus norvegicus		SHRSP/BbbUtx				male		Chromosome	2026-05-20	JAKEKU02	192
+LE Stm	GCA_058775275.1		Rattus norvegicus		LE/Stm			RGD_629485	male		Chromosome	2026-07-02	JBYFLJ01	1329
+F344 StmMcwi	GCA_041222355.1		Rattus norvegicus		F344/Stm				male		Chromosome	2024-08-13	JBFMKR01	119
+Lyon_Normot_Rat_Genome	GCA_045687995.1		Rattus norvegicus					RGD_10755354	male		Chromosome	2024-12-04	JBJKTU01	148
+Dahl_SR_JrHsd	GCA_045688005.1		Rattus norvegicus					RGD_1582184	male		Chromosome	2024-12-04	JBJKTS01	136
+Lyon_Hypertensive	GCA_045687965.1		Rattus norvegicus					RGD_10755352	male		Chromosome	2024-12-04	JBJKTT01	132
+Genome assembly UTH_Rnor_WKY_Bbb_1.1	GCA_023515805.2		Rattus norvegicus		WKY/Bbb RGD_1581635				male		Chromosome	2024-08-16	JALPNS02	3510
+UTH_Rnor_SHR_Utx_2.0	GCA_023515785.2		Rattus norvegicus		SHR/Utx RGD_8142385				male		Chromosome	2024-02-29	JALPNT02	2116
+Dahl SS	GCA_058775205.1		Rattus norvegicus		Dahl SS/HsdMcwiCrl			RGD_2308886	male		Chromosome	2026-07-02	JBYFLI01	591
+Sscrofa_HxYL_paternal_Hampshire_1.0	GCA_054392225.1		Sus scrofa					SSC_HxYL_T2T_F1_AM1	male		Chromosome	2026-01-07	JBSZGW01	23
+norwegian_landrace	GCA_963921485.1		Sus scrofa								Chromosome	2024-01-11	CAWUFS01	53
+CAU_GXLC	GCA_059440775.1		Sus scrofa	Luchuan pig				CAU_GXLC	male		Chromosome	2026-07-15	JBXWJN01	114
+CAU_SXMS	GCA_059440605.1		Sus scrofa	Mashen pig				CAU_SXMS	female		Chromosome	2026-07-15	JBXWJM01	164
+ASM5023112v1	GCA_050231125.1		Sus scrofa	Anqing Six-end-white pig				WZ-2025	male		Chromosome	2025-05-07	JBMNXD01	30
+ASM3744751v1	GCA_037447515.1		Sus scrofa	Chenghua					male		Chromosome	2024-03-22	JAUPEB01	98
+CAU_YNDN	GCA_059440095.1		Sus scrofa	Diannanxiaoer pig				CAU_YNDN	male		Chromosome	2026-07-15	JBXWJB01	126
+CAU_HLJM	GCA_059440015.1		Sus scrofa	Min pig				CAU_HLJM	male		Chromosome	2026-07-15	JBXWIZ01	86
+CAU_GZX	GCA_059439995.1		Sus scrofa	Xiang pig				CAU_GZX	female		Chromosome	2026-07-15	JBXWJA01	100
+CAU_AHAQ	GCA_059440105.1		Sus scrofa	Anqing pig				CAU_AHAQ	female		Chromosome	2026-07-15	JBXWJD01	123
+CAU_HBSX	GCA_059440525.1		Sus scrofa	Shenxian pig				CAU_HBSX	female		Chromosome	2026-07-15	JBXWJK01	182
+NJ_2022_AUG	GCA_049999145.1		Sus scrofa	Neijiang pig				YW-2024	male		Chromosome	2025-04-29	JBFCZI01	60
+CAU_FJPT	GCA_059469975.1		Sus scrofa	Putian pig				CAU_FJPT	male		Chromosome	2026-07-16	JBXWJI01	202
+CAU_SDLW	GCA_059440595.1		Sus scrofa	Laiwu pig				CAU_SDLW	male		Chromosome	2026-07-15	JBXWJL01	110
+CAU_HNWZS	GCA_059440315.1		Sus scrofa	Wuzhishan pig				CAU_HNWZS	female		Chromosome	2026-07-15	JBXWJJ01	130
+CAU_CQRC	GCA_059488835.1		Sus scrofa	Rongchang pig				CAU_CQRC	female		Chromosome	2026-07-15	JBXWJC01	146
+CAU_HNDWZ	GCA_059440175.1		Sus scrofa	Daweizi pig				CAU_HNDWZ	male		Chromosome	2026-07-15	JBXWJF01	86
+CAU_GDDHB	GCA_059440285.1		Sus scrofa	Dahuabai pig				CAU_GDDHB	male		Chromosome	2026-07-15	JBXWJH01	167
+CAU_HBQP	GCA_059440235.1		Sus scrofa	Qingping pig				CAU_HBQP	male		Chromosome	2026-07-15	JBXWJE01	101
+ASM4086911v1	GCA_040869115.1		Sus scrofa	juema					male		Chromosome	2024-07-26	JASFZY01	124
+CAU_HNNY	GCA_059440185.1		Sus scrofa	Nanyang pig				CAU_HNNY	male		Chromosome	2026-07-15	JBXWJG01	92
+CAU_Yorkshire	GCA_059440005.1		Sus scrofa	Yorkshire				CAU_Yorkshire	male		Chromosome	2026-07-15	JBXWIY01	122
+Banna	GCA_041937265.1		Sus scrofa	Banna miniature inbred pig				0028A3	male		Chromosome	2024-09-18	JBGNFW01	43
+ASM5952598v1	GCA_059525985.1		Sus scrofa	Tibetan pig				JN-2026a	male		Chromosome	2026-07-20	JCAKFK01	90
+ASM5544769v1	GCA_055447695.1		Sus scrofa	Kolbroek							Chromosome	2026-02-23	JBLUWV01	81
+ASM4490618v1	GCA_044906185.1		Sus scrofa					HJB	male		Chromosome	2024-11-19	JAWMRP01	8508
+ASM4490610v1	GCA_044906105.1		Sus scrofa	Large White					female		Chromosome	2024-11-19	JASHIA01	143
+TPI_Babraham_pig_v1	GCA_031225015.1		Sus scrofa	Babraham				P18-11073	male		Chromosome	2023-09-08	JAVJHN01	1054
+ASM2471841v1	GCA_024718415.1		Sus scrofa					no. 2702 (Donna)	female		Chromosome	2022-08-23	JAMXMM01	329
+USMARCv1.0	GCA_002844635.1		Sus scrofa	Cross-bred				201423004	male		Chromosome	2017-12-20	NPJO01	14156
+NCMD	GCA_031306245.1		Sus scrofa	Nanchukmacdon				F10-30	male		Chromosome	2023-09-14	JAVFKH01	1076
+ASM3965481v1	GCA_039654815.1		Sus scrofa	Korean minipig				1702-0262-T	male		Chromosome	2024-05-17	JBCQFQ01	1042
+Ninghe_Sus_1	GCA_015776825.1		Sus scrofa	Duroc				CAU-QG-20150412	male		Chromosome	2020-12-08	JACDOW01	70
+ASM764409v1	GCA_007644095.1		Sus scrofa	Bama miniature					male		Chromosome	2019-08-01	SIDA01	6610
+ICAR-NRCP-G1	GCA_046128825.1		Sus scrofa	Ghungroo				G1	female		Chromosome	2024-12-18	JBJXUT01	25393
+ASM1795798v1	GCA_017957985.1		Sus scrofa domesticus	Meishan					female		Chromosome	2021-04-15	JABTCQ01	253
+ASM2056790v1	GCA_020567905.1		Sus scrofa domesticus	Ningxiang					female		Chromosome	2021-10-26	JADCTU01	120
+CAU_Huaizhu_1.1	GCA_041729645.1		Sus scrofa scrofa	Huai pig				CAU-Huaizhu-01	male		Chromosome	2024-09-05	JBGKAQ01	1364
+UOA_Wagyu_1	GCA_040286185.1		Bos taurus	Wagyu				3DWFS0412	female		Chromosome	2024-06-25	JBEFCR01	401
+ASM4388211v1	GCA_043882115.1		Bos taurus	Mongolian cattle				80415	male		Chromosome	2024-10-28	JBFSJU01	46
+ASM4765221v1	GCA_047652215.1		Bos taurus	Tibetan					male		Chromosome	2025-02-11	JAMZRG01	59
+UOA_Tuli_1	GCA_040285425.1		Bos taurus	Tuli				MAZUNGA	male		Chromosome	2024-06-25	JBEFCS01	878
+NRF	GCA_963921495.1		Bos taurus								Chromosome	2024-06-26	CAWUFT01	715
+NR2025_2P	GCA_977970235.1		Bos taurus								Chromosome	2025-12-20	CDWWTE01	1171
+YB_JAAS	GCA_051122635.1		Bos taurus	Yanbian cattle					male		Chromosome	2025-06-27	JBPCCZ01	79
+CRS_JAAS	GCA_059997585.1		Bos taurus	Chinese red steppe cattle				WF-2026a	male		Chromosome	2026-08-11	JCBPQG01	351
+NR2025_3P	GCA_977927255.1		Bos taurus								Chromosome	2025-12-17	CDWRBM01	1172
+seqoccin.Bt.char.v1.0	GCA_947034695.1		Bos taurus		mammals						Chromosome	2022-10-29	CAMQPY01	1391
+NR2025_1P	GCA_977927265.1		Bos taurus								Chromosome	2025-12-17	CDWRBK01	610
+NR2025_1M	GCA_977927225.1		Bos taurus								Chromosome	2025-12-17	CDWRBO01	568
+NR2025_3M	GCA_977927285.1		Bos taurus								Chromosome	2025-12-17	CDWRBN01	723
+NR2025_2M	GCA_977927245.1		Bos taurus								Chromosome	2025-12-17	CDWRBL01	626
+SNU_Hanwoo_2.0	GCA_028973685.2		Bos taurus	Hanwoo				HWB-2050	male		Chromosome	2023-09-22	JARDUZ02	1598
+ARS-LIC_NZ_Jersey	GCA_021234555.1		Bos taurus	Jersey				LICJ1	male		Chromosome	2021-12-20	JAJQWI01	228
+ASM3988117v1	GCA_039881175.1		Bos taurus	Mongolian				NMG016	male		Chromosome	2024-05-29	JAMBMV01	391
+YAU_Btau_1.0	GCA_034097375.1		Bos taurus	Yunling cattle				YAU-DSJ-ZCW-2023a	male		Chromosome	2023-12-05	JAWKDW01	826
+ROSLIN_BTI_ANK1	GCA_905123885.1		Bos taurus								Chromosome	2022-02-18	CAJHOP01	7580
+ROSLIN_BTT_NDA1	GCA_905123515.1		Bos taurus								Chromosome	2022-02-18	CAJHOO01	1209
+ARS-LIC_NZ_Holstein-Friesian_1	GCA_021347905.1		Bos taurus	Holstein-Friesian				LICNZHF1	male		Chromosome	2022-01-11	JAJQWL01	2305
+LK_Cfam_Beagle_1.1	GCA_044048985.1		Canis lupus familiaris	Beagle				D2023-6-2	female		Chromosome	2024-10-30	JBFSGE01	56
+ASM4364393v1	GCA_043643935.1		Canis lupus familiaris	Whippet				TBG_BS_Lino_asm_v1	male		Chromosome	2024-10-24	JBEEQH01	147
+CD.1	GCA_053572145.1		Canis lupus familiaris	Australian Cattle Dog				Sonar	female		Chromosome	2025-11-19	JBPXEH01	108
+CD.2	GCA_053572105.1		Canis lupus familiaris	Australian Cattle Dog				Sonar	female		Chromosome	2025-11-19	JBPXEG01	101
+NGSD.1	GCA_053569395.1		Canis lupus familiaris	New Guinea Singing Dog				Melody	female		Chromosome	2025-11-19	JBPXEF01	113
+NGSD.2	GCA_053572085.1		Canis lupus familiaris	New Guinea Singing Dog				Melody	female		Chromosome	2025-11-19	JBPXEE01	119
+TAMU_SiberianHusky	GCA_056151415.1		Canis lupus familiaris	Siberian Husky				Sorin	male		Chromosome	2026-03-19	JBUXEN01	177
+ASMI_Cfam_JSB_1.0	GCA_059750645.1		Canis lupus familiaris	Japanese Shiba Inu					male		Chromosome	2026-08-03	JCASDR01	467
+UNSW_CanFamBas_1.2	GCA_013276365.2		Canis lupus familiaris	Basenji				UNSW-BAS-2019	female		Chromosome	2021-02-23	JAAQRD02	631
+CA611_1.0	GCA_031010295.1		Canis lupus familiaris	Cairn Terrier				CA611	male		Chromosome	2023-08-31	JARDRD01	141
+ASM5712823v1	GCA_057128235.1		Canis lupus familiaris	Mixed breed				N25-0066	male		Chromosome	2026-04-30	JBNRNI01	1507
+Dog10K_Boxer_Tasha	GCA_000002285.4	GCF_000002285.5	Canis lupus familiaris	boxer				Tasha	female		Chromosome	2020-10-06	AAEX04	146
+Dog10K_Boxer_Tasha	GCF_000002285.5	GCA_000002285.4	Canis lupus familiaris	boxer				Tasha	female	NCBI Canis lupus familiaris Annotation Release 106	Chromosome	2020-10-06	AAEX04	146
+BD_1.0	GCA_031010765.1		Canis lupus familiaris	Bernese Mountain Dog				BD	female		Chromosome	2023-08-31	JARDRF01	175
+Yella_v2	GCA_031165255.1		Canis lupus familiaris	Labrador retriever					male		Chromosome	2023-09-07	DAOUOP01	675
+ASM864105v3	GCA_008641055.3		Canis lupus familiaris	German Shepherd				Nala	female		Chromosome	2020-04-14	VSDE02	409
+ROS_Cfam_1.0	GCA_014441545.1	GCF_014441545.1	Canis lupus familiaris	Labrador retriever				SID07034	male		Chromosome	2020-09-03	JAAUVH01	376
+ROS_Cfam_1.0	GCF_014441545.1	GCA_014441545.1	Canis lupus familiaris	Labrador retriever				SID07034	male	NCBI Canis lupus familiaris Annotation Release 106	Chromosome	2020-09-03	JAAUVH01	376
+OD_1.0	GCA_031010635.1		Canis lupus familiaris	Bernese Mountain Dog				OD	male		Chromosome	2023-08-31	JARDRE01	159
+CC.1	GCA_053569475.1		Canis lupus familiaris	Chow Chow				Magic	female		Chromosome	2025-11-19	JBPXEL01	133
+CC.2	GCA_053569455.1		Canis lupus familiaris	Chow Chow				Magic	female		Chromosome	2025-11-19	JBPXEK01	101
+SH.2	GCA_053572125.1		Canis lupus familiaris	Siberian Husky				Dite	female		Chromosome	2025-11-19	JBPXEI01	252
+SH.1	GCA_053569425.1		Canis lupus familiaris	Siberian Husky				Dite	female		Chromosome	2025-11-19	JBPXEJ01	191
+Basenji_breed-1.1	GCA_004886185.2		Canis lupus familiaris	Basenji				MU ID 185726	male		Chromosome	2019-08-16	SDHF02	2243
+Clu-1	GCA_034620435.1		Canis lupus					wolf_2809A	male		Chromosome	2023-12-27	JARVCP01	119
+mCanLor1.2	GCA_905319855.2		Canis lupus								Chromosome	2021-03-26	CAJNRB02	81
+GW.2	GCA_059341495.1		Canis lupus						male		Chromosome	2026-07-13	DBJLPC01	139
+GW.1	GCA_059341535.1		Canis lupus						male		Chromosome	2026-07-13	DBJLPD01	139
+ASM325472v2	GCA_003254725.2	GCF_003254725.2	Canis lupus dingo					Sandy	female		Chromosome	2020-09-11	QKWQ02	159
+ASM325472v2	GCF_003254725.2	GCA_003254725.2	Canis lupus dingo					Sandy	female	NCBI Canis lupus dingo Annotation Release 102	Chromosome	2020-09-11	QKWQ02	159
+UNSW_AlpineDingo_1.0	GCA_012295265.2		Canis lupus dingo				Alpine	COOINDA	female		Chromosome	2022-05-20	JAASLC01	477
+mCanLup2.hap2	GCA_048164845.1		Canis lupus baileyi					mCanLup2	male		Chromosome	2025-02-27	JBLSAH01	155
+MacMul_CN_1	GCA_036172295.1		Macaca mulatta				China	zj_CR2	female		Chromosome	2024-01-26	JAOXJV01	1412
+rheMacS_1.0	GCA_008058575.1		Macaca mulatta					rheMacS_CGG.01	male		Chromosome	2019-08-22	VSDM01	1881
+CR_1.0	GCA_000230795.1		Macaca mulatta					CR-5	female	Annotation submitted by Beijing Genomics Institute	Chromosome	2011-10-19	AEHK01	38224
+ASM3343944v1	GCA_033439445.1		Ovis aries	East Friesian sheep				LY-2023	female		Chromosome	2023-11-09	JAWMPZ01	190
+ASM2241691v1	GCA_022416915.1		Ovis aries	Polled Dorset sheep				DOR1	female		Chromosome	2022-03-10	JAKJQM01	1242
+NWAFU_Friesian_1.0	GCA_018804185.1		Ovis aries	East Friesian				EastFriesian_391	male		Chromosome	2021-06-09	JAGTAQ01	937
+ASM4054305v1	GCA_040543055.1		Ovis aries	Awassi					female		Chromosome	2024-07-08	JBDLWQ01	190
+ASM2243283v1	GCA_022432835.1		Ovis aries	Kermani sheep				KER1	male		Chromosome	2022-03-10	JAKJQN01	1545
+ASM2241675v1	GCA_022416755.1		Ovis aries	Ujimqin sheep				UJQ1	female		Chromosome	2022-03-10	JAKJQI01	1440
+ASM2241668v1	GCA_022416685.1		Ovis aries	Qiaoke sheep				QK1	female		Chromosome	2022-03-10	JAKJQF01	1562
+CAU_O.aries_1.0	GCA_017524585.1		Ovis aries	Tibetan sheep					female	Annotation submitted by China Agricultural University	Chromosome	2021-03-24	JAEMGP01	58
+ASM2422226v1	GCA_024222265.1		Ovis aries	Waggir sheep				WAG1	female		Chromosome	2022-07-13	JAMHGE01	772
+ASM2243284v1	GCA_022432845.1		Ovis aries	Kazak sheep				KAZ1	female		Chromosome	2022-03-10	JAKJQP01	1765
+ASM1914517v1	GCA_019145175.1		Ovis aries	Dorper					male		Chromosome	2021-07-08	JAGTXJ01	60
+ASM2241678v1	GCA_022416785.1		Ovis aries	Yunnan sheep				YUN1	female		Chromosome	2022-03-10	JAKJQK01	1295
+ASM5091668v1	GCA_050916685.1		Ovis aries	Butuo black sheep				BY554-001P0001	female		Chromosome	2025-06-13	JBPCZR01	3599
+ASM2253800v1	GCA_022538005.1		Ovis aries	Romney sheep				ROM1	female		Chromosome	2022-03-10	JAKJQG01	1455
+ASM2241674v1	GCA_022416745.1		Ovis aries	Charollais sheep				CHA1	female		Chromosome	2022-03-10	JAKJQJ01	1324
+ASM2241672v1	GCA_022416725.1		Ovis aries	Suffolk sheep				SFK1	female		Chromosome	2022-03-10	JAKJQH01	1409
+Oar_ARS-UKY_Romanov_v1.0	GCA_022244705.1		Ovis aries	Romanov x White Dorper					male		Chromosome	2022-02-24	JAHUUQ01	432
+Oar_ARS-UKY_WhiteDorper_v1.0	GCA_022244695.1		Ovis aries	Romanov x White Dorper					male		Chromosome	2022-02-24	JAHUUR01	1104
+ASM2243282v1	GCA_022432825.1		Ovis aries	Chinese Merino sheep				MER1	female		Chromosome	2022-03-10	JAKJQO01	1643
+ASM2241677v1	GCA_022416775.1		Ovis aries	Texel sheep				TEX1	female		Chromosome	2022-03-10	JAKJQL01	1662
+ASM2422217v1	GCA_024222175.1		Ovis aries	Romanov sheep				Rmnv1	female		Chromosome	2022-07-13	JAMFTK01	1056
+ASM4025935v1	GCA_040259355.1		Ovis aries	Guide black fur sheep				GD	male		Chromosome	2024-06-21	JBEJUG01	726
+ASM2241669v1	GCA_022416695.1		Ovis aries	White Dorper sheep				WDU1	female		Chromosome	2022-03-10	JAKJQE01	1716
+ASM1117029v1	GCA_011170295.1		Ovis aries	Hu sheep				Hu2020	male		Chromosome	2020-03-11	JAAFGP01	1015
+Saanen maternal haplotype	GCA_057428545.1		Capra hircus	Kiko x Saanen					female		Chromosome	2026-05-11	JBXXJG01	36
+Kiko paternal haplotype	GCA_057428595.1		Capra hircus	Kiko x Saanen					female		Chromosome	2026-05-11	JBXXJH01	33
+ASM4646407v1	GCA_046464075.1		Capra hircus	Tibetan Goat				Tibetan	female		Chromosome	2025-01-03	JBJNUV01	90
+ASM4767163v1	GCA_047671635.1		Capra hircus	Hainan black Goat				HNBG	female		Chromosome	2025-02-12	JBLKYB01	149
+ASM4900445v1	GCA_049004455.1		Capra hircus	Tibetan Goat				Tibetan	female		Chromosome	2025-03-26	JBKFXV01	131
+ASM4900440v1	GCA_049004405.1		Capra hircus	Tibetan Goat				Tibetan	female		Chromosome	2025-03-26	JBKFXW01	87
+ASM4450921v1	GCA_044509215.1		Capra hircus	Shanbei Cashmere Goat				SBWCG	female		Chromosome	2024-11-06	JBGRUL01	227
+ASM5905555v1	GCA_059055555.1		Capra hircus	Korean native black goat				KNBG_D_M	male		Chromosome	2026-07-07	JBXEOD01	580
+ASM5905562v1	GCA_059055625.1		Capra hircus	Korean native black goat				KNBG_D_M	male		Chromosome	2026-07-07	JBXEOE01	162
+ASM5755763v1	GCA_057557635.1		Capra hircus	Korean native black goat				KNBG_T_M	male		Chromosome	2026-05-15	JBXEOG01	161
+ASM5755644v1	GCA_057556445.1		Capra hircus	Korean native black goat				KNBG_T_M	male		Chromosome	2026-05-15	JBXEOF01	412
+ASM4458801v1	GCA_044588015.1		Capra hircus	Guanzhong Milk Goat				GZMG	female		Chromosome	2024-11-07	JBFPJK01	366
+ASM4458793v1	GCA_044587935.1		Capra hircus	Nubian Goat				NUBIAN	female		Chromosome	2024-11-07	JBFPJL01	922
+ASM4458794v1	GCA_044587945.1		Capra hircus	ALPINE Milk Goat				ALPINE	female		Chromosome	2024-11-07	JBFPJJ01	204
+ASM4900467v1	GCA_049004675.1		Capra hircus	Shannan White Goat				SBWCG	female		Chromosome	2025-03-26	JBKFXZ01	346
+ASM4900459v1	GCA_049004595.1		Capra hircus	Shannan White Goat				SBWCG	female		Chromosome	2025-03-26	JBKFYA01	300
+Saanen_v1	GCA_015443085.1		Capra hircus	Saanen Dairy Goat					male		Chromosome	2020-11-16	JACWUT01	1362
+ASM4859405v1	GCA_048594055.1		Capra hircus	Hainan black Goat				HNBG	female		Chromosome	2025-03-17	JBKFYB01	216
+ASM2665220v1	GCA_026652205.1		Capra hircus	Xinong Saanen Dairy goat					male	Annotation submitted by Northwest A&F University	Chromosome	2022-12-05	JAIWQT01	94
+ASM4283598v1	GCA_042835985.1		Capra hircus	Xinong Saanen Dairy goat				YW-2024a	male		Chromosome	2024-10-09	JBBJUA01	51
+ASM4859397v1	GCA_048593975.1		Capra hircus	Hainan black Goat				HNBG	female		Chromosome	2025-03-17	JBKFYC01	173
+ASM4458790v1	GCA_044587905.1		Capra hircus	BOER Goat				BOER	female		Chromosome	2024-11-07	JBFPJM01	522
+ASM4767165v1	GCA_047671655.1		Capra hircus	Shannan White Goat				SNWG	female		Chromosome	2025-02-12	JBLKYA01	1488
+ASM4859882v1	GCA_048598825.1		Capra hircus	ALPINE Milk Goat				ALPINE	female		Chromosome	2025-03-18	JBKFYK01	198
+ASM4859806v1	GCA_048598065.1		Capra hircus	ALPINE Milk Goat				ALPINE	female		Chromosome	2025-03-18	JBKFYJ01	237
+ASM4859802v1	GCA_048598025.1		Capra hircus	Guanzhong Milk Goat				GZMG	female		Chromosome	2025-03-18	JBKFYI01	521
+ASM4859805v1	GCA_048598055.1		Capra hircus	Guanzhong Milk Goat				GZMG	female		Chromosome	2025-03-18	JBKFYH01	619
+ASM4859406v1	GCA_048594065.1		Capra hircus	Nubian Goat				NUBIAN	female		Chromosome	2025-03-17	JBKFYE01	1425
+ASM4859413v1	GCA_048594135.1		Capra hircus	Nubian Goat				NUBIAN	female		Chromosome	2025-03-17	JBKFYD01	1513
+ASM4900449v1	GCA_049004495.1		Capra hircus	BOER Goat				BOER	female		Chromosome	2025-03-26	JBKFXY01	645
+ASM4900453v1	GCA_049004535.1		Capra hircus	BOER Goat				BOER	female		Chromosome	2025-03-26	JBKFXX01	737
+ASM4859416v1	GCA_048594165.1		Capra hircus	Shannan White Goat				SNWG	female		Chromosome	2025-03-17	JBKFYF01	2349
+ASM4859412v1	GCA_048594125.1		Capra hircus	Shannan White Goat				SNWG	female		Chromosome	2025-03-17	JBKFYG01	1183
+CHIR_2.0	GCA_000317765.2		Capra hircus	Yunnan black goat					female		Chromosome	2015-09-16	AJPT02	103494
+CVASU_BBG_1.0	GCA_004361675.1		Capra hircus	Black Bengal goat			Bengal		male		Chromosome	2019-03-22	SMSF01	3972
+ASM5122573v1	GCA_051225735.1		Oryctolagus cuniculus	Fujian yellow rabbit				XC-2025	male		Chromosome	2025-07-07	JBPJSI01	53
+ASM4767164v1	GCA_047671645.1		Oryctolagus cuniculus					Kangda V	male		Chromosome	2025-02-12	JBLLLJ01	851
+wOryCun.cun1	GCA_982758555.1		Oryctolagus cuniculus								Chromosome	2026-05-31	CEXXFH01	23
+OryCun3.0	GCA_013371645.1		Oryctolagus cuniculus cuniculus					A946	female		Chromosome	2020-06-24	JABWOR01	1091
+Macaca_fascicularis_6.0	GCA_011100615.1		Macaca fascicularis	Mauritian cynomolgus macaque				cy0333	male		Chromosome	2020-03-10	JAANEP01	936
+CE_1.0	GCA_000230815.1		Macaca fascicularis					CE-4	female	Annotation submitted by Beijing Genomics Institute	Chromosome	2011-10-19	AEHL01	45468
+MacFas_Jun2011	GCA_000222185.1		Macaca fascicularis								Chromosome	2011-07-23	CAEC01	21
+mEquCab1.pat	GCA_036426135.1		Equus caballus					mEquCab1	male		Chromosome	2024-02-07	JAZARX01	601
+mEquCab1.mat	GCA_036418255.1		Equus caballus					mEquCab1	male		Chromosome	2024-02-07	JAZARY01	821
+EquCab_Friesian_WUR	GCA_964023265.1		Equus caballus								Chromosome	2024-04-11	CAXIEM01	1713
+EquCab_Warmblood_WUR	GCA_964023255.1		Equus caballus								Chromosome	2024-04-11	CAXIEL01	1850
+AGIS_DeBao_1.0	GCA_048565035.1		Equus caballus	Debao pony					male		Chromosome	2025-03-12	JAVENZ01	235
+ASM5646154v1	GCA_056461545.1		Mesocricetus auratus		LVG(syr)				male		Chromosome	2026-03-31	JAETGQ01	8299
+TAMU_F.catus_SxD256_v1.0.mat	GCA_056512455.1		Felis catus	Torbie				FcaSxD256	female		Chromosome	2026-04-01	JBNJOA01	93
+Fcat_Pben_1.1_maternal_alt	GCA_016509815.2		Felis catus					Fca508	female		Chromosome	2021-01-06	JADZGM01	71
+felCat9.2_X	GCA_000181335.6		Felis catus	Abyssinian				Cinnamon	female		Chromosome	2021-10-01	AANG04	767
+AnAms_1.0	GCA_013340865.2		Felis catus					Senzu	female		Chromosome	2020-06-03		20
+catChrV17e	GCA_000003115.1		Felis catus	mixed							Chromosome	2009-03-16	ACBE01	104434
+mCalJac1.2.pat	GCA_011100535.2		Callithrix jacchus					mCalJac1	male		Chromosome	2021-04-28	JAALXR02	1217
+mChlSab1.0.hap2	GCA_047676025.1		Chlorocebus sabaeus					Y175	female		Chromosome	2025-02-12	JBLKOD01	1205
+mCalJac1.mat	GCA_011078405.1		Callithrix jacchus					mCalJac1	male		Chromosome	2020-03-10	JAALXQ01	216
+ASM3026950v1	GCA_030269505.1		Bos indicus	Jinjiang cattle					female		Chromosome	2023-06-15	JAKQXT01	104
+ASM3027223v1	GCA_030272235.1		Bos indicus	Dabieshan cattle					female		Chromosome	2023-06-15	JAKQXV01	68
+ASM3027213v1	GCA_030272135.1		Bos indicus	Lincanggaofeng cattle					female		Chromosome	2023-06-15	JAKQXR01	43
+ASM3026737v1	GCA_030267375.1		Bos indicus	Yiling cattle					female		Chromosome	2023-06-15	JAKQXO01	92
+ASM3027179v1	GCA_030271795.1		Bos indicus	Wenshangaofeng cattle					female		Chromosome	2023-06-15	JAKQXP01	45
+ASM3026981v1	GCA_030269815.1		Bos indicus	Leiqiong cattle					female		Chromosome	2023-06-15	JAKQXS01	59
+ASM3988116v1	GCA_039881165.1		Bos indicus	Hainan				HN024	male		Chromosome	2024-05-29	JAMBMU01	292
+ASM3027180v1	GCA_030271805.1		Bos indicus	Weizhou cattle					female		Chromosome	2023-06-15	JAKQXQ01	67
+ASM3026735v1	GCA_030267355.1		Bos indicus	Xiangxi cattle					female		Chromosome	2023-06-15	JAKQXN01	48
+NIAB-ARS_B.indSahiwal_pat_alt_1.0	GCA_029378735.1		Bos indicus	Sahiwal x Tharparkar				NIAB-ARS_2022	female		Chromosome	2023-03-24	JAPFII01	81
+ASM3026734v1	GCA_030267345.1		Bos indicus	Weining cattle					female		Chromosome	2023-06-15	JAKQXM01	64
+ASM3027071v1	GCA_030270715.1		Bos indicus	Guanling cattle					female		Chromosome	2023-06-15	JAJUAH01	52
+ASM3027068v1	GCA_030270685.1		Bos indicus	Dabieshan cattle					female		Chromosome	2023-06-15	JAJUAE01	47
+ASM3027080v1	GCA_030270805.1		Bos indicus	Guanling cattle					female		Chromosome	2023-06-15	JAJUAI01	42
+ASM3027070v1	GCA_030270705.1		Bos indicus	Jinjiang cattle					female		Chromosome	2023-06-15	JAJUAF01	69
+ASM3027072v1	GCA_030270725.1		Bos indicus	Jinjiang cattle					female		Chromosome	2023-06-15	JAJUAG01	60
+ASM3027247v1	GCA_030272475.1		Bos indicus	Dabieshan cattle					female		Chromosome	2023-06-15	JAJUAD01	48
+ASM3027082v1	GCA_030270825.1		Bos indicus	Wenshangaofeng cattle					female		Chromosome	2023-06-15	JAJUAP01	34
+ASM3027093v1	GCA_030270935.1		Bos indicus	Yiling cattle					female		Chromosome	2023-06-15	JAJUAV01	45
+ASM2626246v1	GCA_026262465.1		Bos indicus	Leiqiong cattle					female		Chromosome	2022-11-23	JAJUAJ01	40
+ASM3027086v1	GCA_030270865.1		Bos indicus	Wenshangaofeng cattle					female		Chromosome	2023-06-15	JAJUAQ01	35
+ASM2626254v1	GCA_026262545.1		Bos indicus	Lincanggaofeng cattle					female		Chromosome	2022-11-23	JAJUAL01	44
+ASM2626251v1	GCA_026262515.1		Bos indicus	Lincanggaofeng cattle					female		Chromosome	2022-11-23	JAJUAM01	35
+ASM2626237v1	GCA_026262375.1		Bos indicus	Leiqiong cattle					female		Chromosome	2022-11-23	JAJUAK01	40
+ASM3027099v1	GCA_030270995.1		Bos indicus	Yiling cattle					female		Chromosome	2023-06-15	JAJUAW01	48
+ASM3027084v1	GCA_030270845.1		Bos indicus	Xiangxi cattle					female		Chromosome	2023-06-15	JAJUAS01	34
+ASM3027085v1	GCA_030270855.1		Bos indicus	Xiangxi cattle					female		Chromosome	2023-06-15	JAJUAR01	33
+ASM3027250v1	GCA_030272505.1		Bos indicus	Weizhou cattle					female		Chromosome	2023-06-15	JAJUAO01	39
+ASM3027249v1	GCA_030272495.1		Bos indicus	Weizhou cattle					female		Chromosome	2023-06-15	JAJUAN01	42
+ASM3027095v1	GCA_030270955.1		Bos indicus	Weining cattle					female		Chromosome	2023-06-15	JAJUAT01	50
+ASM3027094v1	GCA_030270945.1		Bos indicus	Weining cattle					female		Chromosome	2023-06-15	JAJUAU01	42
+NRCY_Bgru_v1	GCA_050059765.1		Bos grunniens	Arunachali					female		Chromosome	2025-05-01	JBHMQP01	62
+NWIPB_DYAK_1.0	GCA_027580245.1		Bos grunniens					GX_2022a	male		Chromosome	2023-01-09	JANCMS01	1313
+BosGru3.1	GCA_005887515.3		Bos grunniens				maiwa	yakHY00	male		Chromosome	2019-06-10	VBZB01	343
+ASM1180010v1	GCA_011800105.1		Rattus rattus				USA	CP-5999	male		Chromosome	2020-04-01	JAALGF01	6805
+KIZ version 2	GCA_033439345.1		Tupaia belangeri chinensis					KIZ-2021	male		Chromosome	2023-11-09	JAWMBH01	1645
+Naked mole-rat maternal	GCA_944319715.1		Heterocephalus glaber								Chromosome	2022-07-01	CALUER01	31
+mHetGlaV3	GCA_964261345.1		Heterocephalus glaber								Chromosome	2024-09-07	CAXVPI01	74
+HetGla maternal painted	GCA_963923965.1		Heterocephalus glaber								Chromosome	2024-01-19	CAWUOO01	223
+Naked mole-rat paternal	GCA_944319725.1		Heterocephalus glaber								Chromosome	2022-07-01	CALUES01	31
+pHetGlaV3	GCA_964261355.1		Heterocephalus glaber								Chromosome	2024-09-07	CAXVPJ01	78
+HetGla paternal painted	GCA_963923975.1		Heterocephalus glaber								Chromosome	2024-01-19	CAWUOP01	247
+mMacNem.hap2	GCA_043161795.1		Macaca nemestrina					mMacNem1	male		Chromosome	2024-10-15	JBHNYG01	233
+mIctTri1.hap2	GCA_052094965.1		Ictidomys tridecemlineatus					mIctTri1	male		Chromosome	2025-08-18	JBPVTU01	1438
+ASM5244588v1	GCA_052445885.1		Equus asinus					YW-2025b	male		Chromosome	2025-09-04	JBNCFL01	251
+CPB_AME_v1	GCA_029963865.1		Ailuropoda melanoleuca					CPB_GP_2021	female		Chromosome	2023-05-12	JAJSAN01	1335
+Camelus.1.0	GCA_036785785.1		Camelus bactrianus					1281-3	male		Chromosome	2024-02-23	JAUIZL01	60
+mPerMan1.1.pri	GCA_026229955.2		Peromyscus maniculatus sonoriensis					MVZ:Mamm:240117	male	GCA_026229955.1-GB_2026_02_24	Chromosome	2026-01-22	JAOPKW02	1632
+NW_MosBer_1.0	GCA_049115385.1		Moschus berezovskii					FMDL1	male		Chromosome	2025-03-28	JBLYBT01	33
+EmaxG-LGv1.0	GCA_033060105.1		Elephas maximus					YXG-2022	male		Chromosome	2023-10-26	JAVYJR01	45
+EmaxH2_LGv1.0	GCA_032718585.1		Elephas maximus					YXG-2022	male		Chromosome	2023-10-17	JAVYJK01	104
+EmaxH1_LGv1.0	GCA_032718755.1		Elephas maximus					YXG-2022	male		Chromosome	2023-10-17	JAVYJJ01	100
+mEleMax1.hap2	GCA_051911805.1		Elephas maximus indicus					mEleMax1	male		Chromosome	2025-08-11	JBNQWV01	88
+mEleMax1.hap1	GCA_051911825.1		Elephas maximus indicus					mEleMax1	male		Chromosome	2025-08-11	JBNQWU01	103
+mMicOch_UCD_v1_hap2	GCA_984569945.1		Microtus ochrogaster								Chromosome	2026-07-04	CFHEUL01	62
+mMicOch_UCD_v1_hap1	GCA_984569965.1		Microtus ochrogaster								Chromosome	2026-07-04	CFHEUM01	97
+mCamDro1.hap2	GCA_036321565.1		Camelus dromedarius					mCamDro1	male		Chromosome	2024-01-31	JAZARV01	173
+mMyoGla1.1	GCA_982192425.1		Myodes glareolus								Chromosome	2026-03-08	CEUUTC01	188
+mVicPac1.hap2	GCA_056363805.1		Vicugna pacos					mVicPac1	male		Chromosome	2026-03-27	JBWDIO01	475
+mVicPac1.hap1	GCA_056363735.1		Vicugna pacos					mVicPac1	male		Chromosome	2026-03-27	JBWDIN01	722
+NPU_CNip_2	GCA_038088365.1		Cervus nippon	shuangyang					male		Chromosome	2024-04-17	JBBMHO01	7559
+ASM3419567v1	GCA_034195675.1		Cervus nippon				Changchun, China	MLH-2022	male		Chromosome	2023-12-07	JAOBNA01	1889
+Gentig_PCG_1.0	GCA_024034525.1		Panthera tigris					Kylo-ren	male		Chromosome	2022-06-29	JAJEWO01	1201
+PanTigT.MC.v3	GCA_021130815.1		Panthera tigris tigris					Machali	female		Chromosome	2021-12-09	JAHFZI01	1052
+PanTigT.SI.v4	GCA_021131075.1		Panthera tigris tigris				India	SI-2018	male		Chromosome	2021-12-09	JAHFZJ01	3808
+ASM5232475v1	GCA_052324755.1		Cervus nippon kopschi					QY-2025	male		Chromosome	2025-08-28	JBQHDI01	260
+AU_CerNipYes_1.0	GCA_054829135.1		Cervus nippon yesoensis					JP_HOKNOK_M01	male		Chromosome	2026-01-29	JBTNMK01	1741
+UOA_Brahman_1	GCA_003369695.2	GCF_003369695.1	Bos indicus x Bos taurus	Angus x Brahman F1 hybrid					male		Chromosome	2018-11-30	PUFS02	1250
+UOA_Brahman_1	GCF_003369695.1	GCA_003369695.2	Bos indicus x Bos taurus	Angus x Brahman F1 hybrid					male	NCBI Bos indicus x Bos taurus Annotation Release 100	Chromosome	2018-11-30	PUFS02	1250
+NHGRI_mGorGor1-v2.0_mat	GCA_028885495.2		Gorilla gorilla gorilla					KB3781	male		Chromosome	2024-01-08	JAQQLJ02	225
+Susie3	GCA_900006655.3		Gorilla gorilla gorilla						female		Chromosome	2016-12-22	CYUI03	15745
+mNeoVis2.hap2.1	GCA_964106205.1		Neogale vison								Chromosome	2024-06-06	CAXKZO01	351
+mNeoVis2.hap1.1	GCA_964106545.1		Neogale vison								Chromosome	2024-06-06	CAXKZI01	434
+mVulVul1.hap2.2	GCA_964106925.2		Vulpes vulpes								Chromosome	2024-06-27	CAXKZK02	350
+mVulVul1.hap1.2	GCA_964106825.2		Vulpes vulpes								Chromosome	2024-06-27	CAXKZN02	460
+ASM5092620v1	GCA_050926205.1		Vulpes vulpes montana					Qinghai	male		Chromosome	2025-06-16	JAVJIY01	65
+Psun_UM_1.1	GCA_023856395.1		Cricetiscus sungorus		SSSS				female		Chromosome	2022-06-29	JAJQIY01	7756
+LafrH2_LGv1.0	GCA_032717415.1		Loxodonta africana					NFZ-2022	male		Chromosome	2023-10-17	JAVYJO01	675
+LafrG- LGv1.0	GCA_033060095.1		Loxodonta africana					NFZ-2022	male		Chromosome	2023-10-26	JAVYJQ01	742
+LafrH1_LGv1.0	GCA_032717405.1		Loxodonta africana					NFZ-2022	male		Chromosome	2023-10-17	JAVYJN01	638
+ULRtarCaribou_2v2	GCA_019903745.2		Rangifer tarandus caribou				boreal	CA-31	female		Chromosome	2023-04-17	JAHWTM02	12263
+mUrsArc1.1	GCA_056506245.2		Ursus arctos marsicanus					Lauretta	female		Chromosome	2026-04-01	JBNADW01	365
+mRanTar1.2.h2	GCA_951394145.2		Rangifer tarandus platyrhynchus							Annotation submitted by ELIXIR Norway	Chromosome	2025-03-21	CATOBB02	1213
+Rangifer_t_t_557	GCA_965153185.1		Rangifer tarandus tarandus								Chromosome	2026-01-07	CBCUDT01	894
+BTC_Dleu_Yukka2	GCA_059928025.1		Delphinapterus leucas					spDelLeu-1000000601 	female		Chromosome	2026-08-06	JCBGOS01	98
+mDasNov1.1.hap1	GCA_030445055.2		Dasypus novemcinctus					mDasNov1	male		Chromosome	2023-07-13	JAUJUB01	588
+S_20_00703_Flye_assembly_V1.1	GCA_029941455.3		Delphinapterus leucas					S_20_00703	male		Chromosome	2024-04-10	JARJCU02	4368
+S_20_00702_Flye_assembly_V1.1	GCA_029941435.3		Delphinapterus leucas					S_20_00702	male		Chromosome	2024-04-10	JARJCR02	5844
+S_20_00693_Flye_assembly_V1.1	GCA_029941415.3		Delphinapterus leucas					S_20_00693	male		Chromosome	2024-04-10	JARJCS02	9098
+mMyoLuc1.0	GCA_048340685.1		Myotis lucifugus carissima					MYLU1	female		Chromosome	2025-03-05	JAVIYB01	258
+mUrsAme1.1.p	GCA_024610735.2		Ursus americanus					L20-20	male		Chromosome	2025-07-14	JANIGQ02	297
+ASM227v2	GCA_000002275.2		Ornithorhynchus anatinus					Glennie	female		Chromosome	2007-02-14	AAPN01	201524
+NHGRI_mPonPyg2-v2.0_alt	GCA_028885525.2		Pongo pygmaeus					AG05252	male		Chromosome	2024-01-08	JAQQLT02	33
+P_pygmaeus_2.0.2	GCA_000001545.3		Pongo abelii					ISIS 71	female		Chromosome	2008-11-13	ABGA01	79309
+ASM2365373v1	GCA_023653735.1		Ceratotherium simum simum					SL21	male		Chromosome	2022-06-29	JAMKOT01	306
+ASM5780239v1	GCA_057802395.1	GCF_057802395.1	Ceratotherium simum simum					JZ-2026a	male		Chromosome	2026-06-01	JBVTIQ01	74
+CerSimCot1.0	GCA_021442165.1		Ceratotherium simum cottoni	northern white rhinoceros				KB9947	male		Chromosome	2022-01-12	JAHLFX01	390
+M.murinus_Inina_pat1.0	GCA_040939475.2		Microcebus murinus					Inina	female		Chromosome	2025-06-05	JBBJCM02	239
+MP_LKY	GCA_040802205.1		Manis pentadactyla					MP-LG	male		Chromosome	2024-07-22	JBFMML01	89
+mCerEla1.hap2.2	GCA_910593805.2		Cervus elaphus								Chromosome	2026-02-10	CAJVBA02	500
+ASM2022604v1	GCA_020226045.1		Muntiacus reevesi					NWPU-IOZ-04	male		Chromosome	2021-10-05	JAGTXV01	460
+UCB_Mree_1.1	GCA_008787405.2		Muntiacus reevesi					UCam_UCB_Mr	male	Annotation submitted by University of California, Berkeley	Chromosome	2019-10-07	VCEB01	29705
+NIPB_Tibetan_argali_1.0	GCA_045269445.1		Ovis ammon					HDX-2024	male		Chromosome	2024-11-25	JBIQQL01	96
+ASM6025671v1	GCA_060256715.1		Ovis ammon darwini					SBMZS20240413M01	male		Chromosome	2026-08-18	JBXXOW01	1335
+CerEla1.0	GCA_002197005.1		Cervus elaphus hippelaphus					Hungarian	male	Annotation submitted by National Agricultural Research and Innovation Centre	Chromosome	2017-06-19	MKHE01	11479
+ASM5695681v1	GCA_056956815.1		Alexandromys fortis		Mfo_v1				male		Chromosome	2026-04-28	JBXFWO01	167
+ASM5450224v1	GCA_054502245.1		Alexandromys fortis				China	SM_1		Annotation submitted by Central South University	Chromosome	2026-01-15	JBQVRV01	88
+mPhyCat2.hap1.1	GCA_978012005.1		Physeter macrocephalus								Chromosome	2026-02-01	CDXCVR01	782
+mPumCon1.1.hap1	GCA_028749985.4		Puma concolor					L17-30	male		Chromosome	2023-08-04	JAQJVZ02	257
+Pleo_Luke_hap1Y	GCA_046254995.1		Panthera leo					NZP-WASH/114161	male		Chromosome	2024-12-23	JBDJPO01	210
+Pleo_Luke_hap2X	GCA_046255005.1		Panthera leo					NZP-WASH/114161	male		Chromosome	2024-12-23	JBDJPP01	96
+mUroPar1.hap2	GCA_045843765.1		Urocitellus parryii					mUroPar1	male		Chromosome	2024-12-12	JBISEL01	2307
+HLdesRot8B.1	GCA_022682395.2		Desmodus rotundus					HL8	male		Chromosome	2022-03-24	JAKFGA01	429
+HispidOSU	GCA_041721565.1		Sigmodon hispidus					Hsd	male	Annotation submitted by The Ohio State University	Chromosome	2024-09-03	JAIWPY01	16480
+PanLeo1.0	GCA_008795835.1		Panthera leo					Brooke	female		Chromosome	2019-10-07	VOCV01	8060
+mTacAcu1	GCA_015598185.1		Tachyglossus aculeatus					Emale_01	male		Chromosome	2020-11-19	JADPHF01	318768
+NHGRI_mPanPan1-v2.0_pat	GCA_028858825.2		Pan paniscus						male		Chromosome	2024-01-08	JAQQLM02	38
+NHGRI_mPanPan1-v2.0_mat	GCA_028858845.2		Pan paniscus						male		Chromosome	2024-01-08	JAQQLL02	32
+ASM4011311v1	GCA_040113115.1		Nomascus leucogenys					KCB93007			Chromosome	2024-06-12	JBDORE01	143
+ASM4011310v1	GCA_040113105.1		Nomascus leucogenys					KCB93007			Chromosome	2024-06-12	JBDORF01	90
+Mhudiblu_PPA_v2	GCA_013052645.3		Pan paniscus					Mhudiblu (Carbone #601152)	female		Chromosome	2021-03-18	SSBP03	5520
+Ebai_4.0	GCA_057931235.1		Eospalax fontanierii baileyi					ML-2024a	male		Chromosome	2026-06-04	JBLNKO01	17736
+Ecan_1.0	GCA_057930505.1		Eospalax fontanierii cansus					ML-2024c	male		Chromosome	2026-06-04	JBLNKM01	3431
+mCasCan1.hap2v2	GCA_047511605.2		Castor canadensis					mCasCan1	female		Chromosome	2025-02-10	JBLFKB01	153
+DD_mPhyHas1.pri.curated.20210406	GCA_060309575.1		Phyllostomus hastatus					mPhyHas1	male		Chromosome	2026-08-21	JBAKBK01	53
+mMarFla1.hap2	GCA_047512175.1		Marmota flaviventris					mMarFla1	male		Chromosome	2025-02-10	JBLFKD01	329
+LycPic1.final.hap1	GCA_040955645.1		Lycaon pictus					LycPic1	male		Chromosome	2024-08-01	JBCEDC01	85
+mKogBre1 haplotype 2	GCA_026419985.1		Kogia breviceps					mKogBre1	female		Chromosome	2022-11-27	JAPMIG01	391
+EquPr2	GCA_037783155.1		Equus przewalskii					Varuska	female		Chromosome	2024-04-01	JAZHEM01	2146
+BBCv1.0	GCA_051307275.1		Bubalus kerabau	Xilin				Swamp_XL001	female		Chromosome	2025-07-14	WWNQ01	1472
+mOchPri1.hap2	GCA_030435715.1		Ochotona princeps					mOchPri1	male		Chromosome	2023-07-13	JAUDYL01	6117
+ASM4005753v1	GCA_040057535.1		Rhinolophus affinis								Chromosome	2024-06-04	JAUKPG01	60
+LycPicSAfr1.0	GCA_001887905.1		Lycaon pictus					South Africa Ananku	male		Chromosome	2016-12-01	LPRB01	802
+LycPicKen1.0	GCA_001883655.1		Lycaon pictus					Kenya WGF20	female		Chromosome	2016-12-01	LPRA01	812
+mThoBot2.hap2	GCA_031878665.1		Megascapheus bottae					mThoBot1	male		Chromosome	2023-09-25	JAVLKI01	340
+mThoBot2.hap1	GCA_031878675.1		Megascapheus bottae					mThoBot1	male	GCA_031878675.1-GB_2025_08_01	Chromosome	2023-09-25	JAVLKH01	629
+RSI-T2T	GCA_057876585.1		Rhinolophus sinicus					RSI-liver-muscle	female		Chromosome	2026-06-03	JBYRDP01	22
+ARS_UNL_Btau-highland_paternal_1.0_alt	GCA_009493655.1		Bos grunniens x Bos taurus					Esperanza	female		Chromosome	2019-11-04	VLPJ01	342
+mPteMes1.pri	GCA_056363955.1		Pteronotus mesoamericanus					mPteMes1	male		Chromosome	2026-03-27	JBWEFK01	27
+ASM5547105v1	GCA_055471055.1		Lepus americanus					Miyamoto	male		Chromosome	2026-02-24	JBUQDK01	392
+mIaxIox2.hap2	GCA_054824975.1		Ia io					mIaxIox2	male		Chromosome	2026-01-29	JBTBFC01	196
+mLepTim1.1_al	GCA_040893755.1		Lepus timidus								Chromosome	2024-07-26	JBEDNU01	109
+mPipPip1.1	GCA_903992545.1		Pipistrellus pipistrellus								Chromosome	2020-08-06	CAJEUD01	322
+S_20_00708_Flye_assembly_V1.1	GCA_029941395.3		Monodon monoceros					S_20_00708	male		Chromosome	2024-04-10	JARJCT02	6368
+CIBIO-ISEM_LeTim_1.1	GCA_009760805.1		Lepus timidus				Ireland	LTM.BIO.3104	female		Chromosome	2019-12-17	VUAX01	4205
+SPRET_EiJ_v1	GCA_001624865.1		Mus spretus		SPRET/EiJ				female		Chromosome	2016-04-26	LVXV01	5403
+Sciurus_carolinensis_HiC	GCA_028643795.1		Sciurus carolinensis					Sample1784	female		Chromosome	2023-02-16	JAQQSG01	2067066
+ASM2306583v1	GCA_023065835.1		Hippopotamus amphibius					ZL_2021a	male		Chromosome	2022-04-22	JAKVTS01	697
+mCarSyr1.hap2	GCA_059932575.1		Carlito syrichta fraterculus					mCarSyr1	male		Chromosome	2026-08-07	JCASOB01	777
+mCarSyr1.hap1	GCA_059932695.1		Carlito syrichta fraterculus					mCarSyr1	male		Chromosome	2026-08-07	JCASOA01	1113
+HU_Ppol_1.3.3	GCA_003704135.2		Peromyscus polionotus subgriseus					PO	female		Chromosome	2019-04-26	RCWS02	5292
+SNNU_Nneo_1	GCA_030324275.1		Neofelis nebulosa					NNE20_3_p1	female		Chromosome	2023-06-28	JASWHX01	216
+ASM4860315v1	GCA_048603155.1		Panthera uncia				Qinghai	LY-2025	female		Chromosome	2025-03-18	JBMBWT01	27
+mTamHud3.hap2	GCA_057657875.1		Tamiasciurus hudsonicus					mTamHud3	female		Chromosome	2026-05-15	JBXXPP01	96
+ASM5286311v1	GCA_052863115.1		Equus kiang					ZYL	male		Chromosome	2025-09-26	JAOURB01	1593
+mTapInd1.hap2	GCA_031878705.1		Tapirus indicus					mTapInd1	female	GCA_031878705.1-GB_2026_01_30	Chromosome	2023-09-25	JAVSPQ01	192
+ASM3006286v2	GCA_030062865.2		Delphinus delphis	common dolphin				KD-2022	male		Chromosome	2024-03-15	JAPTYN02	187
+mAxiPor1.hap2	GCA_054883225.1		Axis porcinus					mAxiPor1	male		Chromosome	2026-01-30	JBTXHP01	1968
+mTapInd1.hap1	GCA_031878655.1		Tapirus indicus					mTapInd1	female		Chromosome	2023-09-25	JAVSPP01	259
+ASM5194299v1	GCA_051942995.1		Panthera uncia					Ounce	male		Chromosome	2025-08-12	JBKIIJ01	280
+DamDam1_v1.mat	GCA_048126745.1		Dama dama					SK-2024	male	GCA_048126745.1-GB_2025_08_13	Chromosome	2025-02-27	JBLUUJ01	1303
+DamDam1_v1.pat	GCA_048127045.1		Dama dama					SK-2024	male		Chromosome	2025-02-27	JBLUUI01	310
+ASM2559416v1	GCA_025594165.1		Tamias sibiricus					XY-2022	female		Chromosome	2022-10-06	JAKELJ01	2095
+ASM4018294v1	GCA_040182945.1		Dugong dugon					CNS0813577			Chromosome	2024-06-14	JBEFZG01	2919
+Panthera_uncia_HiC	GCA_028646445.1		Panthera uncia					Sample0579	female		Chromosome	2023-02-21	JAQQSR01	108642
+Grampus_griseus_HiC	GCA_028646425.1		Grampus griseus					Sample2556	female		Chromosome	2023-02-16	JAQQSP01	773381
+pl-1k	GCA_028646535.1		Procyon lotor					Sample0574	female		Chromosome	2023-02-16	JAQQSY01	819431
+Charlie1.0	GCA_000772465.1		Nasalis larvatus					Charlie	male		Chromosome	2014-11-10	JMHX01	319549
+ASM4819716v1	GCA_048197165.1		Mustela nivalis		MNIV1m		Novosibirsk		male		Chromosome	2025-02-28	JBGGWR01	16700
+mDicSum1.hap2	GCA_060039925.1		Dicerorhinus sumatrensis sumatrensis					mDicSum1	male		Chromosome	2026-08-12	JCAJRH01	888
+Diceros_bicornis_HiC	GCA_028533375.1		Diceros bicornis					Sample0434	female		Chromosome	2023-02-09	JAQIGC01	636610
+mTamHud2.hap2	GCA_057931055.1		Tamiasciurus hudsonicus grahamensis					mTamHud2	male		Chromosome	2026-06-04	JBYDJJ01	426
+mTamHud2.hap1	GCA_057930835.1		Tamiasciurus hudsonicus grahamensis					mTamHud2	male		Chromosome	2026-06-04	JBYDJI01	488
+mMusNiv1.hap2	GCA_057128425.1		Mustela nivalis vulgaris					mMusNiv1	male		Chromosome	2026-04-30	JBXGLG01	4263
+mMusNiv1.hap1	GCA_057128415.1		Mustela nivalis vulgaris					mMusNiv1	male		Chromosome	2026-04-30	JBXGLF01	4177
+mOryAfe1.hap2	GCA_054668755.1		Orycteropus afer					mOryAfe1	male		Chromosome	2026-01-23	JBTXHH01	269
+mOryAfe1.hap1	GCA_054668785.1		Orycteropus afer					mOryAfe1	male		Chromosome	2026-01-23	JBTXHG01	353
+ASM3396157v1	GCA_033961575.1		Aselliscus stoliczkanus					M181119	male		Chromosome	2023-11-28	JAWWOG01	191
+mMicPen1.hap2	GCA_037039175.1		Microtus pennsylvanicus					mMicPen1	male		Chromosome	2024-03-06	JBANDR01	143
+mEquGre1.hap1	GCA_057876975.1		Equus grevyi					mEquGre1	female		Chromosome	2026-06-03	JBXADB01	767
+mMicPen_UCD_v1_hap1	GCA_984569935.1		Microtus pennsylvanicus								Chromosome	2026-07-04	CFHEUO01	105
+HLeliQue1B	GCA_051143595.1		Eliomys quercinus				Western European	TS-2025a			Chromosome	2025-06-30	JBOITX01	136
+mMicPen_UCD_v1_hap2	GCA_984569955.1		Microtus pennsylvanicus								Chromosome	2026-07-04	CFHEUN01	52
+mMyoDau2.hap2.2	GCA_963242275.2		Myotis daubentonii								Chromosome	2025-04-09	CAUJLF02	208
+mIniGeo1.hap2	GCA_036417475.1		Inia geoffrensis					mIniGeo1	male		Chromosome	2024-02-06	JAZAQU01	800
+mMusLut1.4	GCA_964264385.1		Mustela lutreola								Chromosome	2024-09-18	CAXVYP01	29
+mEubGla1.1.hap1	GCA_028571275.2		Eubalaena glacialis					mEubGla1	male		Chromosome	2023-02-09	JAQRBJ01	938
+mMusErm2.hap1.1	GCA_965636865.1		Mustela erminea								Chromosome	2025-07-09	CBFESM01	1035
+mMusErm2.hap2.1	GCA_965636855.1		Mustela erminea								Chromosome	2025-07-09	CBFESL01	944
+mMinNat1.hap2	GCA_054644305.1		Miniopterus natalensis					mMinNat1	female		Chromosome	2026-01-22	JBSYVD01	99
+mMinNat1.hap1	GCA_054644295.1		Miniopterus natalensis					mMinNat1	female		Chromosome	2026-01-22	JBSYVC01	135
+TBG_Ccri_1	GCA_058715845.1		Cricetus cricetus					Priska	female		Chromosome	2026-07-01	JBGOHG01	685
+mCorTow1.1.hap1	GCA_026230055.2		Corynorhinus townsendii					COTO_CA2020_CCGP	male	GCA_026230055.2-GB_2026_01_12	Chromosome	2025-12-17	JAPDVT02	380
+ASM4372795v1	GCA_043727955.1		Hipposideros larvatus				China	20210929_DDb	male		Chromosome	2024-10-24	JARCLT01	249
+mSagOed1.hap1	GCA_054851365.1		Saguinus oedipus					mSagOed1	male		Chromosome	2026-01-30	JBUBGA01	2111
+mSagOed1.hap2	GCA_054851435.1		Saguinus oedipus					mSagOed1	male		Chromosome	2026-01-30	JBUBGB01	880
+mMesBid2.hap2.1	GCA_964148845.1		Mesoplodon bidens								Chromosome	2024-06-06	CAXLBO01	1152
+OncTor_H1_v1	GCA_949787125.1		Onychomys torridus								Chromosome	2023-04-12	CATKUS01	1827
+mmar.min_150.pseudohap2.1_HiC.purged	GCA_040938825.1		Martes martes		10xmmar				female		Chromosome	2024-07-30	JBEHDX01	20048
+ASM6025213v1	GCA_060252135.1		Otocolobus manul					LD-2026			Chromosome	2026-08-19	JCANOO01	20
+mfla.min_150.pseudohap2.1_HiC	GCA_040938845.1		Martes flavigula		10xmfla				male		Chromosome	2024-07-30	JBEHDW01	61354
+Hydrochoerus_hydrochaeris_HiC	GCA_015741225.1		Hydrochoerus hydrochaeris					Pop	male		Chromosome	2020-12-04	JADBBS01	343877
+vu-2k	GCA_028626985.1		Vombatus ursinus					Sample0158	female		Chromosome	2023-02-16	JAQQSX01	633732
+Theropithecus_gelada_HiC	GCA_028533075.1		Theropithecus gelada					Sample2898			Chromosome	2023-02-10	JAQIFZ01	347802
+Tapirus_terrestris_HiC	GCA_028533255.1		Tapirus terrestris					Sample2410	male		Chromosome	2023-02-10	JAPYYE01	1711479
+Prionailurus_viverrinus_HiC	GCA_028551425.1		Prionailurus viverrinus					Sample0298	female		Chromosome	2023-02-09	JAQIGA01	395495
+Papio_papio_HiC	GCA_028645565.1		Papio papio					Sample3915	male		Chromosome	2023-02-16	JAQQSL01	429164
+Symphalangus_syndactylus_HiC	GCA_028642525.1		Symphalangus syndactylus					Sample0052	female		Chromosome	2023-02-16	JAQQSF01	797215
+mRucEld1.hap1	GCA_054824865.1		Rucervus eldii thamin					mRucEld1	female		Chromosome	2026-01-29	JBTVSD01	3421
+Lama_glama_HiC	GCA_028534125.1		Lama glama					Fiesta	female		Chromosome	2023-02-09	JAPYYK01	1072352
+O.geoffroyi_Oge1_pat1.0	GCA_018350155.1	GCF_018350155.1	Leopardus geoffroyi					Oge1	male		Chromosome	2021-05-13	JAFEKB01	46
+O.geoffroyi_Oge1_pat1.0	GCF_018350155.1	GCA_018350155.1	Leopardus geoffroyi					Oge1	male	NCBI Leopardus geoffroyi Annotation Release 100	Chromosome	2021-05-13	JAFEKB01	46
+mRouMad1.hap1	GCA_059802055.1		Rousettus madagascariensis					mRouMad1	male		Chromosome	2026-08-04	JCASOM01	77
+mCapNub1.hap2	GCA_054856215.1		Capra nubiana					mCapNub1	male		Chromosome	2026-01-30	JBTVNL01	554
+mRhyNas2.hap1	GCA_037038545.1		Rhynchonycteris naso					mRhyNas2	male	GCA_037038545.1-GB_2025_12_01	Chromosome	2024-03-06	JBAKBI01	40
+mAnoDer1.hap2	GCA_058744725.1		Anomalurus derbianus					mAnoDer1	female		Chromosome	2026-07-02	JBZXKE01	223
+mMolNig1.hap2	GCA_039880925.1		Molossus nigricans					mMolNig1	male		Chromosome	2024-05-29	JBDPIJ01	282
+mArtLit1.hap1	GCA_038363095.4		Artibeus lituratus					mArtLit1	male	GCA_038363095.4-GB_2026_04_09	Chromosome	2025-05-01	JBAWUQ03	486
+mMolAlv2.hap1	GCA_037157525.1		Molossus alvarezi					mMolAlv2	female	GCA_037157525.1-GB_2025_08_26	Chromosome	2024-03-15	JBAWUI01	325
+mPseCra1.hap2	GCA_039906525.1		Pseudorca crassidens					mPseCra1	male		Chromosome	2024-05-31	JBDMAV01	416
+mPepEle1.hap1	GCA_051427945.1		Peponocephala electra					mPepEle1	male		Chromosome	2025-07-21	JBPPFT01	204
+mTenEca1.hap2	GCA_050624465.1		Tenrec ecaudatus					mTenEca1	male		Chromosome	2025-05-30	JBNYUL01	1233
+mTadTen1.hap2.1	GCA_976988855.1		Tadarida teniotis								Chromosome	2025-10-10	CDRKIN01	370
+mLasEga1.hap1	GCA_058971415.1		Lasiurus ega					mLasEga1	male		Chromosome	2026-07-06	JBZXKN01	834
+mLeoRos1.hap2	GCA_054824955.1		Leontopithecus rosalia					mLeoRos1	male		Chromosome	2026-01-29	JBTBFE01	274
+mRhiHip2.hap2.2	GCA_964194215.2		Rhinolophus hipposideros								Chromosome	2025-04-12	CAXMLM02	980
+mCenSen1.hap2	GCA_058972435.1		Centurio senex					mCenSen1	female		Chromosome	2026-07-06	JBZXLA01	654
+mCteGun2.hap2	GCA_048771865.1		Ctenodactylus gundi					mCteGun2	female		Chromosome	2025-03-21	JBMERU01	1031
+mPipNat1.hap1.2	GCA_964656225.2		Pipistrellus nathusii								Chromosome	2025-05-07	CAZZRB02	396
+mCanAur2_v2	GCA_977927465.2		Canis aureus								Chromosome	2026-03-08	CDWWEX02	106
+mPipNat.alt	GCA_963693525.1		Pipistrellus nathusii								Chromosome	2024-02-07	CAVNZY01	155
+mTriInu1 haplotype 1	GCA_046562985.1		Trichechus inunguis					mTriInu1	male		Chromosome	2025-01-08	JBKGUE01	550
+ASM4765524v1	GCA_047655245.1		Pygathrix nigripes					XQ-2025c	male	Annotation submitted by Northwest University	Chromosome	2025-02-11	JBLIYM01	718
+mMyoMys1.hap2.1	GCA_964195625.1		Myotis mystacinus								Chromosome	2024-06-30	CAXMUD01	327
+EulRuf_1.0	GCA_043251655.1		Eulemur rufifrons					eul_ruf1	female		Chromosome	2024-10-17	JBHGBP01	2980
+PerEre_H1_v1	GCA_949786435.1		Peromyscus eremicus								Chromosome	2023-04-08	CATKUR01	4194
+mfoi.min_150.pseudohap2.1_HiC	GCA_040938555.1		Martes foina		10xmfoi				male		Chromosome	2024-07-30	JBEHDV01	23286
+ASM2022607v1	GCA_020226075.1		Hydropotes inermis					NWPU-IOZ-05	female		Chromosome	2021-10-05	JAGTXW01	1712
+Tremarctos_ornatus_HiC	GCA_028551375.1		Tremarctos ornatus					Sample0412	female		Chromosome	2023-02-09	JAPYXY01	188811
+Rousettus_madagascariensis_HiC	GCA_028533395.1		Rousettus madagascariensis					Sample2083			Chromosome	2023-02-09	JAPYYH01	1467186
+Mungos_mungo_HiC	GCA_028533875.1		Mungos mungo					Fupi	male		Chromosome	2023-02-09	JAPYXW01	572361
+Trachops_cirrhosus_HiC	GCA_028533065.1		Trachops cirrhosus					AMNH-AMCC-225240	male		Chromosome	2023-02-09	JAPYXV01	396519
+Leontopithecus_rosalia_HiC	GCA_028533165.1		Leontopithecus rosalia					Coari	female		Chromosome	2023-02-09	JAPYYA01	342831
+Felis_nigripes_HiC	GCA_028533295.1		Felis nigripes					Sample2599	female		Chromosome	2023-02-09	JAPYYG01	226952
+Dasyurus_viverrinus_HiC	GCA_028643805.1		Dasyurus viverrinus					Sample4019	male		Chromosome	2023-02-17	JAQQSI01	386556
+mAcoDim1_REL_1905	GCA_907164435.1		Acomys dimidiatus								Chromosome	2021-07-06	CAJQZA01	18302
+ASM1349639v1	GCA_013496395.1		Giraffa tippelskirchi					OR1865	male		Chromosome	2020-07-24	RAWU01	75681
+mZapHud1.hap2	GCA_057945655.1		Zapus hudsonius preblei					mZapHud1	male		Chromosome	2026-06-04	JBYDFF01	163
+mZapHud1.hap1	GCA_057945845.1		Zapus hudsonius preblei					mZapHud1	male		Chromosome	2026-06-04	JBYDFE01	263
+mZapHud2.hap1	GCA_057945945.1		Zapus hudsonius luteus					mZapHud2	male		Chromosome	2026-06-04	JBYDFG01	309
+ASM4043811v1	GCA_040438115.1		Tragelaphus eurycerus isaaci					Barney_WCC	male		Chromosome	2024-07-02	JBBXMO01	34537
+mCarSow1.hap2	GCA_051307135.1		Carollia sowelli					mCarSow1	female		Chromosome	2025-07-14	JBOBQS01	272
+mGloMut1.hap2	GCA_039656995.1		Glossophaga mutica					mGloMut1	male		Chromosome	2024-05-17	JBCAQM01	71
+mRhiDar1.hap2	GCA_057428265.1		Rhinolophus darlingi					mRhiDar1	male		Chromosome	2026-05-11	JBXXPV01	822
+mRhiCli1.hap2	GCA_054645025.1		Rhinolophus clivosus					mRhiCli1	male		Chromosome	2026-01-22	JBTNED01	219
+mCepZeb1.hap2	GCA_054099755.1		Cephalophula zebra					mCepZeb1	female		Chromosome	2025-12-18	JBSLPB01	677
+mMyoSod1.hap2	GCA_057945245.1		Myotis sodalis					mMyoSod1	male		Chromosome	2026-06-04	JBXADW01	43
+mEumNan1.hap2	GCA_058971805.1		Eumops nanus					mEumNan1	female		Chromosome	2026-07-06	JBZXKM01	114
+mLopEvo1.hap2	GCA_051307065.1		Lophostoma evote					mLopEvo1	male		Chromosome	2025-07-14	JBOBQD01	148
+mArtInt1.hap1	GCA_038363145.1		Artibeus intermedius					mArtInt1	male	GCA_038363145.1-GB_2025_08_26	Chromosome	2024-04-22	JBAWUS01	419
+mMicMic1.hap1	GCA_051107205.1		Micronycteris microtis					mMicMic1	male		Chromosome	2025-06-26	JBPFCR01	189
+mGarKee1.hap1	GCA_050655435.1		Gardnerycteris keenani					mGarKee1	male		Chromosome	2025-06-02	JBOKGH01	187
+mDerPha1.hap1	GCA_051107565.1		Dermanura phaeotis					mDerPha1	male		Chromosome	2025-06-26	JBPCCM01	105
+mPerGos1.hap2	GCA_057877455.1		Peromyscus gossypinus allapaticola					mPerGos1	male		Chromosome	2026-06-03	JBXXQD01	197
+mEptFur1.hap1	GCA_054644455.1		Neoeptesicus furinalis					mEptFur1	female		Chromosome	2026-01-22	JBRANA01	127
+mMyoTri1.hap2	GCA_054825045.1		Myotis tricolor					mMyoTri1	male		Chromosome	2026-01-29	JBTBFA01	118
+mMyoPil1.hap2	GCA_057888765.1		Myotis pilosatibialis					mMyoPil1	female		Chromosome	2026-06-03	JBVAYL01	94
+mEidDup1.hap1	GCA_059749095.1		Eidolon dupreanum					mEidDup1	female		Chromosome	2026-08-03	JCBABO01	80
+mEptChi1.hap2	GCA_054099605.1		Neoeptesicus chiriquinus					mEptChi1	male		Chromosome	2025-12-18	JBSIDH01	112
+mPteRuf1.hap1	GCA_056363885.1		Pteropus rufus					mPteRuf1	female		Chromosome	2026-03-27	JBWDIQ01	148
+mMyoNes1.hap1	GCA_054855985.1		Myotis nesopolus					mMyoNes1	male		Chromosome	2026-01-30	JBTVNI01	192
+mStuPar1.hap1	GCA_054855685.1		Sturnira parvidens					mStuPar1	male		Chromosome	2026-01-30	JBRFIG01	947
+mPlaHel1.hap2	GCA_051107545.1		Platyrrhinus helleri					mPlaHel1	male		Chromosome	2025-06-26	JBPCCL01	265
+mRhiBla1.hap1	GCA_057428245.1		Rhinolophus blasii					mRhiBla1	male		Chromosome	2026-05-11	JBXXPW01	196
+mMyoEma1.hap2.2	GCA_965115945.2		Myotis emarginatus								Chromosome	2025-04-14	CBCPEK02	418
+mRhiCys1.hap2	GCA_055761905.1		Rhinopoma cystops					mRhiCys1	male		Chromosome	2026-03-10	JBVQSY01	424
+mNeoFlo1.hap2	GCA_050000045.1		Neotoma floridana					mNeoFlo1	male		Chromosome	2025-04-29	JBNBAY01	942
+OncAre_H2_v1	GCA_949786425.1		Onychomys arenicola								Chromosome	2023-04-08	CATKUQ01	679
+mOliNig2.hap2	GCA_057876665.1		Oligoryzomys nigripes					mOliNig2	female		Chromosome	2026-06-03	JBYHCS01	95
+ASM4919089v1	GCA_049190895.1		Myospalax psilurus				Northeast China	NW-2023b	female		Chromosome	2025-03-31	JAVSCA01	1668
+OncLeu_H1_v1	GCA_949786395.1		Onychomys leucogaster								Chromosome	2023-04-08	CATKUN01	1014
+ASM2149845v1	GCA_021498455.1		Colobus guereza					KIZ-2021_5	male		Chromosome	2022-01-19	JAKFGS01	1657
+mRhyPet1.hap1	GCA_043290085.1		Rhynchocyon petersi					mRhyPet1	male	GCA_043290085.1-GB_2025_12_03	Chromosome	2024-10-17	JBHNZN01	468
+mBabCel1.hap2	GCA_057877285.1		Babyrousa celebensis					mBabCel1	male		Chromosome	2026-06-03	JBXADT01	1389
+mLesInc1.hap2	GCA_054644215.1		Lestoros inca					mLesInc1	male		Chromosome	2026-01-22	JBTMPI01	98
+mSicTri.2	GCA_982258855.1		Sicista trizona								Chromosome	2026-03-11	CEVEHX01	182
+ASM2022605v1	GCA_020226055.1		Muntiacus crinifrons					NWPU-IOZ-02	male		Chromosome	2021-10-05	JAGTXT01	5860
+Pteropus_rufus_HiC	GCA_028533765.1		Pteropus rufus					Sample2081			Chromosome	2023-02-10	JAPYYI01	469091
+Eidolon_dupreanum_HiC	GCA_028627145.1		Eidolon dupreanum					Sample2082			Chromosome	2023-02-16	JAQQSQ01	1191098
+Pithecia_pithecia_HiC	GCA_028551515.1		Pithecia pithecia					Jolene	female		Chromosome	2023-02-09	JAPYXZ01	1322362
+Babyrousa_celebensis_HiC	GCA_028533215.1		Babyrousa celebensis					Remley	female		Chromosome	2023-02-09	JAPYYC01	696483
+Sgui_1.0	GCA_059578245.1		Sotalia guianensis				Cananeia	MN-2026a			Chromosome	2026-07-22	JBXAXP01	46
+AKR_J_v3	GCA_922000895.2		Mus musculus								Chromosome	2022-07-01	CAKLHW02	194
+FVB_NJ_v3	GCA_921998635.2		Mus musculus								Chromosome	2022-07-01	CAKLHT02	375
+AKR_J_v1	GCA_001624295.1		Mus musculus		AKR/J				female		Chromosome	2016-04-26	LVXJ01	5952
+Mm_Celera	GCA_000002165.1		Mus musculus		mixed					Annotation submitted by Celera Genomics	Chromosome	2009-03-04	AAHY01	668539
+A_J_v1	GCA_001624215.1		Mus musculus		A/J				female		Chromosome	2016-04-26	LVXI01	4687
+NZO_HlLtJ_v1	GCA_001624745.1		Mus musculus		NZO/HiLtJ				female		Chromosome	2016-04-26	LVXT01	7021
+BALB_cJ_v1	GCA_001632525.1		Mus musculus		BALB/cJ				female		Chromosome	2016-05-09	LVXK01	3824
+FVB_NJ_v1	GCA_001624535.1		Mus musculus		FVB/NJ				female		Chromosome	2016-04-26	LVXQ01	5012
+C3H_HeJ_v1	GCA_001632575.1		Mus musculus		C3H/HeJ				female		Chromosome	2016-05-09	LVXL01	4068
+129S1_SvImJ_v1	GCA_001624185.1		Mus musculus		129S1/SvImJ				female		Chromosome	2016-04-26	LVXH01	7153
+DBA_2J_v1	GCA_001624505.1		Mus musculus		DBA/2J				female		Chromosome	2016-04-26	LVXP01	4104
+CBA_J_v1	GCA_001624475.1		Mus musculus		CBA/J				female		Chromosome	2016-04-26	LVXO01	5465
+C57BL_6NJ_v1	GCA_001632555.1		Mus musculus		C57BL/6NJ				female		Chromosome	2016-05-09	LVXM01	3893
+LP_J_v1	GCA_001632615.1		Mus musculus		LP/J				female		Chromosome	2016-05-09	LVXR01	3498
+NOD_ShiLtJ_v1	GCA_001624675.1		Mus musculus		NOD/ShiLtJ				female		Chromosome	2016-04-26	LVXS01	5543
+PWK_PhJ_v1	GCA_001624775.1		Mus musculus musculus		PWK/PhJ				female		Chromosome	2016-04-26	LVXU01	3139
+WSB_EiJ_v3	GCA_921998345.2		Mus musculus domesticus								Chromosome	2022-07-01	CAKLHL02	231
+WSB_EiJ_v1	GCA_001624835.1		Mus musculus domesticus		WSB/EiJ				female		Chromosome	2016-04-26	LVXW01	2238
+CAST_EiJ_v3	GCA_921999005.2		Mus musculus castaneus								Chromosome	2022-07-01	CAKLHS02	146
+CAST_EiJ_v1	GCA_001624445.1		Mus musculus castaneus		CAST/EiJ				female		Chromosome	2016-04-26	LVXN01	2976
+mRatBN7.2	GCA_015227675.2	GCF_015227675.2	Rattus norvegicus		BN/NHsdMcwi				male		Chromosome	2020-11-10	JACYVU01	175
+mRatBN7.2	GCF_015227675.2	GCA_015227675.2	Rattus norvegicus		BN/NHsdMcwi				male	GCF_015227675.2-RS_2023_06	Chromosome	2020-11-10	JACYVU01	175
+Rnor_6.0	GCA_000001895.4	GCF_000001895.5	Rattus norvegicus		mixed				pooled males and females		Chromosome	2014-07-01	AABR07	1394
+Rnor_6.0	GCF_000001895.5	GCA_000001895.4	Rattus norvegicus		mixed				pooled males and females	NCBI Rattus norvegicus Annotation Release 106	Chromosome	2014-07-01	AABR07	1394
+Rn_Celera	GCF_000002265.2	GCA_000002265.1	Rattus norvegicus		BN; Sprague-Dawley					NCBI Rattus norvegicus Annotation Release 106	Chromosome	2006-12-06	AAHX01	7271
+Rn_Celera	GCA_000002265.1	GCF_000002265.2	Rattus norvegicus		BN; Sprague-Dawley					Annotation submitted by Celera Genomics	Chromosome	2006-12-06	AAHX01	392288
+ASM5674852v1	GCA_056748525.1		Bos taurus	Mongolian				NMG16	male		Chromosome	2026-04-16	JAJGXD01	392
+Btau_5.0.1	GCA_000003205.6	GCF_000003205.7	Bos taurus	Hereford					pooled male and female		Chromosome	2015-11-19	AAFC05	5998
+Btau_5.0.1	GCF_000003205.7	GCA_000003205.6	Bos taurus	Hereford					pooled male and female	NCBI Bos taurus Annotation Release 105	Chromosome	2015-11-19	AAFC05	5998
+Bos_taurus_UMD_3.1.1	GCA_000003055.5	GCF_000003055.6	Bos taurus	Hereford					pooled male and female	Annotation submitted by Center for Bioinformatics and Computational Biology, University of Maryland	Chromosome	2014-11-25	DAAA02	6336
+Bos_taurus_UMD_3.1.1	GCF_000003055.6	GCA_000003055.5	Bos taurus	Hereford					pooled male and female	NCBI Bos taurus Annotation Release 105	Chromosome	2014-11-25	DAAA02	6336
+UMICH_Zoey_3.1	GCA_005444595.1	GCF_005444595.1	Canis lupus familiaris	Great Dane				Zoey	female		Chromosome	2019-05-30	REHQ01	793
+UMICH_Zoey_3.1	GCF_005444595.1	GCA_005444595.1	Canis lupus familiaris	Great Dane				Zoey	female	NCBI Canis lupus familiaris Annotation Release 106	Chromosome	2019-05-30	REHQ01	793
+Mmul_10	GCA_003339765.3	GCF_003339765.1	Macaca mulatta					AG07107	female		Chromosome	2019-02-13	QNVO02	2978
+Mmul_10	GCF_003339765.1	GCA_003339765.3	Macaca mulatta					AG07107	female	NCBI Macaca mulatta Annotation Release 103	Chromosome	2019-02-13	QNVO02	2978
+Mmul_8.0.1	GCA_000772875.3	GCF_000772875.2	Macaca mulatta					17573	female		Chromosome	2015-11-30	JSUE03	286262
+Mmul_8.0.1	GCF_000772875.2	GCA_000772875.3	Macaca mulatta					17573	female	NCBI Macaca mulatta Annotation Release 102	Chromosome	2015-11-30	JSUE03	286262
+Mmul_051212	GCF_000002255.3	GCA_000002255.2	Macaca mulatta					17573	female	Annotation submitted by NCBI RefSeq	Chromosome	2006-02-27	AANU01	124035
+Mmul_051212	GCA_000002255.2	GCF_000002255.3	Macaca mulatta					17573	female		Chromosome	2006-02-27	AANU01	124054
+Oar_rambouillet_v1.0	GCA_002742125.1	GCF_002742125.1	Ovis aries	Rambouillet	OAR_USU_Benz2616				female		Chromosome	2017-11-02	PEKD01	2640
+Oar_rambouillet_v1.0	GCF_002742125.1	GCA_002742125.1	Ovis aries	Rambouillet	OAR_USU_Benz2616				female	NCBI Ovis aries Annotation Release 103	Chromosome	2017-11-02	PEKD01	2640
+Oar_v4.0	GCA_000298735.2	GCF_000298735.2	Ovis aries	Texel							Chromosome	2015-11-20	AMGL02	5465
+Oar_v4.0	GCF_000298735.2	GCA_000298735.2	Ovis aries	Texel						NCBI Ovis aries Annotation Release 102	Chromosome	2015-11-20	AMGL02	5465
+Ovis_aries_1.0	GCA_000005525.1		Ovis aries	mixed					female		Chromosome	2010-02-25	ACIV01	1331
+UM_NZW_1.0	GCA_009806435.2	GCF_009806435.1	Oryctolagus cuniculus	New Zealand White				DNA-2018	male		Chromosome	2021-02-04	VIYN02	3159
+UM_NZW_1.0	GCF_009806435.1	GCA_009806435.2	Oryctolagus cuniculus	New Zealand White				DNA-2018	male	GCF_009806435.1-RS_2023_02	Chromosome	2021-02-04	VIYN02	3159
+OryCun2.0	GCF_000003625.3	GCA_000003625.1	Oryctolagus cuniculus	Thorbecke inbred					female	NCBI Oryctolagus cuniculus Annotation Release 102	Chromosome	2009-10-20	AAGW02	3317
+OryCun2.0	GCA_000003625.1	GCF_000003625.3	Oryctolagus cuniculus	Thorbecke inbred					female		Chromosome	2009-10-20	AAGW02	3318
+MFA1912RKSv2	GCA_012559485.3	GCF_012559485.2	Macaca fascicularis					CE1976F			Chromosome	2021-10-26	BLPH02	400
+MFA1912RKSv2	GCF_012559485.2	GCA_012559485.3	Macaca fascicularis					CE1976F		NCBI Macaca fascicularis Annotation Release 102	Chromosome	2021-10-26	BLPH02	400
+Macaca_fascicularis_5.0	GCA_000364345.1	GCF_000364345.1	Macaca fascicularis						female		Chromosome	2013-06-12	AQIA01	7624
+Macaca_fascicularis_5.0	GCF_000364345.1	GCA_000364345.1	Macaca fascicularis						female	NCBI Macaca fascicularis Annotation Release 101	Chromosome	2013-06-12	AQIA01	7624
+EquCab3.0	GCA_002863925.1	GCF_002863925.1	Equus caballus	thoroughbred				Twilight	female		Chromosome	2018-01-05	PJAA01	4700
+EquCab3.0	GCF_002863925.1	GCA_002863925.1	Equus caballus	thoroughbred				Twilight	female	GCF_002863925.1-RS_2024_08	Chromosome	2018-01-05	PJAA01	4700
+EquCab2.0	GCF_000002305.2	GCA_000002305.1	Equus caballus	thoroughbred				Twilight	female	NCBI Equus caballus Annotation Release 102	Chromosome	2007-10-29	AAWR02	9687
+EquCab2.0	GCA_000002305.1	GCF_000002305.2	Equus caballus	thoroughbred				Twilight	female		Chromosome	2007-10-29	AAWR02	9687
+Callithrix_jacchus_cj1700_1.1	GCA_009663435.2	GCF_009663435.1	Callithrix jacchus		cj1700				female		Chromosome	2020-05-22	WJHW01	993
+Callithrix_jacchus_cj1700_1.1	GCF_009663435.1	GCA_009663435.2	Callithrix jacchus		cj1700			SNPRC 17081; SNPRC 17065; SNPRC 17066	female	NCBI Callithrix jacchus Annotation Release 105	Chromosome	2020-05-22	WJHW01	993
+mCalJa1.2.pat.X	GCA_011100555.2	GCF_011100555.1	Callithrix jacchus					mCalJac1	male		Chromosome	2021-04-28	JAALXP02	1233
+mCalJa1.2.pat.X	GCF_011100555.1	GCA_011100555.2	Callithrix jacchus					mCalJac1	male	GCF_011100555.1-RS_2023_03	Chromosome	2021-04-28	JAALXP02	1233
+Chlorocebus_sabeus 1.1	GCA_000409795.2	GCF_000409795.2	Chlorocebus sabaeus					1994-021	male		Chromosome	2014-03-25	AQIB01	2021
+Chlorocebus_sabeus 1.1	GCF_000409795.2	GCA_000409795.2	Chlorocebus sabaeus					1994-021	male	NCBI Chlorocebus sabaeus Annotation Release 100	Chromosome	2014-03-25	AQIB01	2021
+Callithrix jacchus-3.2	GCA_000004665.1	GCF_000004665.1	Callithrix jacchus								Chromosome	2010-01-22	ACFV01	16399
+Callithrix jacchus-3.2	GCF_000004665.1	GCA_000004665.1	Callithrix jacchus							NCBI Callithrix jacchus Annotation Release 104	Chromosome	2010-01-22	ACFV01	16399
+ASM293397v1	GCA_002933975.1		Bos indicus	Gir					male		Chromosome	2018-02-22	PRDE01	216408
+Bos_indicus_1.0	GCA_000247795.2	GCF_000247795.1	Bos indicus	Nelore				QUIL7308	male		Chromosome	2014-11-25	AGFL01	31
+Bos_indicus_1.0	GCF_000247795.1	GCA_000247795.2	Bos indicus	Nelore				QUIL7308	male	NCBI Bos indicus Annotation Release 100	Chromosome	2014-11-25	AGFL01	31
+UOA_WB_1	GCA_003121395.1	GCF_003121395.1	Bubalus bubalis	Mediterranean					female		Chromosome	2018-05-14	PZYV01	508
+UOA_WB_1	GCF_003121395.1	GCA_003121395.1	Bubalus bubalis	Mediterranean					female	NCBI Bubalus bubalis Annotation Release 101	Chromosome	2018-05-14	PZYV01	508
+NDDB_DH_1	GCA_019923925.1	GCF_019923925.1	Bubalus bubalis	Murrah				160015118507	female		Chromosome	2021-09-10	VDCC01	33
+NDDB_DH_1	GCF_019923925.1	GCA_019923925.1	Bubalus bubalis	Murrah				160015118507	female	NCBI Bubalus bubalis Annotation Release 102	Chromosome	2021-09-10	VDCC01	33
+Clint_PTRv2	GCA_002880755.3	GCF_002880755.1	Pan troglodytes					Yerkes chimp pedigree #C0471 (Clint)	male	Annotation submitted by University of Washington	Chromosome	2018-01-19	NBAG03	4418
+Clint_PTRv2	GCF_002880755.1	GCA_002880755.3	Pan troglodytes					Yerkes chimp pedigree #C0471 (Clint)	male	NCBI Pan troglodytes Annotation Release 105	Chromosome	2018-01-19	NBAG03	4431
+Pan_tro 3.0	GCA_000001515.5	GCF_000001515.7	Pan troglodytes					Yerkes chimp pedigree #C0471 (Clint)	male		Chromosome	2016-05-03	AACZ04	45510
+Pan_tro 3.0	GCF_000001515.7	GCA_000001515.5	Pan troglodytes					Yerkes chimp pedigree #C0471 (Clint)	male	NCBI Pan troglodytes Annotation Release 104	Chromosome	2016-05-03	AACZ04	45510
+MonDom5	GCA_000002295.1	GCF_000002295.2	Monodelphis domestica								Chromosome	2007-01-25	AAFR03	5137
+MonDom5	GCF_000002295.2	GCA_000002295.1	Monodelphis domestica							NCBI Monodelphis domestica Annotation Release 103	Chromosome	2007-01-25	AAFR03	5222
+Panu_3.0	GCA_000264685.2	GCF_000264685.3	Papio anubis					1X1155	female		Chromosome	2017-04-20	AHZZ02	71134
+Panu_3.0	GCF_000264685.3	GCA_000264685.2	Papio anubis					1X1155	female	NCBI Papio anubis Annotation Release 103	Chromosome	2017-04-20	AHZZ02	71134
+HiC_Itri_2	GCA_016881025.1	GCF_016881025.1	Ictidomys tridecemlineatus					GS200	female	Annotation submitted by Stanford University School of Medicine	Chromosome	2021-02-17	JAESOR01	7131
+HiC_Itri_2	GCF_016881025.1	GCA_016881025.1	Ictidomys tridecemlineatus					GS200	female	NCBI Ictidomys tridecemlineatus Annotation Release 103	Chromosome	2021-02-17	JAESOR01	7131
+ASM1607732v2	GCA_016077325.2	GCF_016077325.2	Equus asinus	Dezhou					male		Chromosome	2021-10-14	JADWZW02	50
+ASM1607732v2	GCF_016077325.2	GCA_016077325.2	Equus asinus	Dezhou					male	NCBI Equus asinus Annotation Release 101	Chromosome	2021-10-14	JADWZW02	50
+HU_Pman_2.1.3	GCA_003704035.3	GCF_003704035.1	Peromyscus maniculatus bairdii					BW	female		Chromosome	2020-09-17	RCWR01	8523
+HU_Pman_2.1.3	GCF_003704035.1	GCA_003704035.3	Peromyscus maniculatus bairdii					BW	female	NCBI Peromyscus maniculatus bairdii Annotation Release 102	Chromosome	2020-09-17	RCWR01	8523
+CamDro3	GCA_000803125.3	GCF_000803125.2	Camelus dromedarius	African				Drom800	female	Annotation submitted by Vetmeduni Vienna	Chromosome	2019-10-07	JWIN03	21069
+CamDro3	GCF_000803125.2	GCA_000803125.3	Camelus dromedarius	African				Drom800	female	NCBI Camelus dromedarius Annotation Release 101	Chromosome	2019-10-07	JWIN03	21069
+Kamilah_GGO_v0	GCA_008122165.1	GCF_008122165.1	Gorilla gorilla gorilla	western lowland gorilla				Kamilah (stud number 0661)	female		Chromosome	2019-08-28	SRLZ01	5705
+Kamilah_GGO_v0	GCF_008122165.1	GCA_008122165.1	Gorilla gorilla gorilla	western lowland gorilla				Kamilah (stud number 0661)	female	NCBI Gorilla gorilla Annotation Release 102	Chromosome	2019-08-28	SRLZ01	5705
+gorGor4	GCA_000151905.3	GCF_000151905.2	Gorilla gorilla gorilla								Chromosome	2014-12-19	CABD03	40729
+gorGor4	GCF_000151905.2	GCA_000151905.3	Gorilla gorilla gorilla							NCBI Gorilla gorilla Annotation Release 101	Chromosome	2014-12-19	CABD03	40729
+Susie_PABv2	GCA_002880775.3	GCF_002880775.1	Pongo abelii					Susie	female	Annotation submitted by University of Washington	Chromosome	2018-01-19	NDHI03	5299
+Susie_PABv2	GCF_002880775.1	GCA_002880775.3	Pongo abelii					Susie	female	NCBI Pongo abelii Annotation Release 103	Chromosome	2018-01-19	NDHI03	5299
+ASM2128878v3	GCA_021288785.3	GCF_021288785.2	Mirounga angustirostris					JK_09032017			Chromosome	2022-12-21	JAJSZF01	142455
+ASM2128878v3	GCF_021288785.2	GCA_021288785.3	Mirounga angustirostris					JK_09032017		GCF_021288785.2-RS_2023_03	Chromosome	2022-12-21	JAJSZF01	142455
+Mmur_3.0	GCA_000165445.3	GCF_000165445.2	Microcebus murinus					mixed	pooled male and female		Chromosome	2017-02-06	ABDC03	7677
+Mmur_3.0	GCF_000165445.2	GCA_000165445.3	Microcebus murinus					mixed	pooled male and female	NCBI Microcebus murinus Annotation Release 101	Chromosome	2017-02-06	ABDC03	7677
+panpan1.1	GCA_000258655.2	GCF_000258655.2	Pan paniscus					Ulindi	female		Chromosome	2015-08-18	AJFE02	10983
+panpan1.1	GCF_000258655.2	GCA_000258655.2	Pan paniscus					Ulindi	female	NCBI Pan paniscus Annotation Release 103	Chromosome	2015-08-18	AJFE02	10983
+Nleu_3.0	GCA_000146795.3	GCF_000146795.2	Nomascus leucogenys					Asia; international studbook 0098	female		Chromosome	2012-12-08	ADFV01	17524
+Nleu_3.0	GCF_000146795.2	GCA_000146795.3	Nomascus leucogenys					Asia; international studbook 0098	female	NCBI Nomascus leucogenys Annotation Release 102	Chromosome	2012-12-08	ADFV01	17524
+OchPri4.0	GCA_014633375.1	GCF_014633375.1	Ochotona princeps					UAM:Mamm:113957	male		Chromosome	2020-09-21	JACJUE01	9350
+OchPri4.0	GCF_014633375.1	GCA_014633375.1	Ochotona princeps					UAM:Mamm:113957	male	NCBI Ochotona princeps Annotation Release 102	Chromosome	2020-09-21	JACJUE01	9350
+mPanOnc1 haplotype 1	GCA_046562885.2	GCF_046562885.1	Panthera onca					mPanOnc1	male		Chromosome	2025-01-08	JBKGDW01	115
+mPanOnc1 haplotype 1	GCF_046562885.1	GCA_046562885.2	Panthera onca					mPanOnc1	male	GCF_046562885.1-RS_2025_12	Chromosome	2025-01-08	JBKGDW01	115
+Panthera_onca_HiC	GCA_028533385.1	GCF_028533385.1	Panthera onca					Sample0147	female		Chromosome	2023-02-09	JAQIGD01	410583
+Panthera_onca_HiC	GCF_028533385.1	GCA_028533385.1	Panthera onca					Sample0147	female	GCF_028533385.1-RS_2023_10	Chromosome	2023-02-09	JAQIGD01	36242
+mCalLat2.hap2	GCA_048772825.1	GCF_048772825.1	Callospermophilus lateralis					mCalLat2	male		Chromosome	2025-03-21	JBMETH01	2820
+mCalLat2.hap2	GCF_048772825.1	GCA_048772825.1	Callospermophilus lateralis					mCalLat2	male	GCF_048772825.1-RS_2025_09	Chromosome	2025-03-21	JBMETH01	2820
+Tgel_1.0	GCA_003255815.1	GCF_003255815.1	Theropithecus gelada					Dixy	female		Chromosome	2018-06-19	QGDE01	15307
+Tgel_1.0	GCF_003255815.1	GCA_003255815.1	Theropithecus gelada					Dixy	female	NCBI Theropithecus gelada Annotation Release 100	Chromosome	2018-06-19	QGDE01	15307
+UniMelb_ThyCyn2.0_hybrid_assembly	GCA_007646695.3		Thylacinus cynocephalus					PY-MV-C5757	female		Chromosome	2022-04-04	VAHE03	149109
+CAROLI_EIJ_v1.1	GCF_900094665.2	GCA_900094665.2	Mus caroli						female	NCBI Mus caroli Annotation Release 101	Chromosome	2017-04-28	FMAL02	3077
+CAROLI_EIJ_v1.1	GCA_900094665.2	GCF_900094665.2	Mus caroli						female		Chromosome	2017-04-28	FMAL02	3162
+ARS_Simm1.0	GCA_018282465.1		Bos taurus x Bison bison					Buzz	male		Chromosome	2021-05-06	JAEQBJ01	1313
+ARS-UCSC_bison1.0	GCA_018282365.1		Bos taurus x Bison bison					Buzz	male		Chromosome	2021-05-06	JAEQBK01	774
+TAMU_Bison_Bison_3.0	GCA_030254855.1		Bos taurus x Bison bison					BWD-2023a	female		Chromosome	2023-06-12	JASFYB01	661
+mCroZim1.2	GCA_965212715.2		Crocidura gueldenstaedtii								Chromosome	2025-07-07	CBDBWC02	145
+chr_tw5	GCA_048544855.1		Mus musculus musculus		C57BL/6J				female		Chromosome	2025-03-12	JBLDZW01	1
+T2T-sheep1.0P	GCA_040836155.1		Ovis aries	Hu sheep				HU3095-Father	male	Annotation submitted by China Agricultural University	Chromosome	2024-07-24		27
+T2T-goat2.0P	GCA_041053135.1		Capra hircus	Inner Mongolia cashmere goat					male		Chromosome	2024-08-05		30
+T2T-goat1.0P	GCA_041920685.1		Capra hircus	Inner Mongolia cashmere goat					male	Annotation submitted by China Agricultural University	Chromosome	2024-09-14		30
+calJac240_alt	GCA_049354655.1		Callithrix jacchus					240	male		Chromosome	2025-04-08	JBLWJE01	22
+SMU_DYY_1.0	GCA_056775595.1		Bos grunniens	Maiwa				MaiWa_20	male		Chromosome	2026-03-24	JBKZAP01	1
+NHGRI_mPanTro3-v2.0_alt	GCA_028858805.2		Pan troglodytes					AG18354	male		Chromosome	2024-01-08	JAQQLO02	23
+HU_Pman_NUB_pat_3.1	GCA_049852375.1		Peromyscus maniculatus nubiterrae					BWxNUB_F1_NUB_parent	male		Chromosome	2025-04-22	JBMNXR01	23
+ASM4859334v1	GCA_048593345.1		Notamacropus eugenii					Barry	male		Chromosome	2025-03-17	JBMDLP01	8
+NHGRI_mGorGor1-v2.0_pat	GCA_028885475.2		Gorilla gorilla gorilla					KB3781	male		Chromosome	2024-01-08	JAQQLK02	24
+ASM4859332v1	GCA_048593325.1		Sarcophilus harrisii					McLovin	male		Chromosome	2025-03-17	JBMDLS01	6
+NGS12	GCA_900086635.1		Pongo pygmaeus								Chromosome	2016-07-09		1
+ASM103953v1	GCA_001039535.1		Ovis canadensis canadensis					43U	male		Chromosome	2015-06-25		27
+WTSI_X_Y_pig V2	GCA_900119615.2		Sus scrofa								Chromosome	2017-02-08	FPKY02	11
+Mmul_Y_1.0	GCA_001270425.1		Macaca mulatta						male		Chromosome	2015-08-20		3
+Callithrix_jacchus_cj1700_chrY	GCA_013138085.1		Callithrix jacchus					SNPRC 17081; SNPRC 17065; SNPRC 17066	pooled male and female		Chromosome	2020-05-22		9
+ICC22C chr21	GCA_000090855.1		Pan troglodytes								Chromosome	2004-07-02		3
+CCYSCv1	GCA_000002175.2	GCF_000002175.1	Pan troglodytes verus								Chromosome	2006-04-20		2
+CCYSCv1	GCF_000002175.1	GCA_000002175.2	Pan troglodytes verus								Chromosome	2006-04-20		2
+NHGRI_mPonAbe1-v2.0_alt	GCA_028885685.2		Pongo abelii					AG06213	male		Chromosome	2024-01-05	JAQQLR02	48
+NHGRI_mSymSyn1-v2.0_alt	GCA_028878085.3		Symphalangus syndactylus					Jambi	male		Chromosome	2024-01-05	JAQQLH02	40
+ASM2306533v1	GCA_023065335.1		Sus scrofa	Duroc				DRC192	male		Chromosome	2022-04-20		1
+ASM2306535v1	GCA_023065355.1		Sus scrofa	Bamaxiang				BMX194	male		Chromosome	2022-04-20		1
+ASM3037850v1	GCA_030378505.1		Bos taurus	Wagyu					male		Chromosome	2023-07-01		1
+Lak_Megaphage_Wal-1	GCA_964162815.1		Canis lupus familiaris								Chromosome	2024-06-06		1
+Lak_Megaphage_Wal-2	GCA_964164975.1		Canis lupus familiaris								Chromosome	2024-06-06		1
+ASM3051244v1	GCA_030512445.1		Ovis aries	Churro					male		Chromosome	2023-07-20		1
+T2T-MFA8v1.1	GCA_048601705.1		Macaca fascicularis					0214	male		Chromosome	2024-09-18		1
