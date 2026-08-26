@@ -30,8 +30,8 @@ rule download_genome:
     retries: 3
     threads: 1
     resources:
-        mem_mb: 1000,
-        runtime: 30
+        mem_mb=1000,
+        runtime=30
     shell:
         """
         datasets download genome accession {wildcards.genome} --include genome --filename resources/genomes/{wildcards.genome}.zip > {log} 2>&1
@@ -52,8 +52,8 @@ rule makeblastdb:
         "envs/blast.yaml"
     threads: 1
     resources:
-        mem_mb: 2000,
-        runtime: 30
+        mem_mb=2000,
+        runtime=30
     shell:
         """
         mkdir -p {output.db_dir}
@@ -73,8 +73,8 @@ rule extract_queries:
         "envs/python.yaml"
     threads: 1
     resources:
-        mem_mb: 1000,
-        runtime: 10
+        mem_mb=1000,
+        runtime=10
     shell:
         "python workflow/scripts/extract_queries.py --gbk {input.gbk} --target {wildcards.target} --out {output.fasta} > {log} 2>&1"
 
@@ -92,8 +92,8 @@ rule local_blastn:
         "envs/blast.yaml"
     threads: 4
     resources:
-        mem_mb: 4000,
-        runtime: 60
+        mem_mb=4000,
+        runtime=60
     params:
         db = "resources/blast_dbs/{genome}/{genome}",
         hspcov = config["blast_params"]["hspcoverage"],
@@ -171,8 +171,8 @@ rule extract_fastas:
         "envs/blast.yaml"
     threads: 1
     resources:
-        mem_mb: 1000,
-        runtime: 15
+        mem_mb=2000,
+        runtime=15
     params:
         db = "resources/blast_dbs/{genome}/{genome}"
     shell:
@@ -269,8 +269,8 @@ rule infer_phylogeny:
         "envs/phylogeny.yaml"
     threads: 4
     resources:
-        mem_mb: 8000,
-        runtime: 120
+        mem_mb=8000,
+        runtime=120
     params:
         prefix = "results/phylogeny/{genome}_{gbk}_{target}"
     shell:
