@@ -15,8 +15,8 @@ TARGETS = config["targets"]
 
 rule all:
     input:
-        "results/summary_hits.tsv"
-        #expand("results/phylogeny/{genome}_{gbk}_{target}.treefile", genome=GENOMES, gbk=GBKS, target=TARGETS)
+        "results/summary_hits.tsv",
+        expand("results/phylogeny/{genome}_{gbk}_{target}.treefile", genome=GENOMES, gbk=GBKS, target=TARGETS)
 
 rule download_genome:
     output:
@@ -29,6 +29,9 @@ rule download_genome:
         "envs/datasets.yaml"
     retries: 3
     threads: 1
+    resources:
+        mem_mb: 1000,
+        runtime: 30
     shell:
         """
         datasets download genome accession {wildcards.genome} --include genome --filename resources/genomes/{wildcards.genome}.zip > {log} 2>&1
@@ -48,6 +51,9 @@ rule makeblastdb:
     conda:
         "envs/blast.yaml"
     threads: 1
+    resources:
+        mem_mb: 2000,
+        runtime: 30
     shell:
         """
         mkdir -p {output.db_dir}
@@ -66,6 +72,9 @@ rule extract_queries:
     conda:
         "envs/python.yaml"
     threads: 1
+    resources:
+        mem_mb: 1000,
+        runtime: 10
     shell:
         "python workflow/scripts/extract_queries.py --gbk {input.gbk} --target {wildcards.target} --out {output.fasta} > {log} 2>&1"
 
@@ -82,6 +91,9 @@ rule local_blastn:
     conda:
         "envs/blast.yaml"
     threads: 4
+    resources:
+        mem_mb: 4000,
+        runtime: 60
     params:
         db = "resources/blast_dbs/{genome}/{genome}",
         hspcov = config["blast_params"]["hspcoverage"],
@@ -158,6 +170,9 @@ rule extract_fastas:
     conda:
         "envs/blast.yaml"
     threads: 1
+    resources:
+        mem_mb: 1000,
+        runtime: 15
     params:
         db = "resources/blast_dbs/{genome}/{genome}"
     shell:
@@ -253,12 +268,15 @@ rule infer_phylogeny:
     conda:
         "envs/phylogeny.yaml"
     threads: 4
+    resources:
+        mem_mb: 8000,
+        runtime: 120
     params:
         prefix = "results/phylogeny/{genome}_{gbk}_{target}"
     shell:
         """
         if [ -s {input.alignment} ] && [ $(grep -c "^>" {input.alignment}) -ge 3 ]; then
-            iqtree -s {input.alignment} -m MFP -bb 10000 -alrt 1000 -T {threads} --undo --prefix {params.prefix} > {log} 2>&1
+            iqtree -s {input.alignment} -m GTR -B 10000 -alrt 1000 -T {threads} --undo --prefix {params.prefix} > {log} 2>&1
             # iqtree generates multiple files, snakemake will check for the .treefile
         else
             echo "Not enough sequences to build a tree." > {log}
