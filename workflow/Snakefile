@@ -283,3 +283,79 @@ rule infer_phylogeny:
             touch {output.tree}
         fi
         """
+
+rule blastn_sam:
+    input:
+        fasta = "results/queries/{gbk}_{target}.fasta",
+        db_dir = "resources/blast_dbs/{genome}"
+    output:
+        sam = "results/snp_check/{genome}_{gbk}_{target}.sam"
+    benchmark:
+        "execution_reports/benchmarks/snp_check/{genome}_{gbk}_{target}.txt"
+    log:
+        "execution_reports/logs/snp_check/{genome}_{gbk}_{target}.log"
+    conda:
+        "envs/blast.yaml"
+    threads: 4
+    resources:
+        mem_mb=4000,
+        runtime=60
+    params:
+        db = "resources/blast_dbs/{genome}/{genome}",
+        hspcov = config["blast_params"]["hspcoverage"],
+        ident = config["blast_params"]["identity"],
+        evalue = config["blast_params"]["evalue"]
+    shell:
+        """
+        # Se o FASTA de query estiver vazio, criamos um output vazio para não quebrar o pipeline
+        if [ ! -s {input.fasta} ]; then
+            echo "Aviso: {input.fasta} vazio, ignorando BLAST." > {log} 2>&1
+            touch {output.sam}
+        else
+            echo "Rodando BLAST local para {wildcards.target} contra {wildcards.genome}..." > {log} 2>&1
+            blastn -db {params.db} \\
+                   -query {input.fasta} \\
+                   -out {output.sam} \\
+                   -outfmt 17 \\
+                   -qcov_hsp_perc {params.hspcov} \\
+                   -num_threads {threads} \\
+                   -evalue {params.evalue} >> {log} 2>&1 || touch {output.sam}
+        fi
+        """
+
+rule index_sam_bam:
+    input:
+        sam = "results/snp_check/{genome}_{gbk}_{target}.sam"
+    output:
+        bam = "results/snp_check/{genome}_{gbk}_{target}.bam" 
+        #sam = "results/snp_check/{genome}_{gbk}_{target}.sam"
+    benchmark:
+        "execution_reports/benchmarks/index_sam_bam/{genome}_{gbk}_{target}.txt"
+    log:
+        "execution_reports/logs/index_sam_bam/{genome}_{gbk}_{target}_index_sam_bam.log"
+    conda:
+        "envs/samtools.yaml"
+    threads: 1
+    shell:
+        """
+        samtools sort -O BAM -o {output.bam} {input.sam}
+        samtools index {output.bam}
+        """
+
+rule vcf_caller:
+    input:
+        bam = "results/snp_check/{genome}_{gbk}_{target}.bam" 
+        fasta = "results/queries/{gbk}_{target}.fasta"
+    output:
+        vcf = ""
+    benchmark:
+    log:
+    conda:
+    threads:
+    shell:
+# 1. Indexe o FASTA do seu gene
+samtools faidx gene_alvo.fasta
+
+# 2. Chame os SNPs
+bcftools mpileup -f gene_alvo.fasta alinhamento_gene.bam --min-BQ 0 | \
+  bcftools call -mv -Ov -o snps_do_gene.vcf
